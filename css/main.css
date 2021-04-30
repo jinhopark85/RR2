@@ -1066,4 +1066,7 @@ input, button {
   }
 }
 
-/*# sourceMappingURL=Searchs_132.css.map */
+.grid-container {
+  display: grid;
+}
+
