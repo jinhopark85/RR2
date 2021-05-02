@@ -16,6 +16,7 @@ html {
 
 body {
   margin: 0;
+  background-color: #666;
 }
 
 /**
@@ -833,20 +834,20 @@ input, button {
 }
 
 .s132 {
-  min-height: 100vh;
+  min-height: 20vh;
   display: -ms-flexbox;
   display: flex;
   -ms-flex-pack: center;
   justify-content: center;
-  /* -ms-flex-align: center; */
-  /* align-items: center; */
+  -ms-flex-align: center;
+  align-items: center;
   font-family: 'Poppins', sans-serif;
   background: url("../images/emblem.png");
-  background-size: 20%;
+  background-size: 10%;
   background-repeat: no-repeat;
   background-position: center center;
   padding: 15px;
-  background-color: #333;
+  background-color: #666;
 }
 
 .s132 form {
@@ -1068,5 +1069,8 @@ input, button {
 
 .grid-container {
   display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px 0;
+  justify-content: space-between;
+  justify-items: center;
 }
-
