@@ -1,5 +1,5 @@
 import SearchInput from './SearchInput.js';
-// import SearchResult from './SearchResult.js';
+import SearchResult from './SearchResult.js';
 
 export default class App {
 	constructor({ keyword, $targetInput, $targetResult }) {
@@ -8,10 +8,21 @@ export default class App {
     this.$targetResult = $targetResult;
 
     this.searchInput = new SearchInput({
+      keyword,
       $targetInput,
-      onInput: (text) => {
-        console.log(text)
+      onInput: (nextKeyword) => {
+        this.setState(nextKeyword);
       }
     })
-	}
+
+    this.searchResult = new SearchResult({
+      keyword,
+      $targetResult,
+    })
+  }
+  
+  setState(nextKeyword) {
+    this.keyword = nextKeyword;
+    this.searchResult.setState(this.keyword);
+  }
 }

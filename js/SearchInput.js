@@ -12,11 +12,9 @@ export default class SearchInput {
     });
 
     this.$targetInput.addEventListener("keypress", (e) => {
-			console.log(e.target.value);
-			console.log(e.key);
+			e.preventDefault();
 			if (e.key !== "Enter" || e.key.value === "") return;
 			onInput(e.target.value);
-			e.preventDefault();
 		});
   }
 }
