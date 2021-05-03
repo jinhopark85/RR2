@@ -22,10 +22,10 @@ export default class SearchInput {
 		});
 
 		this.$targetInput.addEventListener("keypress", (e) => {
-			e.preventDefault();
-			if (e.key !== "Enter" || e.key.value === "") return;
+			if (e.key !== "Enter") return;
 			if (e.target.value.length > 1) {
 				onInput(e.target.value, this.type);
+				e.preventDefault();
 			}
 		});
 
