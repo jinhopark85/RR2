@@ -2,29 +2,42 @@ import SearchInput from "./SearchInput.js";
 import SearchResult from "./SearchResult.js";
 
 export default class App {
-	constructor({ keyword, $targetInput, $targetButton, $targetResult }) {
+	constructor({
+		keyword,
+		type,
+		$targetOptions,
+		$targetInput,
+		$targetButton,
+		$targetResult,
+	}) {
 		this.keyword = keyword;
+		this.type = type;
+		this.$targetOptions = $targetOptions;
 		this.$targetInput = $targetInput;
 		this.$targetButton = $targetButton;
 		this.$targetResult = $targetResult;
 
 		this.searchInput = new SearchInput({
-			keyword,
-      $targetInput,
-      $targetButton,
-			onInput: (nextKeyword) => {
-				this.setState(nextKeyword);
+      keyword,
+      type,
+			$targetOptions,
+			$targetInput,
+			$targetButton,
+			onInput: (nextKeyword, nextType) => {
+				this.setState(nextKeyword, nextType);
 			},
 		});
 
 		this.searchResult = new SearchResult({
-			keyword,
+      keyword,
+      type,
 			$targetResult,
 		});
 	}
 
-	setState(nextKeyword) {
+	setState(nextKeyword, nextType) {
 		this.keyword = nextKeyword;
-		this.searchResult.setState(this.keyword);
+    this.type = nextType;
+		this.searchResult.setState(this.keyword, this.type);
 	}
 }

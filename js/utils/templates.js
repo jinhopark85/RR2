@@ -1,7 +1,15 @@
-export const SearchResultTemplate = (results) => {
+export const SearchResultTemplate = (results, option) => {
 	const temp = results
 		.map((result) => {
 			const { heroGear, type, url, collection, level, set, number } = result;
+			let selectedType = "Type";
+			if (option === "Normal") {
+				selectedType = "일반";
+			} else if (option === "Pro") {
+				selectedType = "프로";
+			}
+			if (selectedType !== "Type" && type !== selectedType) return;
+
 			return `
       <div>
           <img src=${url} alt="이미지">
@@ -17,7 +25,7 @@ export const SearchResultTemplate = (results) => {
 		.join("");
 	return `
     <div class="grid-container">
-      ${temp.length > 0 ? temp : '검색결과가 없습니다'}
+      ${temp.length > 0 ? temp : "검색결과가 없습니다"}
     </div>
   `;
 };

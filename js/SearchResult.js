@@ -3,18 +3,18 @@ import { data } from './utils/mockup.js';
 import { filteredData } from './utils/functions.js';
 
 export default class SearchResult {
-  constructor({ keyword, $targetResult }) {
+  constructor({ keyword, type, $targetResult }) {
     this.keyword = keyword;
+    this.type = type;
     this.$targetResult = $targetResult;
-
-    // this.render();
   }
-  setState(nextKeyword) {
+  setState(nextKeyword, nextType) {
     this.keyword = nextKeyword;
+    this.type = nextType;
     this.render();
   }
   render() {
     const nextData = filteredData(this.keyword, data);
-    this.$targetResult.innerHTML = SearchResultTemplate(nextData);
+    this.$targetResult.innerHTML = SearchResultTemplate(nextData, this.type);
   }
 }
