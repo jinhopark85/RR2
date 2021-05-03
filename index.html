@@ -1,55 +1,56 @@
 <!-- <!DOCTYPE html> -->
 <html lang="en">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="author" content="colorlib.com">
-    <title>RR2 KOREA.</title>
-    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400" rel="stylesheet" />
-    <link href="css/main.css" rel="stylesheet" />
-  </head>
 
-  <body>
-    <div class="s132">
-      <form>
-        <div class="inner-form">
-          <div class="input-field first-wrap">
-            <div class="input-select">
-              <select class="input-options" data-trigger="" name="choices-single-default">
-                <option placeholder="">Type</option>
-                <option>Normal</option>
-                <option>Pro</option>
-              </select>
-            </div>
-          </div>
-          <div class="input-field second-wrap">
-            <input id="search" type="text" placeholder="한글 아이템명 입력(두글자 이상, 띄어쓰기X)" />
-          </div>
-          <div class="input-field third-wrap">
-            <button class="btn-search" type="button">Search</button>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="author" content="colorlib.com">
+  <title>RR2 KOREA.</title>
+  <link href="https://fonts.googleapis.com/css?family=Poppins:300,400" rel="stylesheet" />
+  <link href="css/main.css" rel="stylesheet" />
+</head>
+
+<body>
+  <div class="s132">
+    <form>
+      <div class="inner-form">
+        <div class="input-field first-wrap">
+          <div class="input-select">
+            <select class="input-options" data-trigger="" name="choices-single-default">
+              <option placeholder="">Type</option>
+              <option>Normal</option>
+              <option>Pro</option>
+            </select>
           </div>
         </div>
-      </form>
-    </div>
-    <section class="search-result">
-      <div class="grid-container">
+        <div class="input-field second-wrap">
+          <input id="search" type="text" placeholder="한글 아이템명 입력(두글자 이상, 띄어쓰기X)" style="ime-mode:active" />
+        </div>
+        <div class="input-field third-wrap">
+          <button class="btn-search" type="button">Search</button>
+        </div>
       </div>
-    </section>
-    <footer class="footer">
-      <h4>Reference: Royal Revolt 2 Wiki https://royal-revolt-2.fandom.com (Last Update 2021-4-15)</h4>
-      <h5>© hahehuheho KOREA. 2021</h5>
-    </footer>
-    <script src="js/extension/choices.js"></script>
-    <script>
-      const choices = new Choices('[data-trigger]',
-        {
-          searchEnabled: false,
-          itemSelectText: '',
-        });
+    </form>
+  </div>
+  <section class="search-result">
+    <div class="grid-container">
+    </div>
+  </section>
+  <footer class="footer">
+    <h4>Reference: Royal Revolt 2 Wiki https://royal-revolt-2.fandom.com (Last Update 2021-4-15)</h4>
+    <h5>© hahehuheho KOREA. 2021</h5>
+  </footer>
+  <script src="js/extension/choices.js"></script>
+  <script>
+    const choices = new Choices('[data-trigger]',
+      {
+        searchEnabled: false,
+        itemSelectText: '',
+      });
+  </script>
+  <script type="module" src="js/main.js"></script>
+</body>
+<!-- This templates was made by Colorlib (https://colorlib.com) -->
 
-    </script>
-    <script type="module" src="js/main.js"></script>
-  </body>
-  <!-- This templates was made by Colorlib (https://colorlib.com) -->
 </html>

@@ -1,7 +1,7 @@
 export default class SearchInput {
 	constructor({
-    keyword,
-    type,
+		keyword,
+		type,
 		$targetOptions,
 		$targetInput,
 		$targetButton,
@@ -25,13 +25,15 @@ export default class SearchInput {
 			e.preventDefault();
 			if (e.key !== "Enter" || e.key.value === "") return;
 			if (e.target.value.length > 1) {
-        console.log(this.type);
 				onInput(e.target.value, this.type);
 			}
 		});
 
 		this.$targetButton.addEventListener("click", () => {
-			if (this.$targetInput.value.length < 2) return;
+			if (this.$targetInput.value.length < 2) {
+				alert("두글자 이상 입력해주세요");
+				return;
+			}
 			onInput(this.$targetInput.value, this.type);
 		});
 	}
