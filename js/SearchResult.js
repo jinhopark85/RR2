@@ -7,13 +7,14 @@ export default class SearchResult {
     this.keyword = keyword;
     this.$targetResult = $targetResult;
 
-    this.render();
+    // this.render();
   }
   setState(nextKeyword) {
     this.keyword = nextKeyword;
     this.render();
   }
   render() {
-    this.$targetResult.innerHTML = SearchResultTemplate(filteredData(this.keyword, data));
+    const nextData = filteredData(this.keyword, data);
+    this.$targetResult.innerHTML = SearchResultTemplate(nextData);
   }
 }
