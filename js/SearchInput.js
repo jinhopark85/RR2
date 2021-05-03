@@ -21,11 +21,12 @@ export default class SearchInput {
 			this.type = e.target.value;
 		});
 
-		this.$targetInput.addEventListener("keypress", (e) => {
+		this.$targetInput.addEventListener("keydown", (e) => {
 			if (e.key !== "Enter") return;
+			
 			if (e.target.value.length > 1) {
-				onInput(e.target.value, this.type);
 				e.preventDefault();
+				onInput(e.target.value, this.type);
 			}
 		});
 
@@ -35,6 +36,7 @@ export default class SearchInput {
 				return;
 			}
 			onInput(this.$targetInput.value, this.type);
+			e.preventDefault();
 		});
 	}
 }
