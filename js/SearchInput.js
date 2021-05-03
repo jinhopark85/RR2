@@ -36,7 +36,6 @@ export default class SearchInput {
 				return;
 			}
 			onInput(this.$targetInput.value, this.type);
-			e.preventDefault();
 		});
 	}
 }
