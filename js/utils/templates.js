@@ -17,7 +17,7 @@ export const SearchResultTemplate = (results) => {
 		.join("");
 	return `
     <div class="grid-container">
-      ${temp}
+      ${temp.length > 0 ? temp : '검색결과가 없습니다'}
     </div>
   `;
 };
