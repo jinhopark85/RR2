@@ -78,7 +78,7 @@ hr {
  */
 
 pre {
-  font-family: monospace, monospace;
+  /* font-family: monospace, monospace; */
   /* 1 */
   font-size: 1em;
   /* 2 */
@@ -135,7 +135,7 @@ b, strong {
  */
 
 code, kbd, samp {
-  font-family: monospace, monospace;
+  /* font-family: monospace, monospace; */
   /* 1 */
   font-size: 1em;
   /* 2 */
@@ -231,7 +231,7 @@ svg:not(:root) {
  */
 
 button, input, optgroup, select, textarea {
-  font-family: sans-serif;
+  /* font-family: sans-serif; */
   /* 1 */
   font-size: 100%;
   /* 1 */
@@ -826,7 +826,7 @@ legend {
 /*=====  End of Choices  ======*/
 
 input, button {
-  font-family: 'Poppins', sans-serif;
+  /* font-family: 'Poppins', sans-serif; */
 }
 
 * {
@@ -841,7 +841,7 @@ input, button {
   justify-content: center;
   -ms-flex-align: center;
   align-items: center;
-  font-family: 'Poppins', sans-serif;
+  /* font-family: 'Poppins', sans-serif; */
   /* background: url("../images/emblem.png");
   background-size: 10%;
   background-repeat: no-repeat;
