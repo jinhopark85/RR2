@@ -842,10 +842,10 @@ input, button {
   -ms-flex-align: center;
   align-items: center;
   font-family: 'Poppins', sans-serif;
-  background: url("../images/emblem.png");
+  /* background: url("../images/emblem.png");
   background-size: 10%;
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: center center; */
   padding: 15px;
   background-color: #666;
 }
@@ -1067,6 +1067,13 @@ input, button {
   }
 }
 
+.backgroundImage {
+  background: url("../images/emblem.png");
+  background-size: 25%;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
 .grid-container {
   min-height: 70vh;
   display: grid;
@@ -1079,4 +1086,3 @@ input, button {
 .footer {
   text-align: center;
 }
-

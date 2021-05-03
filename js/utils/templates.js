@@ -23,7 +23,7 @@ export const SearchResultTemplate = (results, option) => {
       `;
 		})
 		.join("");
-	return `
+  return `
     <div class="grid-container">
       ${temp.length > 0 ? temp : "검색결과가 없습니다"}
     </div>
