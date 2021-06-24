@@ -1,5 +1,5 @@
 import { SearchResultTemplate } from './utils/templates.js';
-import { data } from './utils/mockup.js';
+import { data } from './utils/items.js';
 import { filteredData } from './utils/functions.js';
 
 export default class SearchResult {
