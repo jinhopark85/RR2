@@ -15,6 +15,90 @@ export const data = [
  },
  {
    "id": 2,
+   "heroGearEnglish": "🏏 (Cricket Bat)",
+   "heroGear": "크리켓배트",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e7/CricketBat.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Oddball Set II",
+   "set": "괴짜세트2",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 3,
+   "heroGearEnglish": "🏏 (Cricket Bat)",
+   "heroGear": "크리켓배트",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e7/CricketBat.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Oddball Set II",
+   "set": "괴짜세트2",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 4,
+   "heroGearEnglish": "👽 (Alien Head)",
+   "heroGear": "외계인머리",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/ce/AlienHead.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Oddball Set II",
+   "set": "괴짜세트2",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 5,
+   "heroGearEnglish": "👽 (Alien Head)",
+   "heroGear": "외계인머리",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/ce/AlienHead.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Oddball Set II",
+   "set": "괴짜세트2",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 6,
+   "heroGearEnglish": "🔪 (Jason Mask)",
+   "heroGear": "제이슨마스크",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/9/9e/JasonMask.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Oddball Set II",
+   "set": "괴짜세트2",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 7,
+   "heroGearEnglish": "🔪 (Jason Mask)",
+   "heroGear": "제이슨마스크",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/9/9e/JasonMask.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Oddball Set II",
+   "set": "괴짜세트2",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 8,
    "heroGearEnglish": "🦋 (Butterfly)",
    "heroGear": "나비",
    "type": "일반",
@@ -28,7 +112,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 3,
+   "id": 9,
    "heroGearEnglish": "🦋 (Butterfly)",
    "heroGear": "나비",
    "type": "일반",
@@ -42,7 +126,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 4,
+   "id": 10,
    "heroGearEnglish": "A Leader's Hood",
    "heroGear": "지도자의후드",
    "type": "일반",
@@ -56,7 +140,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 5,
+   "id": 11,
    "heroGearEnglish": "A Leader's Hood",
    "heroGear": "지도자의후드",
    "type": "일반",
@@ -70,7 +154,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 6,
+   "id": 12,
    "heroGearEnglish": "A Leader's Hood (Pro)",
    "heroGear": "지도자의후드",
    "type": "프로",
@@ -84,7 +168,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 7,
+   "id": 13,
    "heroGearEnglish": "A Leader's Hood (Pro)",
    "heroGear": "지도자의후드",
    "type": "프로",
@@ -98,7 +182,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 8,
+   "id": 14,
    "heroGearEnglish": "Aion's Hammer (Pro)",
    "heroGear": "아이온의망치",
    "type": "프로",
@@ -112,7 +196,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 9,
+   "id": 15,
    "heroGearEnglish": "Aion's Hammer (Pro)",
    "heroGear": "아이온의망치",
    "type": "프로",
@@ -126,7 +210,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 10,
+   "id": 16,
    "heroGearEnglish": "Aion's Mace (Pro)",
    "heroGear": "아이온의철퇴",
    "type": "프로",
@@ -140,7 +224,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 11,
+   "id": 17,
    "heroGearEnglish": "Aion's Mace (Pro)",
    "heroGear": "아이온의철퇴",
    "type": "프로",
@@ -154,7 +238,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 12,
+   "id": 18,
    "heroGearEnglish": "Aion's Mace (Pro)",
    "heroGear": "아이온의철퇴",
    "type": "프로",
@@ -168,7 +252,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 13,
+   "id": 19,
    "heroGearEnglish": "Aion's Scepter (Pro)",
    "heroGear": "아이온의홀",
    "type": "프로",
@@ -182,7 +266,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 14,
+   "id": 20,
    "heroGearEnglish": "Aion's Scepter (Pro)",
    "heroGear": "아이온의홀",
    "type": "프로",
@@ -196,7 +280,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 15,
+   "id": 21,
    "heroGearEnglish": "Aion's Trident (Pro)",
    "heroGear": "아이온의삼지창",
    "type": "프로",
@@ -210,7 +294,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 16,
+   "id": 22,
    "heroGearEnglish": "Aion's Trident (Pro)",
    "heroGear": "아이온의삼지창",
    "type": "프로",
@@ -224,7 +308,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 17,
+   "id": 23,
    "heroGearEnglish": "Aion's Trident (Pro)",
    "heroGear": "아이온의삼지창",
    "type": "프로",
@@ -238,7 +322,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 18,
+   "id": 24,
    "heroGearEnglish": "Aki's Agility",
    "heroGear": "아키의민첩성",
    "type": "일반",
@@ -252,7 +336,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 19,
+   "id": 25,
    "heroGearEnglish": "Aki's Agility",
    "heroGear": "아키의민첩성",
    "type": "일반",
@@ -266,7 +350,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 20,
+   "id": 26,
    "heroGearEnglish": "Aki's Agility",
    "heroGear": "아키의민첩성",
    "type": "일반",
@@ -280,119 +364,175 @@ export const data = [
    "number": 1
  },
  {
-   "id": 21,
-   "heroGearEnglish": "Alabaster's Vigilance",
-   "heroGear": "알라바스터의경계",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/1f/Alabaster%27sVigilance.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 3,
-   "setEnglish": "Christmas Elf Set",
-   "set": "크리스마스요정세트",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 22,
-   "heroGearEnglish": "Alabaster's Vigilance",
-   "heroGear": "알라바스터의경계",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/1f/Alabaster%27sVigilance.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Christmas Elf Set",
-   "set": "크리스마스요정세트",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 23,
-   "heroGearEnglish": "Alabaster's Vigilance (Pro)",
-   "heroGear": "알라바스터의경계",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/64/AlabastersVigilancePro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 3,
-   "setEnglish": "Christmas Elf Set (Pro)",
-   "set": "크리스마스요정세트(프로)",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 24,
-   "heroGearEnglish": "Alabaster's Vigilance (Pro)",
-   "heroGear": "알라바스터의경계",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/64/AlabastersVigilancePro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Christmas Elf Set (Pro)",
-   "set": "크리스마스요정세트(프로)",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 25,
-   "heroGearEnglish": "Anvil Kicks",
-   "heroGear": "모루신발",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d0/AnvilKicks.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 1,
-   "setEnglish": "Blacksmith Set",
-   "set": "대장장이세트",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 26,
-   "heroGearEnglish": "Anvil Kicks",
-   "heroGear": "모루신발",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d0/AnvilKicks.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Blacksmith Set",
-   "set": "대장장이세트",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
    "id": 27,
-   "heroGearEnglish": "Anvil Kicks",
-   "heroGear": "모루신발",
+   "heroGearEnglish": "Alabaster's Vigilance",
+   "heroGear": "알라바스터의경계",
    "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d0/AnvilKicks.png",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/1f/Alabaster%27sVigilance.png",
    "collectionEnglish": "Hero Items",
    "collection": "영웅아이템",
-   "level": 5,
-   "setEnglish": "Blacksmith Set",
-   "set": "대장장이세트",
-   "released": "LSU: 04.02.2021",
-   "number": 2
+   "level": 3,
+   "setEnglish": "Christmas Elf Set",
+   "set": "크리스마스요정세트",
+   "released": "LSU: 10.12.2020",
+   "number": 1
  },
  {
    "id": 28,
-   "heroGearEnglish": "Anvil Kicks (Pro)",
-   "heroGear": "모루신발",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/55/AnvilKicksPro.png",
+   "heroGearEnglish": "Alabaster's Vigilance",
+   "heroGear": "알라바스터의경계",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/1f/Alabaster%27sVigilance.png",
    "collectionEnglish": "Hero Items",
    "collection": "영웅아이템",
-   "level": 1,
-   "setEnglish": "Blacksmith Set (Pro)",
-   "set": "대장장이세트(프로)",
+   "level": 4,
+   "setEnglish": "Christmas Elf Set",
+   "set": "크리스마스요정세트",
    "released": "LSU: 10.12.2020",
    "number": 1
  },
  {
    "id": 29,
+   "heroGearEnglish": "Alabaster's Vigilance (Pro)",
+   "heroGear": "알라바스터의경계",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/64/AlabastersVigilancePro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Christmas Elf Set (Pro)",
+   "set": "크리스마스요정세트(프로)",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 30,
+   "heroGearEnglish": "Alabaster's Vigilance (Pro)",
+   "heroGear": "알라바스터의경계",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/64/AlabastersVigilancePro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Christmas Elf Set (Pro)",
+   "set": "크리스마스요정세트(프로)",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 31,
+   "heroGearEnglish": "Andvari's Ring",
+   "heroGear": "안드바리의반지",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/66/Andvari%27sRing.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Viking Set",
+   "set": "바이킹세트",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 32,
+   "heroGearEnglish": "Andvari's Ring",
+   "heroGear": "안드바리의반지",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/66/Andvari%27sRing.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Viking Set",
+   "set": "바이킹세트",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 33,
+   "heroGearEnglish": "Andvari's Ring (Pro)",
+   "heroGear": "안드바리의반지",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/7/7b/Andvari%27sRingPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Viking Set (Pro)",
+   "set": "바이킹세트(프로)",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 34,
+   "heroGearEnglish": "Andvari's Ring (Pro)",
+   "heroGear": "안드바리의반지",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/7/7b/Andvari%27sRingPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Viking Set (Pro)",
+   "set": "바이킹세트(프로)",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 35,
+   "heroGearEnglish": "Anvil Kicks",
+   "heroGear": "모루신발",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d0/AnvilKicks.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Blacksmith Set",
+   "set": "대장장이세트",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 36,
+   "heroGearEnglish": "Anvil Kicks",
+   "heroGear": "모루신발",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d0/AnvilKicks.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Blacksmith Set",
+   "set": "대장장이세트",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 37,
+   "heroGearEnglish": "Anvil Kicks",
+   "heroGear": "모루신발",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d0/AnvilKicks.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Blacksmith Set",
+   "set": "대장장이세트",
+   "released": "LSU: 04.02.2021",
+   "number": 2
+ },
+ {
+   "id": 38,
+   "heroGearEnglish": "Anvil Kicks (Pro)",
+   "heroGear": "모루신발",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/55/AnvilKicksPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Blacksmith Set (Pro)",
+   "set": "대장장이세트(프로)",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 39,
    "heroGearEnglish": "Anvil Kicks (Pro)",
    "heroGear": "모루신발",
    "type": "프로",
@@ -406,7 +546,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 30,
+   "id": 40,
    "heroGearEnglish": "Anvil Kicks (Pro)",
    "heroGear": "모루신발",
    "type": "프로",
@@ -420,154 +560,14 @@ export const data = [
    "number": 2
  },
  {
-   "id": 31,
-   "heroGearEnglish": "Apollon Armor (Pro)",
-   "heroGear": "아폴론갑옷",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d6/ApollonArmor.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 2,
-   "setEnglish": "Apollon Set",
-   "set": "아폴론세트",
-   "released": "LSU: 04.02.2021",
-   "number": 1
- },
- {
-   "id": 32,
-   "heroGearEnglish": "Apollon Armor (Pro)",
-   "heroGear": "아폴론갑옷",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d6/ApollonArmor.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Apollon Set",
-   "set": "아폴론세트",
-   "released": "LSU: 04.02.2021",
-   "number": 1
- },
- {
-   "id": 33,
-   "heroGearEnglish": "Apollon Armor (Pro)",
-   "heroGear": "아폴론갑옷",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d6/ApollonArmor.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 5,
-   "setEnglish": "Apollon Set",
-   "set": "아폴론세트",
-   "released": "LSU: 01.04.2021",
-   "number": 2
- },
- {
-   "id": 34,
-   "heroGearEnglish": "Apollon Belt (Pro)",
-   "heroGear": "아폴론벨트",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/0d/ApollonBelt.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 1,
-   "setEnglish": "Apollon Set",
-   "set": "아폴론세트",
-   "released": "LSU: 04.02.2021",
-   "number": 1
- },
- {
-   "id": 35,
-   "heroGearEnglish": "Apollon Belt (Pro)",
-   "heroGear": "아폴론벨트",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/0d/ApollonBelt.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Apollon Set",
-   "set": "아폴론세트",
-   "released": "LSU: 04.02.2021",
-   "number": 1
- },
- {
-   "id": 36,
-   "heroGearEnglish": "Apollon Belt (Pro)",
-   "heroGear": "아폴론벨트",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/0d/ApollonBelt.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 5,
-   "setEnglish": "Apollon Set",
-   "set": "아폴론세트",
-   "released": "LSU: 01.04.2021",
-   "number": 2
- },
- {
-   "id": 37,
-   "heroGearEnglish": "Apollon Boots (Pro)",
-   "heroGear": "아폴론부츠",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/68/ApollonBoots.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 1,
-   "setEnglish": "Apollon Set",
-   "set": "아폴론세트",
-   "released": "LSU: 04.02.2021",
-   "number": 1
- },
- {
-   "id": 38,
-   "heroGearEnglish": "Apollon Boots (Pro)",
-   "heroGear": "아폴론부츠",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/68/ApollonBoots.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Apollon Set",
-   "set": "아폴론세트",
-   "released": "LSU: 04.02.2021",
-   "number": 1
- },
- {
-   "id": 39,
-   "heroGearEnglish": "Apollon Boots (Pro)",
-   "heroGear": "아폴론부츠",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/68/ApollonBoots.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 5,
-   "setEnglish": "Apollon Set",
-   "set": "아폴론세트",
-   "released": "LSU: 01.04.2021",
-   "number": 2
- },
- {
-   "id": 40,
-   "heroGearEnglish": "Apollon Cape (Pro)",
-   "heroGear": "아폴론망토",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/9/9f/ApollonCape.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 2,
-   "setEnglish": "Apollon Set",
-   "set": "아폴론세트",
-   "released": "LSU: 04.02.2021",
-   "number": 1
- },
- {
    "id": 41,
-   "heroGearEnglish": "Apollon Cape (Pro)",
-   "heroGear": "아폴론망토",
+   "heroGearEnglish": "Apollon Armor (Pro)",
+   "heroGear": "아폴론갑옷",
    "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/9/9f/ApollonCape.png",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d6/ApollonArmor.png",
    "collectionEnglish": "Hero Items",
    "collection": "영웅아이템",
-   "level": 4,
+   "level": 2,
    "setEnglish": "Apollon Set",
    "set": "아폴론세트",
    "released": "LSU: 04.02.2021",
@@ -575,6 +575,146 @@ export const data = [
  },
  {
    "id": 42,
+   "heroGearEnglish": "Apollon Armor (Pro)",
+   "heroGear": "아폴론갑옷",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d6/ApollonArmor.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Apollon Set",
+   "set": "아폴론세트",
+   "released": "LSU: 04.02.2021",
+   "number": 1
+ },
+ {
+   "id": 43,
+   "heroGearEnglish": "Apollon Armor (Pro)",
+   "heroGear": "아폴론갑옷",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d6/ApollonArmor.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Apollon Set",
+   "set": "아폴론세트",
+   "released": "LSU: 01.04.2021",
+   "number": 2
+ },
+ {
+   "id": 44,
+   "heroGearEnglish": "Apollon Belt (Pro)",
+   "heroGear": "아폴론벨트",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/0d/ApollonBelt.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Apollon Set",
+   "set": "아폴론세트",
+   "released": "LSU: 04.02.2021",
+   "number": 1
+ },
+ {
+   "id": 45,
+   "heroGearEnglish": "Apollon Belt (Pro)",
+   "heroGear": "아폴론벨트",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/0d/ApollonBelt.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Apollon Set",
+   "set": "아폴론세트",
+   "released": "LSU: 04.02.2021",
+   "number": 1
+ },
+ {
+   "id": 46,
+   "heroGearEnglish": "Apollon Belt (Pro)",
+   "heroGear": "아폴론벨트",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/0d/ApollonBelt.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Apollon Set",
+   "set": "아폴론세트",
+   "released": "LSU: 01.04.2021",
+   "number": 2
+ },
+ {
+   "id": 47,
+   "heroGearEnglish": "Apollon Boots (Pro)",
+   "heroGear": "아폴론부츠",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/68/ApollonBoots.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Apollon Set",
+   "set": "아폴론세트",
+   "released": "LSU: 04.02.2021",
+   "number": 1
+ },
+ {
+   "id": 48,
+   "heroGearEnglish": "Apollon Boots (Pro)",
+   "heroGear": "아폴론부츠",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/68/ApollonBoots.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Apollon Set",
+   "set": "아폴론세트",
+   "released": "LSU: 04.02.2021",
+   "number": 1
+ },
+ {
+   "id": 49,
+   "heroGearEnglish": "Apollon Boots (Pro)",
+   "heroGear": "아폴론부츠",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/68/ApollonBoots.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Apollon Set",
+   "set": "아폴론세트",
+   "released": "LSU: 01.04.2021",
+   "number": 2
+ },
+ {
+   "id": 50,
+   "heroGearEnglish": "Apollon Cape (Pro)",
+   "heroGear": "아폴론망토",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/9/9f/ApollonCape.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Apollon Set",
+   "set": "아폴론세트",
+   "released": "LSU: 04.02.2021",
+   "number": 1
+ },
+ {
+   "id": 51,
+   "heroGearEnglish": "Apollon Cape (Pro)",
+   "heroGear": "아폴론망토",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/9/9f/ApollonCape.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Apollon Set",
+   "set": "아폴론세트",
+   "released": "LSU: 04.02.2021",
+   "number": 1
+ },
+ {
+   "id": 52,
    "heroGearEnglish": "Apollon Cape (Pro)",
    "heroGear": "아폴론망토",
    "type": "프로",
@@ -588,7 +728,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 43,
+   "id": 53,
    "heroGearEnglish": "Apollon Gloves (Pro)",
    "heroGear": "아폴론장갑",
    "type": "프로",
@@ -602,7 +742,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 44,
+   "id": 54,
    "heroGearEnglish": "Apollon Gloves (Pro)",
    "heroGear": "아폴론장갑",
    "type": "프로",
@@ -616,7 +756,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 45,
+   "id": 55,
    "heroGearEnglish": "Apollon Gloves (Pro)",
    "heroGear": "아폴론장갑",
    "type": "프로",
@@ -630,7 +770,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 46,
+   "id": 56,
    "heroGearEnglish": "Apollon Helmet (Pro)",
    "heroGear": "아폴론투구",
    "type": "프로",
@@ -644,7 +784,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 47,
+   "id": 57,
    "heroGearEnglish": "Apollon Helmet (Pro)",
    "heroGear": "아폴론투구",
    "type": "프로",
@@ -658,7 +798,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 48,
+   "id": 58,
    "heroGearEnglish": "Apollon Helmet (Pro)",
    "heroGear": "아폴론투구",
    "type": "프로",
@@ -672,7 +812,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 49,
+   "id": 59,
    "heroGearEnglish": "Apollon Pauldrons (Pro)",
    "heroGear": "아폴론견갑",
    "type": "프로",
@@ -686,7 +826,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 50,
+   "id": 60,
    "heroGearEnglish": "Apollon Pauldrons (Pro)",
    "heroGear": "아폴론견갑",
    "type": "프로",
@@ -700,7 +840,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 51,
+   "id": 61,
    "heroGearEnglish": "Apollon Pauldrons (Pro)",
    "heroGear": "아폴론견갑",
    "type": "프로",
@@ -714,7 +854,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 52,
+   "id": 62,
    "heroGearEnglish": "Apollon Ring (Pro)",
    "heroGear": "아폴론반지",
    "type": "프로",
@@ -728,7 +868,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 53,
+   "id": 63,
    "heroGearEnglish": "Apollon Ring (Pro)",
    "heroGear": "아폴론반지",
    "type": "프로",
@@ -742,7 +882,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 54,
+   "id": 64,
    "heroGearEnglish": "Apollon Ring (Pro)",
    "heroGear": "아폴론반지",
    "type": "프로",
@@ -756,7 +896,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 55,
+   "id": 65,
    "heroGearEnglish": "Apollon Sword (Pro)",
    "heroGear": "아폴론검",
    "type": "프로",
@@ -770,7 +910,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 56,
+   "id": 66,
    "heroGearEnglish": "Apollon Sword (Pro)",
    "heroGear": "아폴론검",
    "type": "프로",
@@ -784,7 +924,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 57,
+   "id": 67,
    "heroGearEnglish": "Apollon Sword (Pro)",
    "heroGear": "아폴론검",
    "type": "프로",
@@ -798,7 +938,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 58,
+   "id": 68,
    "heroGearEnglish": "Archimedes' Wisdom",
    "heroGear": "아르키메데스의지혜",
    "type": "일반",
@@ -812,7 +952,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 59,
+   "id": 69,
    "heroGearEnglish": "Archimedes' Wisdom",
    "heroGear": "아르키메데스의지혜",
    "type": "일반",
@@ -826,7 +966,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 60,
+   "id": 70,
    "heroGearEnglish": "Archimedes' Wisdom",
    "heroGear": "아르키메데스의지혜",
    "type": "일반",
@@ -840,7 +980,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 61,
+   "id": 71,
    "heroGearEnglish": "Archmage Circlet",
    "heroGear": "대마법사의서클릿",
    "type": "일반",
@@ -854,7 +994,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 62,
+   "id": 72,
    "heroGearEnglish": "Ares Armor (Pro)",
    "heroGear": "아레스갑옷",
    "type": "프로",
@@ -868,7 +1008,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 63,
+   "id": 73,
    "heroGearEnglish": "Ares Armor (Pro)",
    "heroGear": "아레스갑옷",
    "type": "프로",
@@ -882,7 +1022,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 64,
+   "id": 74,
    "heroGearEnglish": "Ares Belt (Pro)",
    "heroGear": "아레스벨트",
    "type": "프로",
@@ -896,7 +1036,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 65,
+   "id": 75,
    "heroGearEnglish": "Ares Belt (Pro)",
    "heroGear": "아레스벨트",
    "type": "프로",
@@ -910,7 +1050,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 66,
+   "id": 76,
    "heroGearEnglish": "Ares Boots (Pro)",
    "heroGear": "아레스부츠",
    "type": "프로",
@@ -924,7 +1064,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 67,
+   "id": 77,
    "heroGearEnglish": "Ares Boots (Pro)",
    "heroGear": "아레스부츠",
    "type": "프로",
@@ -938,7 +1078,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 68,
+   "id": 78,
    "heroGearEnglish": "Ares Cape (Pro)",
    "heroGear": "아레스망토",
    "type": "프로",
@@ -952,7 +1092,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 69,
+   "id": 79,
    "heroGearEnglish": "Ares Cape (Pro)",
    "heroGear": "아레스망토",
    "type": "프로",
@@ -966,7 +1106,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 70,
+   "id": 80,
    "heroGearEnglish": "Ares Gloves (Pro)",
    "heroGear": "아레스장갑",
    "type": "프로",
@@ -980,7 +1120,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 71,
+   "id": 81,
    "heroGearEnglish": "Ares Gloves (Pro)",
    "heroGear": "아레스",
    "type": "프로",
@@ -994,7 +1134,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 72,
+   "id": 82,
    "heroGearEnglish": "Ares Helmet (Pro)",
    "heroGear": "아레스투구",
    "type": "프로",
@@ -1008,7 +1148,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 73,
+   "id": 83,
    "heroGearEnglish": "Ares Helmet (Pro)",
    "heroGear": "아레스",
    "type": "프로",
@@ -1022,7 +1162,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 74,
+   "id": 84,
    "heroGearEnglish": "Ares Pauldrons (Pro)",
    "heroGear": "아레스견갑",
    "type": "프로",
@@ -1036,7 +1176,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 75,
+   "id": 85,
    "heroGearEnglish": "Ares Pauldrons (Pro)",
    "heroGear": "아레스",
    "type": "프로",
@@ -1050,7 +1190,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 76,
+   "id": 86,
    "heroGearEnglish": "Ares Ring (Pro)",
    "heroGear": "아레스반지",
    "type": "프로",
@@ -1064,7 +1204,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 77,
+   "id": 87,
    "heroGearEnglish": "Ares Ring (Pro)",
    "heroGear": "아레스",
    "type": "프로",
@@ -1078,7 +1218,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 78,
+   "id": 88,
    "heroGearEnglish": "Ares Sword (Pro)",
    "heroGear": "아레스검",
    "type": "프로",
@@ -1092,7 +1232,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 79,
+   "id": 89,
    "heroGearEnglish": "Ares Sword (Pro)",
    "heroGear": "아레스",
    "type": "프로",
@@ -1106,7 +1246,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 80,
+   "id": 90,
    "heroGearEnglish": "Artificer's Gloves",
    "heroGear": "숙련공의장갑",
    "type": "일반",
@@ -1120,7 +1260,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 81,
+   "id": 91,
    "heroGearEnglish": "Artificer's Gloves",
    "heroGear": "숙련공의장갑",
    "type": "일반",
@@ -1134,7 +1274,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 82,
+   "id": 92,
    "heroGearEnglish": "Artificer's Gloves",
    "heroGear": "숙련공의장갑",
    "type": "일반",
@@ -1148,7 +1288,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 83,
+   "id": 93,
    "heroGearEnglish": "Artificer's Gloves",
    "heroGear": "숙련공의장갑",
    "type": "일반",
@@ -1162,7 +1302,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 84,
+   "id": 94,
    "heroGearEnglish": "Artificer's Gloves (Pro)",
    "heroGear": "숙련공의장갑",
    "type": "프로",
@@ -1176,7 +1316,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 85,
+   "id": 95,
    "heroGearEnglish": "Artificer's Gloves (Pro)",
    "heroGear": "숙련공의장갑",
    "type": "프로",
@@ -1190,7 +1330,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 86,
+   "id": 96,
    "heroGearEnglish": "Artificer's Gloves (Pro)",
    "heroGear": "숙련공의장갑",
    "type": "프로",
@@ -1204,7 +1344,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 87,
+   "id": 97,
    "heroGearEnglish": "Artisan's Cape",
    "heroGear": "장인의망토",
    "type": "일반",
@@ -1218,7 +1358,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 88,
+   "id": 98,
    "heroGearEnglish": "Artisan's Cape",
    "heroGear": "장인의망토",
    "type": "일반",
@@ -1232,7 +1372,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 89,
+   "id": 99,
    "heroGearEnglish": "Artisan's Cape",
    "heroGear": "장인의망토",
    "type": "일반",
@@ -1246,7 +1386,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 90,
+   "id": 100,
    "heroGearEnglish": "Artisan's Cape (Pro)",
    "heroGear": "장인의망토",
    "type": "프로",
@@ -1260,7 +1400,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 91,
+   "id": 101,
    "heroGearEnglish": "Artisan's Cape (Pro)",
    "heroGear": "장인의망토",
    "type": "프로",
@@ -1274,7 +1414,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 92,
+   "id": 102,
    "heroGearEnglish": "Artisan's Cape (Pro)",
    "heroGear": "장인의망토",
    "type": "프로",
@@ -1288,7 +1428,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 93,
+   "id": 103,
    "heroGearEnglish": "Babe",
    "heroGear": "꼬마돼지햄",
    "type": "일반",
@@ -1302,161 +1442,189 @@ export const data = [
    "number": 1
  },
  {
-   "id": 94,
-   "heroGearEnglish": "Baltus' Belt",
-   "heroGear": "발투스의벨트",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/2/20/Baltus%27Belt.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 1,
-   "setEnglish": "Headless Horseman Set",
-   "set": "목없는기사세트",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 95,
-   "heroGearEnglish": "Baltus' Belt",
-   "heroGear": "발투스의벨트",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/2/20/Baltus%27Belt.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Headless Horseman Set",
-   "set": "목없는기사세트",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 96,
-   "heroGearEnglish": "Baltus' Belt (Pro)",
-   "heroGear": "발투스의벨트",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/ce/BaltusBeltPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 1,
-   "setEnglish": "Headless Horseman Set (Pro)",
-   "set": "목없는기사세트(프로)",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 97,
-   "heroGearEnglish": "Baltus' Belt (Pro)",
-   "heroGear": "발투스의벨트",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/ce/BaltusBeltPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Headless Horseman Set (Pro)",
-   "set": "목없는기사세트(프로)",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 98,
-   "heroGearEnglish": "Bela's Thirst",
-   "heroGear": "벨라의갈증",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/2/23/Bela%27sThirst.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 3,
-   "setEnglish": "Pal Power Set",
-   "set": "동료의힘세트",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 99,
-   "heroGearEnglish": "Bela's Thirst",
-   "heroGear": "벨라의갈증",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/2/23/Bela%27sThirst.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Pal Power Set",
-   "set": "동료의힘세트",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 100,
-   "heroGearEnglish": "Bernard's Award",
-   "heroGear": "버나드의상",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/8/8e/Bernard%27sAward.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 3,
-   "setEnglish": "Christmas Elf Set",
-   "set": "크리스마스요정세트",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 101,
-   "heroGearEnglish": "Bernard's Award",
-   "heroGear": "버나드의상",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/8/8e/Bernard%27sAward.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Christmas Elf Set",
-   "set": "크리스마스요정세트",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 102,
-   "heroGearEnglish": "Bernard's Award (Pro)",
-   "heroGear": "버나드의상",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/09/BernardsAwardPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 3,
-   "setEnglish": "Christmas Elf Set (Pro)",
-   "set": "크리스마스요정세트(프로)",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 103,
-   "heroGearEnglish": "Bernard's Award (Pro)",
-   "heroGear": "버나드의상",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/09/BernardsAwardPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Christmas Elf Set (Pro)",
-   "set": "크리스마스요정세트(프로)",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
    "id": 104,
-   "heroGearEnglish": "Big Day Out",
-   "heroGear": "큼직한외출가방",
+   "heroGearEnglish": "Babe",
+   "heroGear": "꼬마돼지햄",
    "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/1f/BigDayOut.png",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/9/96/Babe.png",
    "collectionEnglish": "Hero Items",
    "collection": "영웅아이템",
-   "level": 2,
-   "setEnglish": "Baseball Set",
-   "set": "야구세트",
-   "released": "LSU: 30.06.2021",
+   "level": 3,
+   "setEnglish": "Oddball Set I",
+   "set": "괴짜세트1",
+   "released": "LSU: 02.09.2021",
    "number": 1
  },
  {
    "id": 105,
+   "heroGearEnglish": "Babe",
+   "heroGear": "꼬마돼지햄",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/9/96/Babe.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 6,
+   "setEnglish": "Oddball Set I",
+   "set": "괴짜세트1",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 106,
+   "heroGearEnglish": "Baltus' Belt",
+   "heroGear": "발투스의벨트",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/2/20/Baltus%27Belt.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Headless Horseman Set",
+   "set": "목없는기사세트",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 107,
+   "heroGearEnglish": "Baltus' Belt",
+   "heroGear": "발투스의벨트",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/2/20/Baltus%27Belt.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Headless Horseman Set",
+   "set": "목없는기사세트",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 108,
+   "heroGearEnglish": "Baltus' Belt (Pro)",
+   "heroGear": "발투스의벨트",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/ce/BaltusBeltPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Headless Horseman Set (Pro)",
+   "set": "목없는기사세트(프로)",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 109,
+   "heroGearEnglish": "Baltus' Belt (Pro)",
+   "heroGear": "발투스의벨트",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/ce/BaltusBeltPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Headless Horseman Set (Pro)",
+   "set": "목없는기사세트(프로)",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 110,
+   "heroGearEnglish": "Bela's Thirst",
+   "heroGear": "벨라의갈증",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/2/23/Bela%27sThirst.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Pal Power Set",
+   "set": "동료의힘세트",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 111,
+   "heroGearEnglish": "Bela's Thirst",
+   "heroGear": "벨라의갈증",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/2/23/Bela%27sThirst.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Pal Power Set",
+   "set": "동료의힘세트",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 112,
+   "heroGearEnglish": "Bernard's Award",
+   "heroGear": "버나드의상",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/8/8e/Bernard%27sAward.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Christmas Elf Set",
+   "set": "크리스마스요정세트",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 113,
+   "heroGearEnglish": "Bernard's Award",
+   "heroGear": "버나드의상",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/8/8e/Bernard%27sAward.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Christmas Elf Set",
+   "set": "크리스마스요정세트",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 114,
+   "heroGearEnglish": "Bernard's Award (Pro)",
+   "heroGear": "버나드의상",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/09/BernardsAwardPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Christmas Elf Set (Pro)",
+   "set": "크리스마스요정세트(프로)",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 115,
+   "heroGearEnglish": "Bernard's Award (Pro)",
+   "heroGear": "버나드의상",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/09/BernardsAwardPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Christmas Elf Set (Pro)",
+   "set": "크리스마스요정세트(프로)",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 116,
+   "heroGearEnglish": "Big Day Out",
+   "heroGear": "큼직한외출가방",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/1f/BigDayOut.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Baseball Set",
+   "set": "야구세트",
+   "released": "LSU: 30.06.2021",
+   "number": 1
+ },
+ {
+   "id": 117,
    "heroGearEnglish": "Big Day Out",
    "heroGear": "큼직한외출가방",
    "type": "일반",
@@ -1470,7 +1638,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 106,
+   "id": 118,
    "heroGearEnglish": "Big Day Out (Pro)",
    "heroGear": "큼직한외출가방",
    "type": "프로",
@@ -1484,7 +1652,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 107,
+   "id": 119,
    "heroGearEnglish": "Big Day Out (Pro)",
    "heroGear": "큼직한외출가방",
    "type": "프로",
@@ -1498,7 +1666,63 @@ export const data = [
    "number": 1
  },
  {
-   "id": 108,
+   "id": 120,
+   "heroGearEnglish": "Blood Pumps",
+   "heroGear": "핏빛구두",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/f/fe/BloodPumps.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Vampire Set",
+   "set": "뱀파이어세트",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 121,
+   "heroGearEnglish": "Blood Pumps",
+   "heroGear": "핏빛구두",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/f/fe/BloodPumps.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Vampire Set",
+   "set": "뱀파이어세트",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 122,
+   "heroGearEnglish": "Blood Pumps (Pro)",
+   "heroGear": "핏빛구두",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/f/ff/BloodPumpsPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Vampire Set (Pro)",
+   "set": "뱀파이어세트(프로)",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 123,
+   "heroGearEnglish": "Blood Pumps (Pro)",
+   "heroGear": "핏빛구두",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/f/ff/BloodPumpsPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Vampire Set (Pro)",
+   "set": "뱀파이어세트(프로)",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 124,
    "heroGearEnglish": "Bloodmoon",
    "heroGear": "핏빛달",
    "type": "일반",
@@ -1512,7 +1736,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 109,
+   "id": 125,
    "heroGearEnglish": "Bridgecrossers",
    "heroGear": "브리지크로서",
    "type": "일반",
@@ -1526,7 +1750,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 110,
+   "id": 126,
    "heroGearEnglish": "Bridgecrossers",
    "heroGear": "브리지크로서",
    "type": "일반",
@@ -1540,7 +1764,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 111,
+   "id": 127,
    "heroGearEnglish": "Bridgecrossers (Pro)",
    "heroGear": "브리지크로서",
    "type": "프로",
@@ -1554,7 +1778,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 112,
+   "id": 128,
    "heroGearEnglish": "Bridgecrossers (Pro)",
    "heroGear": "브리지크로서",
    "type": "프로",
@@ -1568,7 +1792,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 113,
+   "id": 129,
    "heroGearEnglish": "Brimstone Band",
    "heroGear": "유황고리",
    "type": "일반",
@@ -1582,7 +1806,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 114,
+   "id": 130,
    "heroGearEnglish": "Brimstone Band",
    "heroGear": "유황고리",
    "type": "일반",
@@ -1596,231 +1820,231 @@ export const data = [
    "number": 2
  },
  {
-   "id": 115,
-   "heroGearEnglish": "Buckleball",
-   "heroGear": "야구벨트",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b9/Buckleball.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 3,
-   "setEnglish": "Baseball Set",
-   "set": "야구세트",
-   "released": "LSU: 30.06.2021",
-   "number": 1
- },
- {
-   "id": 116,
-   "heroGearEnglish": "Buckleball",
-   "heroGear": "야구벨트",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b9/Buckleball.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Baseball Set",
-   "set": "야구세트",
-   "released": "LSU: 30.06.2021",
-   "number": 1
- },
- {
-   "id": 117,
-   "heroGearEnglish": "Buckleball (Pro)",
-   "heroGear": "야구벨트",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b9/Buckleball.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 1,
-   "setEnglish": "Baseball Set (Pro)",
-   "set": "야구세트(프로)",
-   "released": "LSU: 30.06.2021",
-   "number": 1
- },
- {
-   "id": 118,
-   "heroGearEnglish": "Buckleball (Pro)",
-   "heroGear": "야구벨트",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b9/Buckleball.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Baseball Set (Pro)",
-   "set": "야구세트(프로)",
-   "released": "LSU: 30.06.2021",
-   "number": 1
- },
- {
-   "id": 119,
-   "heroGearEnglish": "Bucky's Surprise",
-   "heroGear": "버키의기습",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e4/Bucky%27sSurprise.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 3,
-   "setEnglish": "Pal Power Set",
-   "set": "동료의힘세트",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 120,
-   "heroGearEnglish": "Bucky's Surprise",
-   "heroGear": "버키의기습",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e4/Bucky%27sSurprise.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Pal Power Set",
-   "set": "동료의힘세트",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 121,
-   "heroGearEnglish": "Buddy's Buckle",
-   "heroGear": "버디의버클",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/eb/Buddy%27sBuckle.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 1,
-   "setEnglish": "Christmas Elf Set",
-   "set": "크리스마스요정세트",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 122,
-   "heroGearEnglish": "Buddy's Buckle",
-   "heroGear": "버디의버클",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/eb/Buddy%27sBuckle.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Christmas Elf Set",
-   "set": "크리스마스요정세트",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 123,
-   "heroGearEnglish": "Buddy's Buckle (Pro)",
-   "heroGear": "버디의버클",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/1e/BuddysBucklePro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 1,
-   "setEnglish": "Christmas Elf Set (Pro)",
-   "set": "크리스마스요정세트(프로)",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 124,
-   "heroGearEnglish": "Buddy's Buckle (Pro)",
-   "heroGear": "버디의버클",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/1e/BuddysBucklePro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Christmas Elf Set (Pro)",
-   "set": "크리스마스요정세트(프로)",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 125,
-   "heroGearEnglish": "Bushy's Craftsmanship",
-   "heroGear": "부시의솜씨",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/58/Bushy%27sCraftsmanship.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 1,
-   "setEnglish": "Christmas Elf Set",
-   "set": "크리스마스요정세트",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 126,
-   "heroGearEnglish": "Bushy's Craftsmanship",
-   "heroGear": "부시의솜씨",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/58/Bushy%27sCraftsmanship.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Christmas Elf Set",
-   "set": "크리스마스요정세트",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 127,
-   "heroGearEnglish": "Bushy's Craftsmanship (Pro)",
-   "heroGear": "부시의솜씨",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e3/BushysCraftsmanshipPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 1,
-   "setEnglish": "Christmas Elf Set (Pro)",
-   "set": "크리스마스요정세트(프로)",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 128,
-   "heroGearEnglish": "Bushy's Craftsmanship (Pro)",
-   "heroGear": "부시의솜씨",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e3/BushysCraftsmanshipPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Christmas Elf Set (Pro)",
-   "set": "크리스마스요정세트(프로)",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 129,
-   "heroGearEnglish": "Buzzlewitz' Journey",
-   "heroGear": "버즐위츠의여정",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e2/Buzzlewitz%27Journey.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 1,
-   "setEnglish": "Christmas Elf Set",
-   "set": "크리스마스요정세트",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 130,
-   "heroGearEnglish": "Buzzlewitz' Journey",
-   "heroGear": "버즐위츠의여정",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e2/Buzzlewitz%27Journey.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Christmas Elf Set",
-   "set": "크리스마스요정세트",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
    "id": 131,
+   "heroGearEnglish": "Buckleball",
+   "heroGear": "야구벨트",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b9/Buckleball.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Baseball Set",
+   "set": "야구세트",
+   "released": "LSU: 30.06.2021",
+   "number": 1
+ },
+ {
+   "id": 132,
+   "heroGearEnglish": "Buckleball",
+   "heroGear": "야구벨트",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b9/Buckleball.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Baseball Set",
+   "set": "야구세트",
+   "released": "LSU: 30.06.2021",
+   "number": 1
+ },
+ {
+   "id": 133,
+   "heroGearEnglish": "Buckleball (Pro)",
+   "heroGear": "야구벨트",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b9/Buckleball.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Baseball Set (Pro)",
+   "set": "야구세트(프로)",
+   "released": "LSU: 30.06.2021",
+   "number": 1
+ },
+ {
+   "id": 134,
+   "heroGearEnglish": "Buckleball (Pro)",
+   "heroGear": "야구벨트",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b9/Buckleball.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Baseball Set (Pro)",
+   "set": "야구세트(프로)",
+   "released": "LSU: 30.06.2021",
+   "number": 1
+ },
+ {
+   "id": 135,
+   "heroGearEnglish": "Bucky's Surprise",
+   "heroGear": "버키의기습",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e4/Bucky%27sSurprise.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Pal Power Set",
+   "set": "동료의힘세트",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 136,
+   "heroGearEnglish": "Bucky's Surprise",
+   "heroGear": "버키의기습",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e4/Bucky%27sSurprise.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Pal Power Set",
+   "set": "동료의힘세트",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 137,
+   "heroGearEnglish": "Buddy's Buckle",
+   "heroGear": "버디의버클",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/eb/Buddy%27sBuckle.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Christmas Elf Set",
+   "set": "크리스마스요정세트",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 138,
+   "heroGearEnglish": "Buddy's Buckle",
+   "heroGear": "버디의버클",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/eb/Buddy%27sBuckle.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Christmas Elf Set",
+   "set": "크리스마스요정세트",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 139,
+   "heroGearEnglish": "Buddy's Buckle (Pro)",
+   "heroGear": "버디의버클",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/1e/BuddysBucklePro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Christmas Elf Set (Pro)",
+   "set": "크리스마스요정세트(프로)",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 140,
+   "heroGearEnglish": "Buddy's Buckle (Pro)",
+   "heroGear": "버디의버클",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/1e/BuddysBucklePro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Christmas Elf Set (Pro)",
+   "set": "크리스마스요정세트(프로)",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 141,
+   "heroGearEnglish": "Bushy's Craftsmanship",
+   "heroGear": "부시의솜씨",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/58/Bushy%27sCraftsmanship.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Christmas Elf Set",
+   "set": "크리스마스요정세트",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 142,
+   "heroGearEnglish": "Bushy's Craftsmanship",
+   "heroGear": "부시의솜씨",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/58/Bushy%27sCraftsmanship.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Christmas Elf Set",
+   "set": "크리스마스요정세트",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 143,
+   "heroGearEnglish": "Bushy's Craftsmanship (Pro)",
+   "heroGear": "부시의솜씨",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e3/BushysCraftsmanshipPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Christmas Elf Set (Pro)",
+   "set": "크리스마스요정세트(프로)",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 144,
+   "heroGearEnglish": "Bushy's Craftsmanship (Pro)",
+   "heroGear": "부시의솜씨",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e3/BushysCraftsmanshipPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Christmas Elf Set (Pro)",
+   "set": "크리스마스요정세트(프로)",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 145,
+   "heroGearEnglish": "Buzzlewitz' Journey",
+   "heroGear": "버즐위츠의여정",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e2/Buzzlewitz%27Journey.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Christmas Elf Set",
+   "set": "크리스마스요정세트",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 146,
+   "heroGearEnglish": "Buzzlewitz' Journey",
+   "heroGear": "버즐위츠의여정",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e2/Buzzlewitz%27Journey.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Christmas Elf Set",
+   "set": "크리스마스요정세트",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 147,
    "heroGearEnglish": "Buzzlewitz' Journey (Pro)",
    "heroGear": "버즐위츠의여정",
    "type": "프로",
@@ -1834,7 +2058,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 132,
+   "id": 148,
    "heroGearEnglish": "Buzzlewitz' Journey (Pro)",
    "heroGear": "버즐위츠의여정",
    "type": "프로",
@@ -1848,7 +2072,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 133,
+   "id": 149,
    "heroGearEnglish": "Buzzlewitz' Journey (Pro)",
    "heroGear": "버즐위츠의여정",
    "type": "프로",
@@ -1862,7 +2086,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 134,
+   "id": 150,
    "heroGearEnglish": "Cadaver Coil",
    "heroGear": "시신의고리",
    "type": "일반",
@@ -1876,7 +2100,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 135,
+   "id": 151,
    "heroGearEnglish": "Cadaver Coil",
    "heroGear": "시신의고리",
    "type": "일반",
@@ -1890,7 +2114,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 136,
+   "id": 152,
    "heroGearEnglish": "Cadaver Coil (Pro)",
    "heroGear": "시신의고리",
    "type": "프로",
@@ -1904,7 +2128,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 137,
+   "id": 153,
    "heroGearEnglish": "Cadaver Coil (Pro)",
    "heroGear": "시신의고리",
    "type": "프로",
@@ -1918,7 +2142,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 138,
+   "id": 154,
    "heroGearEnglish": "Carcass Cape",
    "heroGear": "시체의망토",
    "type": "일반",
@@ -1932,7 +2156,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 139,
+   "id": 155,
    "heroGearEnglish": "Carcass Cape",
    "heroGear": "시체의망토",
    "type": "일반",
@@ -1946,7 +2170,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 140,
+   "id": 156,
    "heroGearEnglish": "Carcass Cape (Pro)",
    "heroGear": "시체의망토",
    "type": "프로",
@@ -1960,7 +2184,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 141,
+   "id": 157,
    "heroGearEnglish": "Carcass Cape (Pro)",
    "heroGear": "시체의망토",
    "type": "프로",
@@ -1974,7 +2198,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 142,
+   "id": 158,
    "heroGearEnglish": "Caribou Parka",
    "heroGear": "카리부파카",
    "type": "일반",
@@ -1988,7 +2212,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 143,
+   "id": 159,
    "heroGearEnglish": "Caribou Parka",
    "heroGear": "카리부파카",
    "type": "일반",
@@ -2002,7 +2226,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 144,
+   "id": 160,
    "heroGearEnglish": "Caribou Parka (Pro)",
    "heroGear": "카리부파카",
    "type": "프로",
@@ -2016,7 +2240,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 145,
+   "id": 161,
    "heroGearEnglish": "Caribou Parka (Pro)",
    "heroGear": "카리부파카",
    "type": "프로",
@@ -2030,7 +2254,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 146,
+   "id": 162,
    "heroGearEnglish": "Carrion Crown",
    "heroGear": "부패의왕관",
    "type": "일반",
@@ -2044,7 +2268,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 147,
+   "id": 163,
    "heroGearEnglish": "Carrion Crown",
    "heroGear": "부패의왕관",
    "type": "일반",
@@ -2058,7 +2282,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 148,
+   "id": 164,
    "heroGearEnglish": "Carrion Crown",
    "heroGear": "부패의왕관",
    "type": "일반",
@@ -2072,245 +2296,301 @@ export const data = [
    "number": 1
  },
  {
-   "id": 149,
-   "heroGearEnglish": "Carrion Crown (Pro)",
-   "heroGear": "부패의왕관",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/02/CarrionCrownPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 3,
-   "setEnglish": "Necromancer Set (Pro)",
-   "set": "주술사세트(프로)",
-   "released": "LSU: 06.05.2021",
-   "number": 1
- },
- {
-   "id": 150,
-   "heroGearEnglish": "Carrion Crown (Pro)",
-   "heroGear": "부패의왕관",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/02/CarrionCrownPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Necromancer Set (Pro)",
-   "set": "주술사세트(프로)",
-   "released": "LSU: 06.05.2021",
-   "number": 1
- },
- {
-   "id": 151,
-   "heroGearEnglish": "Chloris Armor (Pro)",
-   "heroGear": "클로리스갑옷",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/ec/ChlorisArmor.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 2,
-   "setEnglish": "Chloris Set",
-   "set": "클로리스세트",
-   "released": "LSU: 01.04.2021",
-   "number": 1
- },
- {
-   "id": 152,
-   "heroGearEnglish": "Chloris Armor (Pro)",
-   "heroGear": "클로리스갑옷",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/ec/ChlorisArmor.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Chloris Set",
-   "set": "클로리스세트",
-   "released": "LSU: 01.04.2021",
-   "number": 1
- },
- {
-   "id": 153,
-   "heroGearEnglish": "Chloris Axe (Pro)",
-   "heroGear": "클로리스도끼",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e6/ChlorisAxe.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 3,
-   "setEnglish": "Chloris Set",
-   "set": "클로리스세트",
-   "released": "LSU: 01.04.2021",
-   "number": 1
- },
- {
-   "id": 154,
-   "heroGearEnglish": "Chloris Axe (Pro)",
-   "heroGear": "클로리스도끼",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e6/ChlorisAxe.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Chloris Set",
-   "set": "클로리스세트",
-   "released": "LSU: 01.04.2021",
-   "number": 1
- },
- {
-   "id": 155,
-   "heroGearEnglish": "Chloris Belt (Pro)",
-   "heroGear": "클로리스벨트",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b7/ChlorisBelt.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 1,
-   "setEnglish": "Chloris Set",
-   "set": "클로리스세트",
-   "released": "LSU: 01.04.2021",
-   "number": 1
- },
- {
-   "id": 156,
-   "heroGearEnglish": "Chloris Belt (Pro)",
-   "heroGear": "클로리스벨트",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b7/ChlorisBelt.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Chloris Set",
-   "set": "클로리스세트",
-   "released": "LSU: 01.04.2021",
-   "number": 1
- },
- {
-   "id": 157,
-   "heroGearEnglish": "Chloris Boots (Pro)",
-   "heroGear": "클로리스부츠",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/4/4a/ChlorisBoots.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 1,
-   "setEnglish": "Chloris Set",
-   "set": "클로리스세트",
-   "released": "LSU: 01.04.2021",
-   "number": 1
- },
- {
-   "id": 158,
-   "heroGearEnglish": "Chloris Boots (Pro)",
-   "heroGear": "클로리스부츠",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/4/4a/ChlorisBoots.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Chloris Set",
-   "set": "클로리스세트",
-   "released": "LSU: 01.04.2021",
-   "number": 1
- },
- {
-   "id": 159,
-   "heroGearEnglish": "Chloris Cape (Pro)",
-   "heroGear": "클로리스망토",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/c3/ChlorisCape.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 2,
-   "setEnglish": "Chloris Set",
-   "set": "클로리스세트",
-   "released": "LSU: 01.04.2021",
-   "number": 1
- },
- {
-   "id": 160,
-   "heroGearEnglish": "Chloris Cape (Pro)",
-   "heroGear": "클로리스망토",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/c3/ChlorisCape.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Chloris Set",
-   "set": "클로리스세트",
-   "released": "LSU: 01.04.2021",
-   "number": 1
- },
- {
-   "id": 161,
-   "heroGearEnglish": "Chloris Gloves (Pro)",
-   "heroGear": "클로리스장갑",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b8/ChlorisGloves.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 1,
-   "setEnglish": "Chloris Set",
-   "set": "클로리스세트",
-   "released": "LSU: 01.04.2021",
-   "number": 1
- },
- {
-   "id": 162,
-   "heroGearEnglish": "Chloris Gloves (Pro)",
-   "heroGear": "클로리스장갑",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b8/ChlorisGloves.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Chloris Set",
-   "set": "클로리스세트",
-   "released": "LSU: 01.04.2021",
-   "number": 1
- },
- {
-   "id": 163,
-   "heroGearEnglish": "Chloris Helmet (Pro)",
-   "heroGear": "클로리스투구",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/8/87/ChlorisHelmet.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 3,
-   "setEnglish": "Chloris Set",
-   "set": "클로리스세트",
-   "released": "LSU: 01.04.2021",
-   "number": 1
- },
- {
-   "id": 164,
-   "heroGearEnglish": "Chloris Helmet (Pro)",
-   "heroGear": "클로리스투구",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/8/87/ChlorisHelmet.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Chloris Set",
-   "set": "클로리스세트",
-   "released": "LSU: 01.04.2021",
-   "number": 1
- },
- {
    "id": 165,
-   "heroGearEnglish": "Chloris Pauldrons (Pro)",
-   "heroGear": "클로리스견갑",
+   "heroGearEnglish": "Carrion Crown (Pro)",
+   "heroGear": "부패의왕관",
    "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/1d/ChlorisPauldrons.png",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/02/CarrionCrownPro.png",
    "collectionEnglish": "Hero Items",
    "collection": "영웅아이템",
-   "level": 2,
-   "setEnglish": "Chloris Set",
-   "set": "클로리스세트",
-   "released": "LSU: 01.04.2021",
+   "level": 3,
+   "setEnglish": "Necromancer Set (Pro)",
+   "set": "주술사세트(프로)",
+   "released": "LSU: 06.05.2021",
    "number": 1
  },
  {
    "id": 166,
+   "heroGearEnglish": "Carrion Crown (Pro)",
+   "heroGear": "부패의왕관",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/02/CarrionCrownPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Necromancer Set (Pro)",
+   "set": "주술사세트(프로)",
+   "released": "LSU: 06.05.2021",
+   "number": 1
+ },
+ {
+   "id": 167,
+   "heroGearEnglish": "Chaney Gloves",
+   "heroGear": "체이니장갑",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b5/ChaneyGloves.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Vampire Set",
+   "set": "뱀파이어세트",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 168,
+   "heroGearEnglish": "Chaney Gloves",
+   "heroGear": "체이니장갑",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b5/ChaneyGloves.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Vampire Set",
+   "set": "뱀파이어세트",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 169,
+   "heroGearEnglish": "Chaney Gloves (Pro)",
+   "heroGear": "체이니장갑",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/bd/ChaneyGlovesPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Vampire Set (Pro)",
+   "set": "뱀파이어세트(프로)",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 170,
+   "heroGearEnglish": "Chaney Gloves (Pro)",
+   "heroGear": "체이니장갑",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/bd/ChaneyGlovesPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Vampire Set (Pro)",
+   "set": "뱀파이어세트(프로)",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 171,
+   "heroGearEnglish": "Chloris Armor (Pro)",
+   "heroGear": "클로리스갑옷",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/ec/ChlorisArmor.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Chloris Set",
+   "set": "클로리스세트",
+   "released": "LSU: 01.04.2021",
+   "number": 1
+ },
+ {
+   "id": 172,
+   "heroGearEnglish": "Chloris Armor (Pro)",
+   "heroGear": "클로리스갑옷",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/ec/ChlorisArmor.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Chloris Set",
+   "set": "클로리스세트",
+   "released": "LSU: 01.04.2021",
+   "number": 1
+ },
+ {
+   "id": 173,
+   "heroGearEnglish": "Chloris Axe (Pro)",
+   "heroGear": "클로리스도끼",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e6/ChlorisAxe.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Chloris Set",
+   "set": "클로리스세트",
+   "released": "LSU: 01.04.2021",
+   "number": 1
+ },
+ {
+   "id": 174,
+   "heroGearEnglish": "Chloris Axe (Pro)",
+   "heroGear": "클로리스도끼",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e6/ChlorisAxe.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Chloris Set",
+   "set": "클로리스세트",
+   "released": "LSU: 01.04.2021",
+   "number": 1
+ },
+ {
+   "id": 175,
+   "heroGearEnglish": "Chloris Belt (Pro)",
+   "heroGear": "클로리스벨트",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b7/ChlorisBelt.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Chloris Set",
+   "set": "클로리스세트",
+   "released": "LSU: 01.04.2021",
+   "number": 1
+ },
+ {
+   "id": 176,
+   "heroGearEnglish": "Chloris Belt (Pro)",
+   "heroGear": "클로리스벨트",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b7/ChlorisBelt.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Chloris Set",
+   "set": "클로리스세트",
+   "released": "LSU: 01.04.2021",
+   "number": 1
+ },
+ {
+   "id": 177,
+   "heroGearEnglish": "Chloris Boots (Pro)",
+   "heroGear": "클로리스부츠",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/4/4a/ChlorisBoots.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Chloris Set",
+   "set": "클로리스세트",
+   "released": "LSU: 01.04.2021",
+   "number": 1
+ },
+ {
+   "id": 178,
+   "heroGearEnglish": "Chloris Boots (Pro)",
+   "heroGear": "클로리스부츠",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/4/4a/ChlorisBoots.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Chloris Set",
+   "set": "클로리스세트",
+   "released": "LSU: 01.04.2021",
+   "number": 1
+ },
+ {
+   "id": 179,
+   "heroGearEnglish": "Chloris Cape (Pro)",
+   "heroGear": "클로리스망토",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/c3/ChlorisCape.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Chloris Set",
+   "set": "클로리스세트",
+   "released": "LSU: 01.04.2021",
+   "number": 1
+ },
+ {
+   "id": 180,
+   "heroGearEnglish": "Chloris Cape (Pro)",
+   "heroGear": "클로리스망토",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/c3/ChlorisCape.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Chloris Set",
+   "set": "클로리스세트",
+   "released": "LSU: 01.04.2021",
+   "number": 1
+ },
+ {
+   "id": 181,
+   "heroGearEnglish": "Chloris Gloves (Pro)",
+   "heroGear": "클로리스장갑",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b8/ChlorisGloves.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Chloris Set",
+   "set": "클로리스세트",
+   "released": "LSU: 01.04.2021",
+   "number": 1
+ },
+ {
+   "id": 182,
+   "heroGearEnglish": "Chloris Gloves (Pro)",
+   "heroGear": "클로리스장갑",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b8/ChlorisGloves.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Chloris Set",
+   "set": "클로리스세트",
+   "released": "LSU: 01.04.2021",
+   "number": 1
+ },
+ {
+   "id": 183,
+   "heroGearEnglish": "Chloris Helmet (Pro)",
+   "heroGear": "클로리스투구",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/8/87/ChlorisHelmet.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Chloris Set",
+   "set": "클로리스세트",
+   "released": "LSU: 01.04.2021",
+   "number": 1
+ },
+ {
+   "id": 184,
+   "heroGearEnglish": "Chloris Helmet (Pro)",
+   "heroGear": "클로리스투구",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/8/87/ChlorisHelmet.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Chloris Set",
+   "set": "클로리스세트",
+   "released": "LSU: 01.04.2021",
+   "number": 1
+ },
+ {
+   "id": 185,
+   "heroGearEnglish": "Chloris Pauldrons (Pro)",
+   "heroGear": "클로리스견갑",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/1d/ChlorisPauldrons.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Chloris Set",
+   "set": "클로리스세트",
+   "released": "LSU: 01.04.2021",
+   "number": 1
+ },
+ {
+   "id": 186,
    "heroGearEnglish": "Chloris Pauldrons (Pro)",
    "heroGear": "클로리스견갑",
    "type": "프로",
@@ -2324,7 +2604,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 167,
+   "id": 187,
    "heroGearEnglish": "Chloris Ring (Pro)",
    "heroGear": "클로리스반지",
    "type": "프로",
@@ -2338,7 +2618,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 168,
+   "id": 188,
    "heroGearEnglish": "Chloris Ring (Pro)",
    "heroGear": "클로리스반지",
    "type": "프로",
@@ -2352,7 +2632,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 169,
+   "id": 189,
    "heroGearEnglish": "Christmas Star",
    "heroGear": "크리스마스별",
    "type": "일반",
@@ -2366,7 +2646,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 170,
+   "id": 190,
    "heroGearEnglish": "Christmas Star",
    "heroGear": "크리스마스별",
    "type": "일반",
@@ -2380,7 +2660,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 171,
+   "id": 191,
    "heroGearEnglish": "Christmas Star (Pro)",
    "heroGear": "크리스마스별",
    "type": "프로",
@@ -2394,7 +2674,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 172,
+   "id": 192,
    "heroGearEnglish": "Christmas Star (Pro)",
    "heroGear": "크리스마스별",
    "type": "프로",
@@ -2408,7 +2688,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 173,
+   "id": 193,
    "heroGearEnglish": "Chuchunya (Pro)",
    "heroGear": "츄츄니아",
    "type": "프로",
@@ -2422,7 +2702,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 174,
+   "id": 194,
    "heroGearEnglish": "Cindercrown",
    "heroGear": "잿빛왕관",
    "type": "일반",
@@ -2436,7 +2716,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 175,
+   "id": 195,
    "heroGearEnglish": "Cindercrown",
    "heroGear": "잿빛왕관",
    "type": "일반",
@@ -2450,7 +2730,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 176,
+   "id": 196,
    "heroGearEnglish": "Classic Armor",
    "heroGear": "기본갑옷",
    "type": "일반",
@@ -2464,7 +2744,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 177,
+   "id": 197,
    "heroGearEnglish": "Classic Belt",
    "heroGear": "기본벨트",
    "type": "일반",
@@ -2478,7 +2758,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 178,
+   "id": 198,
    "heroGearEnglish": "Classic Boots",
    "heroGear": "기본부츠",
    "type": "일반",
@@ -2492,7 +2772,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 179,
+   "id": 199,
    "heroGearEnglish": "Classic Cape",
    "heroGear": "기본망토",
    "type": "일반",
@@ -2506,7 +2786,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 180,
+   "id": 200,
    "heroGearEnglish": "Classic Crown",
    "heroGear": "기본왕관",
    "type": "일반",
@@ -2520,7 +2800,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 181,
+   "id": 201,
    "heroGearEnglish": "Classic Gloves",
    "heroGear": "기본장갑",
    "type": "일반",
@@ -2534,7 +2814,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 182,
+   "id": 202,
    "heroGearEnglish": "Classic Pauldrons",
    "heroGear": "기본견갑",
    "type": "일반",
@@ -2548,7 +2828,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 183,
+   "id": 203,
    "heroGearEnglish": "Classic Ring",
    "heroGear": "기본반지",
    "type": "일반",
@@ -2562,7 +2842,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 184,
+   "id": 204,
    "heroGearEnglish": "Classic Sword",
    "heroGear": "기본검",
    "type": "일반",
@@ -2576,7 +2856,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 185,
+   "id": 205,
    "heroGearEnglish": "Corky",
    "heroGear": "코르크방망이",
    "type": "일반",
@@ -2590,7 +2870,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 186,
+   "id": 206,
    "heroGearEnglish": "Corky",
    "heroGear": "코르크방망이",
    "type": "일반",
@@ -2604,7 +2884,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 187,
+   "id": 207,
    "heroGearEnglish": "Corky (Pro)",
    "heroGear": "코르크방망이",
    "type": "프로",
@@ -2618,7 +2898,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 188,
+   "id": 208,
    "heroGearEnglish": "Corky (Pro)",
    "heroGear": "코르크방망이",
    "type": "프로",
@@ -2632,7 +2912,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 189,
+   "id": 209,
    "heroGearEnglish": "Corpse Shackles",
    "heroGear": "시체의족쇄",
    "type": "일반",
@@ -2646,7 +2926,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 190,
+   "id": 210,
    "heroGearEnglish": "Corpse Shackles",
    "heroGear": "시체의족쇄",
    "type": "일반",
@@ -2660,7 +2940,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 191,
+   "id": 211,
    "heroGearEnglish": "Corpse Shackles (Pro)",
    "heroGear": "시체의족쇄",
    "type": "프로",
@@ -2674,7 +2954,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 192,
+   "id": 212,
    "heroGearEnglish": "Corpse Shackles (Pro)",
    "heroGear": "시체의족쇄",
    "type": "프로",
@@ -2688,7 +2968,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 193,
+   "id": 213,
    "heroGearEnglish": "Craftsman's Crest",
    "heroGear": "기능공의장식투구",
    "type": "일반",
@@ -2702,7 +2982,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 194,
+   "id": 214,
    "heroGearEnglish": "Craftsman's Crest",
    "heroGear": "기능공의장식투구",
    "type": "일반",
@@ -2716,7 +2996,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 195,
+   "id": 215,
    "heroGearEnglish": "Craftsman's Crest",
    "heroGear": "기능공의장식투구",
    "type": "일반",
@@ -2730,7 +3010,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 196,
+   "id": 216,
    "heroGearEnglish": "Craftsman's Crest (Pro)",
    "heroGear": "기능공의장식투구",
    "type": "프로",
@@ -2744,7 +3024,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 197,
+   "id": 217,
    "heroGearEnglish": "Craftsman's Crest (Pro)",
    "heroGear": "기능공의장식투구",
    "type": "프로",
@@ -2758,7 +3038,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 198,
+   "id": 218,
    "heroGearEnglish": "Craftsman's Crest (Pro)",
    "heroGear": "기능공의장식투구",
    "type": "프로",
@@ -2772,7 +3052,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 199,
+   "id": 219,
    "heroGearEnglish": "Crow Feet (Pro)",
    "heroGear": "까마귀발",
    "type": "프로",
@@ -2786,7 +3066,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 200,
+   "id": 220,
    "heroGearEnglish": "Cultist's Habit",
    "heroGear": "광신자의의복",
    "type": "일반",
@@ -2800,7 +3080,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 201,
+   "id": 221,
    "heroGearEnglish": "Cultist's Habit",
    "heroGear": "광신자의의복",
    "type": "일반",
@@ -2814,7 +3094,21 @@ export const data = [
    "number": 2
  },
  {
-   "id": 202,
+   "id": 222,
+   "heroGearEnglish": "Cultist's Habit",
+   "heroGear": "광신자의의복",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/02/CultistsHabit.png",
+   "collectionEnglish": "Runes",
+   "collection": "룬",
+   "level": 3,
+   "setEnglish": "Cultist: Dragon Queen",
+   "set": "광신자:드래곤여왕",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 223,
    "heroGearEnglish": "Cultist's Thorns",
    "heroGear": "광신자의고통",
    "type": "일반",
@@ -2828,7 +3122,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 203,
+   "id": 224,
    "heroGearEnglish": "Cultist's Thorns",
    "heroGear": "광신자의고통",
    "type": "일반",
@@ -2842,7 +3136,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 204,
+   "id": 225,
    "heroGearEnglish": "Cursed Deathmask",
    "heroGear": "저주받은데스마스크",
    "type": "일반",
@@ -2856,7 +3150,63 @@ export const data = [
    "number": 1
  },
  {
-   "id": 205,
+   "id": 226,
+   "heroGearEnglish": "Cushing's Triad",
+   "heroGear": "쿠싱의트라이어드",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/4/43/Cushing%27sTriad.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Vampire Set",
+   "set": "뱀파이어세트",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 227,
+   "heroGearEnglish": "Cushing's Triad",
+   "heroGear": "쿠싱의트라이어드",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/4/43/Cushing%27sTriad.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Vampire Set",
+   "set": "뱀파이어세트",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 228,
+   "heroGearEnglish": "Cushing's Triad (Pro)",
+   "heroGear": "쿠싱의트라이어드",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/f/f8/Cushing%27sTriadPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Vampire Set (Pro)",
+   "set": "뱀파이어세트(프로)",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 229,
+   "heroGearEnglish": "Cushing's Triad (Pro)",
+   "heroGear": "쿠싱의트라이어드",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/f/f8/Cushing%27sTriadPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Vampire Set (Pro)",
+   "set": "뱀파이어세트(프로)",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 230,
    "heroGearEnglish": "Denim Romper",
    "heroGear": "데님롬퍼",
    "type": "일반",
@@ -2870,798 +3220,448 @@ export const data = [
    "number": 1
  },
  {
-   "id": 206,
-   "heroGearEnglish": "Denim Romper",
-   "heroGear": "데님롬퍼",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/69/DenimRomper.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 2,
-   "setEnglish": "Baseball Set",
-   "set": "야구세트",
-   "released": "LSU: 30.06.2021",
-   "number": 1
- },
- {
-   "id": 207,
-   "heroGearEnglish": "Denim Romper",
-   "heroGear": "데님롬퍼",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/69/DenimRomper.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Baseball Set",
-   "set": "야구세트",
-   "released": "LSU: 30.06.2021",
-   "number": 1
- },
- {
-   "id": 208,
-   "heroGearEnglish": "Denim Romper (Pro)",
-   "heroGear": "데님롬퍼",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/69/DenimRomper.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 2,
-   "setEnglish": "Baseball Set (Pro)",
-   "set": "야구세트(프로)",
-   "released": "LSU: 30.06.2021",
-   "number": 1
- },
- {
-   "id": 209,
-   "heroGearEnglish": "Denim Romper (Pro)",
-   "heroGear": "데님롬퍼",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/69/DenimRomper.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Baseball Set (Pro)",
-   "set": "야구세트(프로)",
-   "released": "LSU: 30.06.2021",
-   "number": 1
- },
- {
-   "id": 210,
-   "heroGearEnglish": "Deus Ex Machina",
-   "heroGear": "데우스엑스마키나",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b6/DeusExMachina.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 2,
-   "setEnglish": "Spell Power Set V",
-   "set": "마법위력세트5",
-   "released": "LSU: 30.06.2021",
-   "number": 1
- },
- {
-   "id": 211,
-   "heroGearEnglish": "Deus Ex Machina",
-   "heroGear": "데우스엑스마키나",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b6/DeusExMachina.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 3,
-   "setEnglish": "Spell Power Set V",
-   "set": "마법위력세트5",
-   "released": "LSU: 30.06.2021",
-   "number": 2
- },
- {
-   "id": 212,
-   "heroGearEnglish": "Diamond Ring",
-   "heroGear": "다이아몬드반지",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e7/DiamondRing.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 1,
-   "setEnglish": "Baseball Set",
-   "set": "야구세트",
-   "released": "LSU: 30.06.2021",
-   "number": 1
- },
- {
-   "id": 213,
-   "heroGearEnglish": "Diamond Ring",
-   "heroGear": "다이아몬드반지",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e7/DiamondRing.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Baseball Set",
-   "set": "야구세트",
-   "released": "LSU: 30.06.2021",
-   "number": 1
- },
- {
-   "id": 214,
-   "heroGearEnglish": "Diamond Ring (Pro)",
-   "heroGear": "다이아몬드반지",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e7/DiamondRing.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 3,
-   "setEnglish": "Baseball Set (Pro)",
-   "set": "야구세트(프로)",
-   "released": "LSU: 30.06.2021",
-   "number": 1
- },
- {
-   "id": 215,
-   "heroGearEnglish": "Diamond Ring (Pro)",
-   "heroGear": "다이아몬드반지",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e7/DiamondRing.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Baseball Set (Pro)",
-   "set": "야구세트(프로)",
-   "released": "LSU: 30.06.2021",
-   "number": 1
- },
- {
-   "id": 216,
-   "heroGearEnglish": "Dominion of Frost",
-   "heroGear": "서리의지배",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d3/DominionofFrost.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 1,
-   "setEnglish": "Dominion Set",
-   "set": "지배세트",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 217,
-   "heroGearEnglish": "Dominion of Frost",
-   "heroGear": "서리의지배",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d3/DominionofFrost.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 2,
-   "setEnglish": "Dominion Set",
-   "set": "지배세트",
-   "released": "LSU: 10.12.2020",
-   "number": 2
- },
- {
-   "id": 218,
-   "heroGearEnglish": "Dominion of Frost",
-   "heroGear": "서리의지배",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d3/DominionofFrost.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 3,
-   "setEnglish": "Dominion Set",
-   "set": "지배세트",
-   "released": "LSU: 10.12.2020",
-   "number": 3
- },
- {
-   "id": 219,
-   "heroGearEnglish": "Dominion of Frost",
-   "heroGear": "서리의지배",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d3/DominionofFrost.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Dominion Set",
-   "set": "지배세트",
-   "released": "LSU: 02.06.2021",
-   "number": 5
- },
- {
-   "id": 220,
-   "heroGearEnglish": "Dominion of Giants",
-   "heroGear": "거인의지배",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/7/75/DominionofGiants.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 1,
-   "setEnglish": "Dominion Set",
-   "set": "지배세트",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 221,
-   "heroGearEnglish": "Dominion of Giants",
-   "heroGear": "거인의지배",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/7/75/DominionofGiants.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 2,
-   "setEnglish": "Dominion Set",
-   "set": "지배세트",
-   "released": "LSU: 10.12.2020",
-   "number": 2
- },
- {
-   "id": 222,
-   "heroGearEnglish": "Dominion of Giants",
-   "heroGear": "거인의지배",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/7/75/DominionofGiants.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 3,
-   "setEnglish": "Dominion Set",
-   "set": "지배세트",
-   "released": "LSU: 10.12.2020",
-   "number": 3
- },
- {
-   "id": 223,
-   "heroGearEnglish": "Dominion of Giants",
-   "heroGear": "거인의지배",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/7/75/DominionofGiants.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Dominion Set",
-   "set": "지배세트",
-   "released": "LSU: 02.06.2021",
-   "number": 5
- },
- {
-   "id": 224,
-   "heroGearEnglish": "Dominion of Wisdom",
-   "heroGear": "지혜의지배",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/57/DominionofWisdom.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 1,
-   "setEnglish": "Dominion Set",
-   "set": "지배세트",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 225,
-   "heroGearEnglish": "Dominion of Wisdom",
-   "heroGear": "지혜의지배",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/57/DominionofWisdom.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 2,
-   "setEnglish": "Dominion Set",
-   "set": "지배세트",
-   "released": "LSU: 10.12.2020",
-   "number": 2
- },
- {
-   "id": 226,
-   "heroGearEnglish": "Dominion of Wisdom",
-   "heroGear": "지혜의지배",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/57/DominionofWisdom.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 3,
-   "setEnglish": "Dominion Set",
-   "set": "지배세트",
-   "released": "LSU: 10.12.2020",
-   "number": 3
- },
- {
-   "id": 227,
-   "heroGearEnglish": "Dominion of Wisdom",
-   "heroGear": "지혜의지배",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/57/DominionofWisdom.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Dominion Set",
-   "set": "지배세트",
-   "released": "LSU: 02.06.2021",
-   "number": 5
- },
- {
-   "id": 228,
-   "heroGearEnglish": "Doom Dress",
-   "heroGear": "파멸의의복",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/8/8d/DoomDress.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 2,
-   "setEnglish": "Necromancer Set",
-   "set": "주술사세트",
-   "released": "LSU: 06.05.2021",
-   "number": 1
- },
- {
-   "id": 229,
-   "heroGearEnglish": "Doom Dress",
-   "heroGear": "파멸의의복",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/8/8d/DoomDress.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Necromancer Set",
-   "set": "주술사세트",
-   "released": "LSU: 06.05.2021",
-   "number": 1
- },
- {
-   "id": 230,
-   "heroGearEnglish": "Doom Dress (Pro)",
-   "heroGear": "파멸의의복",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/00/DoomDressPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 2,
-   "setEnglish": "Necromancer Set (Pro)",
-   "set": "주술사세트(프로)",
-   "released": "LSU: 06.05.2021",
-   "number": 1
- },
- {
    "id": 231,
-   "heroGearEnglish": "Doom Dress (Pro)",
-   "heroGear": "파멸의의복",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/00/DoomDressPro.png",
+   "heroGearEnglish": "Denim Romper",
+   "heroGear": "데님롬퍼",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/69/DenimRomper.png",
    "collectionEnglish": "Hero Items",
    "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Necromancer Set (Pro)",
-   "set": "주술사세트(프로)",
-   "released": "LSU: 06.05.2021",
+   "level": 2,
+   "setEnglish": "Baseball Set",
+   "set": "야구세트",
+   "released": "LSU: 30.06.2021",
    "number": 1
  },
  {
    "id": 232,
-   "heroGearEnglish": "Dragon Claws",
-   "heroGear": "드래곤발톱",
+   "heroGearEnglish": "Denim Romper",
+   "heroGear": "데님롬퍼",
    "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/c5/DragonClaws.png",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/69/DenimRomper.png",
    "collectionEnglish": "Hero Items",
    "collection": "영웅아이템",
-   "level": 1,
-   "setEnglish": "Dragon Set",
-   "set": "드래곤세트",
-   "released": "LSU: 06.01.2021",
+   "level": 4,
+   "setEnglish": "Baseball Set",
+   "set": "야구세트",
+   "released": "LSU: 30.06.2021",
    "number": 1
  },
  {
    "id": 233,
-   "heroGearEnglish": "Dragon Claws",
-   "heroGear": "드래곤발톱",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/c5/DragonClaws.png",
+   "heroGearEnglish": "Denim Romper (Pro)",
+   "heroGear": "데님롬퍼",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/69/DenimRomper.png",
    "collectionEnglish": "Hero Items",
    "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Dragon Set",
-   "set": "드래곤세트",
-   "released": "LSU: 06.01.2021",
+   "level": 2,
+   "setEnglish": "Baseball Set (Pro)",
+   "set": "야구세트(프로)",
+   "released": "LSU: 30.06.2021",
    "number": 1
  },
  {
    "id": 234,
+   "heroGearEnglish": "Denim Romper (Pro)",
+   "heroGear": "데님롬퍼",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/69/DenimRomper.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Baseball Set (Pro)",
+   "set": "야구세트(프로)",
+   "released": "LSU: 30.06.2021",
+   "number": 1
+ },
+ {
+   "id": 235,
+   "heroGearEnglish": "Deus Ex Machina",
+   "heroGear": "데우스엑스마키나",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b6/DeusExMachina.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Spell Power Set V",
+   "set": "마법위력세트5",
+   "released": "LSU: 30.06.2021",
+   "number": 1
+ },
+ {
+   "id": 236,
+   "heroGearEnglish": "Deus Ex Machina",
+   "heroGear": "데우스엑스마키나",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b6/DeusExMachina.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Spell Power Set V",
+   "set": "마법위력세트5",
+   "released": "LSU: 30.06.2021",
+   "number": 2
+ },
+ {
+   "id": 237,
+   "heroGearEnglish": "Devastationary",
+   "heroGear": "몽땅연필",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/2/2e/Devastationary.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Spell Power Set VI",
+   "set": "마법위력세트6",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 238,
+   "heroGearEnglish": "Devastationary",
+   "heroGear": "몽땅연필",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/2/2e/Devastationary.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Oddball Set I",
+   "set": "괴짜세트1",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 239,
+   "heroGearEnglish": "Devastationary",
+   "heroGear": "몽땅연필",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/2/2e/Devastationary.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Reaper Set (Pro)",
+   "set": "수확자세트(프로)",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 240,
+   "heroGearEnglish": "Devastationary",
+   "heroGear": "몽땅연필",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/2/2e/Devastationary.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 6,
+   "setEnglish": "Oddball Set I",
+   "set": "괴짜세트1",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 241,
+   "heroGearEnglish": "Diamond Ring",
+   "heroGear": "다이아몬드반지",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e7/DiamondRing.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Baseball Set",
+   "set": "야구세트",
+   "released": "LSU: 30.06.2021",
+   "number": 1
+ },
+ {
+   "id": 242,
+   "heroGearEnglish": "Diamond Ring",
+   "heroGear": "다이아몬드반지",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e7/DiamondRing.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Baseball Set",
+   "set": "야구세트",
+   "released": "LSU: 30.06.2021",
+   "number": 1
+ },
+ {
+   "id": 243,
+   "heroGearEnglish": "Diamond Ring (Pro)",
+   "heroGear": "다이아몬드반지",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e7/DiamondRing.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Baseball Set (Pro)",
+   "set": "야구세트(프로)",
+   "released": "LSU: 30.06.2021",
+   "number": 1
+ },
+ {
+   "id": 244,
+   "heroGearEnglish": "Diamond Ring (Pro)",
+   "heroGear": "다이아몬드반지",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e7/DiamondRing.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Baseball Set (Pro)",
+   "set": "야구세트(프로)",
+   "released": "LSU: 30.06.2021",
+   "number": 1
+ },
+ {
+   "id": 245,
+   "heroGearEnglish": "Dominion of Frost",
+   "heroGear": "서리의지배",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d3/DominionofFrost.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Dominion Set",
+   "set": "지배세트",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 246,
+   "heroGearEnglish": "Dominion of Frost",
+   "heroGear": "서리의지배",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d3/DominionofFrost.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Dominion Set",
+   "set": "지배세트",
+   "released": "LSU: 10.12.2020",
+   "number": 2
+ },
+ {
+   "id": 247,
+   "heroGearEnglish": "Dominion of Frost",
+   "heroGear": "서리의지배",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d3/DominionofFrost.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Dominion Set",
+   "set": "지배세트",
+   "released": "LSU: 10.12.2020",
+   "number": 3
+ },
+ {
+   "id": 248,
+   "heroGearEnglish": "Dominion of Frost",
+   "heroGear": "서리의지배",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d3/DominionofFrost.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Dominion Set",
+   "set": "지배세트",
+   "released": "LSU: 02.06.2021",
+   "number": 5
+ },
+ {
+   "id": 249,
+   "heroGearEnglish": "Dominion of Giants",
+   "heroGear": "거인의지배",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/7/75/DominionofGiants.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Dominion Set",
+   "set": "지배세트",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 250,
+   "heroGearEnglish": "Dominion of Giants",
+   "heroGear": "거인의지배",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/7/75/DominionofGiants.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Dominion Set",
+   "set": "지배세트",
+   "released": "LSU: 10.12.2020",
+   "number": 2
+ },
+ {
+   "id": 251,
+   "heroGearEnglish": "Dominion of Giants",
+   "heroGear": "거인의지배",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/7/75/DominionofGiants.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Dominion Set",
+   "set": "지배세트",
+   "released": "LSU: 10.12.2020",
+   "number": 3
+ },
+ {
+   "id": 252,
+   "heroGearEnglish": "Dominion of Giants",
+   "heroGear": "거인의지배",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/7/75/DominionofGiants.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Dominion Set",
+   "set": "지배세트",
+   "released": "LSU: 02.06.2021",
+   "number": 5
+ },
+ {
+   "id": 253,
+   "heroGearEnglish": "Dominion of Wisdom",
+   "heroGear": "지혜의지배",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/57/DominionofWisdom.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Dominion Set",
+   "set": "지배세트",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 254,
+   "heroGearEnglish": "Dominion of Wisdom",
+   "heroGear": "지혜의지배",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/57/DominionofWisdom.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Dominion Set",
+   "set": "지배세트",
+   "released": "LSU: 10.12.2020",
+   "number": 2
+ },
+ {
+   "id": 255,
+   "heroGearEnglish": "Dominion of Wisdom",
+   "heroGear": "지혜의지배",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/57/DominionofWisdom.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Dominion Set",
+   "set": "지배세트",
+   "released": "LSU: 10.12.2020",
+   "number": 3
+ },
+ {
+   "id": 256,
+   "heroGearEnglish": "Dominion of Wisdom",
+   "heroGear": "지혜의지배",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/57/DominionofWisdom.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Dominion Set",
+   "set": "지배세트",
+   "released": "LSU: 02.06.2021",
+   "number": 5
+ },
+ {
+   "id": 257,
+   "heroGearEnglish": "Doom Dress",
+   "heroGear": "파멸의의복",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/8/8d/DoomDress.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Necromancer Set",
+   "set": "주술사세트",
+   "released": "LSU: 06.05.2021",
+   "number": 1
+ },
+ {
+   "id": 258,
+   "heroGearEnglish": "Doom Dress",
+   "heroGear": "파멸의의복",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/8/8d/DoomDress.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Necromancer Set",
+   "set": "주술사세트",
+   "released": "LSU: 06.05.2021",
+   "number": 1
+ },
+ {
+   "id": 259,
+   "heroGearEnglish": "Doom Dress (Pro)",
+   "heroGear": "파멸의의복",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/00/DoomDressPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Necromancer Set (Pro)",
+   "set": "주술사세트(프로)",
+   "released": "LSU: 06.05.2021",
+   "number": 1
+ },
+ {
+   "id": 260,
+   "heroGearEnglish": "Doom Dress (Pro)",
+   "heroGear": "파멸의의복",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/00/DoomDressPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Necromancer Set (Pro)",
+   "set": "주술사세트(프로)",
+   "released": "LSU: 06.05.2021",
+   "number": 1
+ },
+ {
+   "id": 261,
    "heroGearEnglish": "Dragon Claws",
    "heroGear": "드래곤발톱",
    "type": "일반",
    "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/c5/DragonClaws.png",
    "collectionEnglish": "Hero Items",
    "collection": "영웅아이템",
-   "level": 5,
-   "setEnglish": "Dragon Set",
-   "set": "드래곤세트",
-   "released": "LSU: 27.01.2021",
-   "number": 2
- },
- {
-   "id": 235,
-   "heroGearEnglish": "Dragon Claws (Pro)",
-   "heroGear": "드래곤발톱",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/bd/DragonClawsPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 1,
-   "setEnglish": "Dragon Set (Pro)",
-   "set": "드래곤세트(프로)",
-   "released": "LSU: 06.01.2021",
-   "number": 1
- },
- {
-   "id": 236,
-   "heroGearEnglish": "Dragon Claws (Pro)",
-   "heroGear": "드래곤발톱",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/bd/DragonClawsPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Dragon Set (Pro)",
-   "set": "드래곤세트(프로)",
-   "released": "LSU: 06.01.2021",
-   "number": 1
- },
- {
-   "id": 237,
-   "heroGearEnglish": "Dragon Claws (Pro)",
-   "heroGear": "드래곤발톱",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/bd/DragonClawsPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 5,
-   "setEnglish": "Dragon Set (Pro)",
-   "set": "드래곤세트(프로)",
-   "released": "LSU: 27.01.2021",
-   "number": 2
- },
- {
-   "id": 238,
-   "heroGearEnglish": "Dragon Eye",
-   "heroGear": "드래곤눈알",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/53/DragonEye.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
    "level": 1,
    "setEnglish": "Dragon Set",
    "set": "드래곤세트",
    "released": "LSU: 06.01.2021",
    "number": 1
- },
- {
-   "id": 239,
-   "heroGearEnglish": "Dragon Eye",
-   "heroGear": "드래곤눈알",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/53/DragonEye.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Dragon Set",
-   "set": "드래곤세트",
-   "released": "LSU: 06.01.2021",
-   "number": 1
- },
- {
-   "id": 240,
-   "heroGearEnglish": "Dragon Eye",
-   "heroGear": "드래곤눈알",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/53/DragonEye.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 5,
-   "setEnglish": "Dragon Set",
-   "set": "드래곤세트",
-   "released": "LSU: 27.01.2021",
-   "number": 2
- },
- {
-   "id": 241,
-   "heroGearEnglish": "Dragon Eye (Pro)",
-   "heroGear": "드래곤눈알",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/00/DragonEyePro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 1,
-   "setEnglish": "Dragon Set (Pro)",
-   "set": "드래곤세트(프로)",
-   "released": "LSU: 06.01.2021",
-   "number": 1
- },
- {
-   "id": 242,
-   "heroGearEnglish": "Dragon Eye (Pro)",
-   "heroGear": "드래곤눈알",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/00/DragonEyePro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Dragon Set (Pro)",
-   "set": "드래곤세트(프로)",
-   "released": "LSU: 06.01.2021",
-   "number": 1
- },
- {
-   "id": 243,
-   "heroGearEnglish": "Dragon Eye (Pro)",
-   "heroGear": "드래곤눈알",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/00/DragonEyePro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 5,
-   "setEnglish": "Dragon Set (Pro)",
-   "set": "드래곤세트(프로)",
-   "released": "LSU: 27.01.2021",
-   "number": 2
- },
- {
-   "id": 244,
-   "heroGearEnglish": "Dragon Fangs",
-   "heroGear": "드래곤송곳니",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/a/a2/DragonFangs.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 2,
-   "setEnglish": "Dragon Set",
-   "set": "드래곤세트",
-   "released": "LSU: 06.01.2021",
-   "number": 1
- },
- {
-   "id": 245,
-   "heroGearEnglish": "Dragon Fangs",
-   "heroGear": "드래곤송곳니",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/a/a2/DragonFangs.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Dragon Set",
-   "set": "드래곤세트",
-   "released": "LSU: 06.01.2021",
-   "number": 1
- },
- {
-   "id": 246,
-   "heroGearEnglish": "Dragon Fangs",
-   "heroGear": "드래곤송곳니",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/a/a2/DragonFangs.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 5,
-   "setEnglish": "Dragon Set",
-   "set": "드래곤세트",
-   "released": "LSU: 27.01.2021",
-   "number": 2
- },
- {
-   "id": 247,
-   "heroGearEnglish": "Dragon Fangs (Pro)",
-   "heroGear": "드래곤송곳니",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/f/f9/DragonFangsPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 2,
-   "setEnglish": "Dragon Set (Pro)",
-   "set": "드래곤세트(프로)",
-   "released": "LSU: 06.01.2021",
-   "number": 1
- },
- {
-   "id": 248,
-   "heroGearEnglish": "Dragon Fangs (Pro)",
-   "heroGear": "드래곤송곳니",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/f/f9/DragonFangsPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Dragon Set (Pro)",
-   "set": "드래곤세트(프로)",
-   "released": "LSU: 06.01.2021",
-   "number": 1
- },
- {
-   "id": 249,
-   "heroGearEnglish": "Dragon Fangs (Pro)",
-   "heroGear": "드래곤송곳니",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/f/f9/DragonFangsPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 5,
-   "setEnglish": "Dragon Set (Pro)",
-   "set": "드래곤세트(프로)",
-   "released": "LSU: 27.01.2021",
-   "number": 2
- },
- {
-   "id": 250,
-   "heroGearEnglish": "Dragon Headdress",
-   "heroGear": "드래곤머리장식",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/3/32/DragonHeaddress.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 3,
-   "setEnglish": "Dragon Set",
-   "set": "드래곤세트",
-   "released": "LSU: 06.01.2021",
-   "number": 1
- },
- {
-   "id": 251,
-   "heroGearEnglish": "Dragon Headdress",
-   "heroGear": "드래곤머리장식",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/3/32/DragonHeaddress.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Dragon Set",
-   "set": "드래곤세트",
-   "released": "LSU: 06.01.2021",
-   "number": 1
- },
- {
-   "id": 252,
-   "heroGearEnglish": "Dragon Headdress",
-   "heroGear": "드래곤머리장식",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/3/32/DragonHeaddress.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 5,
-   "setEnglish": "Dragon Set",
-   "set": "드래곤세트",
-   "released": "LSU: 27.01.2021",
-   "number": 2
- },
- {
-   "id": 253,
-   "heroGearEnglish": "Dragon Headdress (Pro)",
-   "heroGear": "드래곤머리장식",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/1a/DragonHeaddressPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 3,
-   "setEnglish": "Dragon Set (Pro)",
-   "set": "드래곤세트(프로)",
-   "released": "LSU: 06.01.2021",
-   "number": 1
- },
- {
-   "id": 254,
-   "heroGearEnglish": "Dragon Headdress (Pro)",
-   "heroGear": "드래곤머리장식",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/1a/DragonHeaddressPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Dragon Set (Pro)",
-   "set": "드래곤세트(프로)",
-   "released": "LSU: 06.01.2021",
-   "number": 1
- },
- {
-   "id": 255,
-   "heroGearEnglish": "Dragon Headdress (Pro)",
-   "heroGear": "드래곤머리장식",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/1a/DragonHeaddressPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 5,
-   "setEnglish": "Dragon Set (Pro)",
-   "set": "드래곤세트(프로)",
-   "released": "LSU: 27.01.2021",
-   "number": 2
- },
- {
-   "id": 256,
-   "heroGearEnglish": "Dragon Wings",
-   "heroGear": "드래곤날개",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d2/DragonWings.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 2,
-   "setEnglish": "Dragon Set",
-   "set": "드래곤세트",
-   "released": "LSU: 06.01.2021",
-   "number": 1
- },
- {
-   "id": 257,
-   "heroGearEnglish": "Dragon Wings",
-   "heroGear": "드래곤날개",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d2/DragonWings.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Dragon Set",
-   "set": "드래곤세트",
-   "released": "LSU: 06.01.2021",
-   "number": 1
- },
- {
-   "id": 258,
-   "heroGearEnglish": "Dragon Wings",
-   "heroGear": "드래곤날개",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d2/DragonWings.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 5,
-   "setEnglish": "Dragon Set",
-   "set": "드래곤세트",
-   "released": "LSU: 27.01.2021",
-   "number": 2
- },
- {
-   "id": 259,
-   "heroGearEnglish": "Dragon Wings (Pro)",
-   "heroGear": "드래곤날개",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/0b/DragonWingsPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 2,
-   "setEnglish": "Dragon Set (Pro)",
-   "set": "드래곤세트(프로)",
-   "released": "LSU: 06.01.2021",
-   "number": 1
- },
- {
-   "id": 260,
-   "heroGearEnglish": "Dragon Wings (Pro)",
-   "heroGear": "드래곤날개",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/0b/DragonWingsPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Dragon Set (Pro)",
-   "set": "드래곤세트(프로)",
-   "released": "LSU: 06.01.2021",
-   "number": 1
- },
- {
-   "id": 261,
-   "heroGearEnglish": "Dragon Wings (Pro)",
-   "heroGear": "드래곤날개",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/0b/DragonWingsPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 5,
-   "setEnglish": "Dragon Set (Pro)",
-   "set": "드래곤세트(프로)",
-   "released": "LSU: 27.01.2021",
-   "number": 2
  },
  {
    "id": 262,
-   "heroGearEnglish": "Dragon's Bite",
-   "heroGear": "드래곤의이빨",
+   "heroGearEnglish": "Dragon Claws",
+   "heroGear": "드래곤발톱",
    "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/8/84/Dragon%27sBite.png",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/c5/DragonClaws.png",
    "collectionEnglish": "Hero Items",
    "collection": "영웅아이템",
-   "level": 1,
+   "level": 4,
    "setEnglish": "Dragon Set",
    "set": "드래곤세트",
    "released": "LSU: 06.01.2021",
@@ -3669,6 +3669,412 @@ export const data = [
  },
  {
    "id": 263,
+   "heroGearEnglish": "Dragon Claws",
+   "heroGear": "드래곤발톱",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/c5/DragonClaws.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Dragon Set",
+   "set": "드래곤세트",
+   "released": "LSU: 27.01.2021",
+   "number": 2
+ },
+ {
+   "id": 264,
+   "heroGearEnglish": "Dragon Claws (Pro)",
+   "heroGear": "드래곤발톱",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/bd/DragonClawsPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Dragon Set (Pro)",
+   "set": "드래곤세트(프로)",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 265,
+   "heroGearEnglish": "Dragon Claws (Pro)",
+   "heroGear": "드래곤발톱",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/bd/DragonClawsPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Dragon Set (Pro)",
+   "set": "드래곤세트(프로)",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 266,
+   "heroGearEnglish": "Dragon Claws (Pro)",
+   "heroGear": "드래곤발톱",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/bd/DragonClawsPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Dragon Set (Pro)",
+   "set": "드래곤세트(프로)",
+   "released": "LSU: 27.01.2021",
+   "number": 2
+ },
+ {
+   "id": 267,
+   "heroGearEnglish": "Dragon Eye",
+   "heroGear": "드래곤눈알",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/53/DragonEye.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Dragon Set",
+   "set": "드래곤세트",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 268,
+   "heroGearEnglish": "Dragon Eye",
+   "heroGear": "드래곤눈알",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/53/DragonEye.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Dragon Set",
+   "set": "드래곤세트",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 269,
+   "heroGearEnglish": "Dragon Eye",
+   "heroGear": "드래곤눈알",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/53/DragonEye.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Dragon Set",
+   "set": "드래곤세트",
+   "released": "LSU: 27.01.2021",
+   "number": 2
+ },
+ {
+   "id": 270,
+   "heroGearEnglish": "Dragon Eye (Pro)",
+   "heroGear": "드래곤눈알",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/00/DragonEyePro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Dragon Set (Pro)",
+   "set": "드래곤세트(프로)",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 271,
+   "heroGearEnglish": "Dragon Eye (Pro)",
+   "heroGear": "드래곤눈알",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/00/DragonEyePro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Dragon Set (Pro)",
+   "set": "드래곤세트(프로)",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 272,
+   "heroGearEnglish": "Dragon Eye (Pro)",
+   "heroGear": "드래곤눈알",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/00/DragonEyePro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Dragon Set (Pro)",
+   "set": "드래곤세트(프로)",
+   "released": "LSU: 27.01.2021",
+   "number": 2
+ },
+ {
+   "id": 273,
+   "heroGearEnglish": "Dragon Fangs",
+   "heroGear": "드래곤송곳니",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/a/a2/DragonFangs.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Dragon Set",
+   "set": "드래곤세트",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 274,
+   "heroGearEnglish": "Dragon Fangs",
+   "heroGear": "드래곤송곳니",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/a/a2/DragonFangs.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Dragon Set",
+   "set": "드래곤세트",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 275,
+   "heroGearEnglish": "Dragon Fangs",
+   "heroGear": "드래곤송곳니",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/a/a2/DragonFangs.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Dragon Set",
+   "set": "드래곤세트",
+   "released": "LSU: 27.01.2021",
+   "number": 2
+ },
+ {
+   "id": 276,
+   "heroGearEnglish": "Dragon Fangs (Pro)",
+   "heroGear": "드래곤송곳니",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/f/f9/DragonFangsPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Dragon Set (Pro)",
+   "set": "드래곤세트(프로)",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 277,
+   "heroGearEnglish": "Dragon Fangs (Pro)",
+   "heroGear": "드래곤송곳니",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/f/f9/DragonFangsPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Dragon Set (Pro)",
+   "set": "드래곤세트(프로)",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 278,
+   "heroGearEnglish": "Dragon Fangs (Pro)",
+   "heroGear": "드래곤송곳니",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/f/f9/DragonFangsPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Dragon Set (Pro)",
+   "set": "드래곤세트(프로)",
+   "released": "LSU: 27.01.2021",
+   "number": 2
+ },
+ {
+   "id": 279,
+   "heroGearEnglish": "Dragon Headdress",
+   "heroGear": "드래곤머리장식",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/3/32/DragonHeaddress.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Dragon Set",
+   "set": "드래곤세트",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 280,
+   "heroGearEnglish": "Dragon Headdress",
+   "heroGear": "드래곤머리장식",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/3/32/DragonHeaddress.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Dragon Set",
+   "set": "드래곤세트",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 281,
+   "heroGearEnglish": "Dragon Headdress",
+   "heroGear": "드래곤머리장식",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/3/32/DragonHeaddress.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Dragon Set",
+   "set": "드래곤세트",
+   "released": "LSU: 27.01.2021",
+   "number": 2
+ },
+ {
+   "id": 282,
+   "heroGearEnglish": "Dragon Headdress (Pro)",
+   "heroGear": "드래곤머리장식",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/1a/DragonHeaddressPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Dragon Set (Pro)",
+   "set": "드래곤세트(프로)",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 283,
+   "heroGearEnglish": "Dragon Headdress (Pro)",
+   "heroGear": "드래곤머리장식",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/1a/DragonHeaddressPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Dragon Set (Pro)",
+   "set": "드래곤세트(프로)",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 284,
+   "heroGearEnglish": "Dragon Headdress (Pro)",
+   "heroGear": "드래곤머리장식",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/1a/DragonHeaddressPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Dragon Set (Pro)",
+   "set": "드래곤세트(프로)",
+   "released": "LSU: 27.01.2021",
+   "number": 2
+ },
+ {
+   "id": 285,
+   "heroGearEnglish": "Dragon Wings",
+   "heroGear": "드래곤날개",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d2/DragonWings.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Dragon Set",
+   "set": "드래곤세트",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 286,
+   "heroGearEnglish": "Dragon Wings",
+   "heroGear": "드래곤날개",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d2/DragonWings.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Dragon Set",
+   "set": "드래곤세트",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 287,
+   "heroGearEnglish": "Dragon Wings",
+   "heroGear": "드래곤날개",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d2/DragonWings.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Dragon Set",
+   "set": "드래곤세트",
+   "released": "LSU: 27.01.2021",
+   "number": 2
+ },
+ {
+   "id": 288,
+   "heroGearEnglish": "Dragon Wings (Pro)",
+   "heroGear": "드래곤날개",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/0b/DragonWingsPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Dragon Set (Pro)",
+   "set": "드래곤세트(프로)",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 289,
+   "heroGearEnglish": "Dragon Wings (Pro)",
+   "heroGear": "드래곤날개",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/0b/DragonWingsPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Dragon Set (Pro)",
+   "set": "드래곤세트(프로)",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 290,
+   "heroGearEnglish": "Dragon Wings (Pro)",
+   "heroGear": "드래곤날개",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/0b/DragonWingsPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Dragon Set (Pro)",
+   "set": "드래곤세트(프로)",
+   "released": "LSU: 27.01.2021",
+   "number": 2
+ },
+ {
+   "id": 291,
+   "heroGearEnglish": "Dragon's Bite",
+   "heroGear": "드래곤의이빨",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/8/84/Dragon%27sBite.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Dragon Set",
+   "set": "드래곤세트",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 292,
    "heroGearEnglish": "Dragon's Bite",
    "heroGear": "드래곤의이빨",
    "type": "일반",
@@ -3682,7 +4088,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 264,
+   "id": 293,
    "heroGearEnglish": "Dragon's Bite",
    "heroGear": "드래곤의이빨",
    "type": "일반",
@@ -3696,7 +4102,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 265,
+   "id": 294,
    "heroGearEnglish": "Dragon's Bite (Pro)",
    "heroGear": "드래곤의이빨",
    "type": "프로",
@@ -3710,7 +4116,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 266,
+   "id": 295,
    "heroGearEnglish": "Dragon's Bite (Pro)",
    "heroGear": "드래곤의이빨",
    "type": "프로",
@@ -3724,7 +4130,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 267,
+   "id": 296,
    "heroGearEnglish": "Dragon's Bite (Pro)",
    "heroGear": "드래곤의이빨",
    "type": "프로",
@@ -3738,7 +4144,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 268,
+   "id": 297,
    "heroGearEnglish": "Dragon's Prism",
    "heroGear": "드래곤의프리즘",
    "type": "일반",
@@ -3752,7 +4158,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 269,
+   "id": 298,
    "heroGearEnglish": "Dragon's Prism",
    "heroGear": "드래곤의프리즘",
    "type": "일반",
@@ -3766,7 +4172,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 270,
+   "id": 299,
    "heroGearEnglish": "Dragon's Prism",
    "heroGear": "드래곤의프리즘",
    "type": "일반",
@@ -3780,7 +4186,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 271,
+   "id": 300,
    "heroGearEnglish": "Dragon's Prism",
    "heroGear": "드래곤의프리즘",
    "type": "일반",
@@ -3794,427 +4200,483 @@ export const data = [
    "number": 1
  },
  {
-   "id": 272,
-   "heroGearEnglish": "Dragon's Prism (Pro)",
-   "heroGear": "드래곤의프리즘",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/4/49/Dragon%27sPrismPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 3,
-   "setEnglish": "Dragon Set (Pro)",
-   "set": "드래곤세트(프로)",
-   "released": "LSU: 06.01.2021",
-   "number": 1
- },
- {
-   "id": 273,
-   "heroGearEnglish": "Dragon's Prism (Pro)",
-   "heroGear": "드래곤의프리즘",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/4/49/Dragon%27sPrismPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Dragon Set (Pro)",
-   "set": "드래곤세트(프로)",
-   "released": "LSU: 06.01.2021",
-   "number": 1
- },
- {
-   "id": 274,
-   "heroGearEnglish": "Dragon's Prism (Pro)",
-   "heroGear": "드래곤의프리즘",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/4/49/Dragon%27sPrismPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 5,
-   "setEnglish": "Dragon Set (Pro)",
-   "set": "드래곤세트(프로)",
-   "released": "LSU: 27.01.2021",
-   "number": 2
- },
- {
-   "id": 275,
-   "heroGearEnglish": "Dragonscale Armor",
-   "heroGear": "드래곤비늘갑옷",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/1f/DragonscaleArmor.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 2,
-   "setEnglish": "Dragon Set",
-   "set": "드래곤세트",
-   "released": "LSU: 06.01.2021",
-   "number": 1
- },
- {
-   "id": 276,
-   "heroGearEnglish": "Dragonscale Armor",
-   "heroGear": "드래곤비늘갑옷",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/1f/DragonscaleArmor.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Dragon Set",
-   "set": "드래곤세트",
-   "released": "LSU: 06.01.2021",
-   "number": 1
- },
- {
-   "id": 277,
-   "heroGearEnglish": "Dragonscale Armor",
-   "heroGear": "드래곤비늘갑옷",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/1f/DragonscaleArmor.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 5,
-   "setEnglish": "Dragon Set",
-   "set": "드래곤세트",
-   "released": "LSU: 27.01.2021",
-   "number": 2
- },
- {
-   "id": 278,
-   "heroGearEnglish": "Dragonscale Armor (Pro)",
-   "heroGear": "드래곤비늘갑옷",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d0/DragonscaleArmorPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 2,
-   "setEnglish": "Dragon Set (Pro)",
-   "set": "드래곤세트(프로)",
-   "released": "LSU: 06.01.2021",
-   "number": 1
- },
- {
-   "id": 279,
-   "heroGearEnglish": "Dragonscale Armor (Pro)",
-   "heroGear": "드래곤비늘갑옷",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d0/DragonscaleArmorPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Dragon Set (Pro)",
-   "set": "드래곤세트(프로)",
-   "released": "LSU: 06.01.2021",
-   "number": 1
- },
- {
-   "id": 280,
-   "heroGearEnglish": "Dragonscale Armor (Pro)",
-   "heroGear": "드래곤비늘갑옷",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d0/DragonscaleArmorPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 5,
-   "setEnglish": "Dragon Set (Pro)",
-   "set": "드래곤세트(프로)",
-   "released": "LSU: 27.01.2021",
-   "number": 2
- },
- {
-   "id": 281,
-   "heroGearEnglish": "Dragonslayer",
-   "heroGear": "드래곤슬레이어",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/64/Dragonslayer.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 3,
-   "setEnglish": "Dragon Set",
-   "set": "드래곤세트",
-   "released": "LSU: 06.01.2021",
-   "number": 1
- },
- {
-   "id": 282,
-   "heroGearEnglish": "Dragonslayer",
-   "heroGear": "드래곤슬레이어",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/64/Dragonslayer.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Dragon Set",
-   "set": "드래곤세트",
-   "released": "LSU: 06.01.2021",
-   "number": 1
- },
- {
-   "id": 283,
-   "heroGearEnglish": "Dragonslayer",
-   "heroGear": "드래곤슬레이어",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/64/Dragonslayer.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 5,
-   "setEnglish": "Dragon Set",
-   "set": "드래곤세트",
-   "released": "LSU: 27.01.2021",
-   "number": 2
- },
- {
-   "id": 284,
-   "heroGearEnglish": "Dragonslayer (Pro)",
-   "heroGear": "드래곤슬레이어",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/dc/DragonslayerPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 3,
-   "setEnglish": "Dragon Set (Pro)",
-   "set": "드래곤세트(프로)",
-   "released": "LSU: 06.01.2021",
-   "number": 1
- },
- {
-   "id": 285,
-   "heroGearEnglish": "Dragonslayer (Pro)",
-   "heroGear": "드래곤슬레이어",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/dc/DragonslayerPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Dragon Set (Pro)",
-   "set": "드래곤세트(프로)",
-   "released": "LSU: 06.01.2021",
-   "number": 1
- },
- {
-   "id": 286,
-   "heroGearEnglish": "Dragonslayer (Pro)",
-   "heroGear": "드래곤슬레이어",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/dc/DragonslayerPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 5,
-   "setEnglish": "Dragon Set (Pro)",
-   "set": "드래곤세트(프로)",
-   "released": "LSU: 27.01.2021",
-   "number": 2
- },
- {
-   "id": 287,
-   "heroGearEnglish": "Egg Basket",
-   "heroGear": "달걀바구니",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/cc/EggBasket.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 2,
-   "setEnglish": "Easter Set",
-   "set": "부활절세트",
-   "released": "LSU: 01.04.2021",
-   "number": 1
- },
- {
-   "id": 288,
-   "heroGearEnglish": "Egg Basket",
-   "heroGear": "달걀바구니",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/cc/EggBasket.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Easter Set",
-   "set": "부활절세트",
-   "released": "LSU: 01.04.2021",
-   "number": 1
- },
- {
-   "id": 289,
-   "heroGearEnglish": "Egg Basket",
-   "heroGear": "달걀바구니",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/cc/EggBasket.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 5,
-   "setEnglish": "Easter Set",
-   "set": "부활절세트",
-   "released": "LSU: 15.04.2021",
-   "number": 2
- },
- {
-   "id": 290,
-   "heroGearEnglish": "Egg Basket (Pro)",
-   "heroGear": "달걀바구니",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/6b/EggBasketPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 2,
-   "setEnglish": "Easter Set (Pro)",
-   "set": "부활절세트(프로)",
-   "released": "LSU: 01.04.2021",
-   "number": 1
- },
- {
-   "id": 291,
-   "heroGearEnglish": "Egg Basket (Pro)",
-   "heroGear": "달걀바구니",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/6b/EggBasketPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Easter Set (Pro)",
-   "set": "부활절세트(프로)",
-   "released": "LSU: 01.04.2021",
-   "number": 1
- },
- {
-   "id": 292,
-   "heroGearEnglish": "Eldrak's Flame",
-   "heroGear": "엘드라크의불길",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b7/Eldrak%27sFlame.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 2,
-   "setEnglish": "Pal Power Set",
-   "set": "동료의힘세트",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 293,
-   "heroGearEnglish": "Eldrak's Flame",
-   "heroGear": "엘드라크의불길",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b7/Eldrak%27sFlame.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Pal Power Set",
-   "set": "동료의힘세트",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 294,
-   "heroGearEnglish": "Eternal Night",
-   "heroGear": "영원한밤",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/cb/EternalNight.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 2,
-   "setEnglish": "Winged Set",
-   "set": "날개달린세트",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 295,
-   "heroGearEnglish": "Eternal Night",
-   "heroGear": "영원한밤",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/cb/EternalNight.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Winged Set",
-   "set": "날개달린세트",
-   "released": "LSU: 15.04.2021",
-   "number": 2
- },
- {
-   "id": 296,
-   "heroGearEnglish": "Explorer's Hood",
-   "heroGear": "탐험가의후드",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/57/Explorer%27sHood.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 3,
-   "setEnglish": "North Pole Set",
-   "set": "북극세트",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 297,
-   "heroGearEnglish": "Explorer's Hood",
-   "heroGear": "탐험가의후드",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/57/Explorer%27sHood.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "North Pole Set",
-   "set": "북극세트",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
-   "id": 298,
-   "heroGearEnglish": "Explorer's Hood (Pro)",
-   "heroGear": "탐험가의후드",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/6e/Explorer%27sHoodPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 3,
-   "setEnglish": "North Pole Set (Pro)",
-   "set": "북극세트(프로)",
-   "released": "LSU: 06.05.2021",
-   "number": 1
- },
- {
-   "id": 299,
-   "heroGearEnglish": "Explorer's Hood (Pro)",
-   "heroGear": "탐험가의후드",
-   "type": "프로",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/6e/Explorer%27sHoodPro.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "North Pole Set (Pro)",
-   "set": "북극세트(프로)",
-   "released": "LSU: 06.05.2021",
-   "number": 1
- },
- {
-   "id": 300,
-   "heroGearEnglish": "Fallen Friends",
-   "heroGear": "타락한숄더가드",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/5e/FallenFriends.png",
-   "collectionEnglish": "Hero Items",
-   "collection": "영웅아이템",
-   "level": 2,
-   "setEnglish": "Bad Santa Set",
-   "set": "나쁜산타세트",
-   "released": "LSU: 10.12.2020",
-   "number": 1
- },
- {
    "id": 301,
-   "heroGearEnglish": "Fallen Friends",
-   "heroGear": "타락한숄더가드",
-   "type": "일반",
-   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/5e/FallenFriends.png",
+   "heroGearEnglish": "Dragon's Prism (Pro)",
+   "heroGear": "드래곤의프리즘",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/4/49/Dragon%27sPrismPro.png",
    "collectionEnglish": "Hero Items",
    "collection": "영웅아이템",
-   "level": 4,
-   "setEnglish": "Bad Santa Set",
-   "set": "나쁜산타세트",
-   "released": "LSU: 10.12.2020",
+   "level": 3,
+   "setEnglish": "Dragon Set (Pro)",
+   "set": "드래곤세트(프로)",
+   "released": "LSU: 06.01.2021",
    "number": 1
  },
  {
    "id": 302,
+   "heroGearEnglish": "Dragon's Prism (Pro)",
+   "heroGear": "드래곤의프리즘",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/4/49/Dragon%27sPrismPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Dragon Set (Pro)",
+   "set": "드래곤세트(프로)",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 303,
+   "heroGearEnglish": "Dragon's Prism (Pro)",
+   "heroGear": "드래곤의프리즘",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/4/49/Dragon%27sPrismPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Dragon Set (Pro)",
+   "set": "드래곤세트(프로)",
+   "released": "LSU: 27.01.2021",
+   "number": 2
+ },
+ {
+   "id": 304,
+   "heroGearEnglish": "Dragonscale Armor",
+   "heroGear": "드래곤비늘갑옷",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/1f/DragonscaleArmor.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Dragon Set",
+   "set": "드래곤세트",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 305,
+   "heroGearEnglish": "Dragonscale Armor",
+   "heroGear": "드래곤비늘갑옷",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/1f/DragonscaleArmor.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Dragon Set",
+   "set": "드래곤세트",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 306,
+   "heroGearEnglish": "Dragonscale Armor",
+   "heroGear": "드래곤비늘갑옷",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/1f/DragonscaleArmor.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Dragon Set",
+   "set": "드래곤세트",
+   "released": "LSU: 27.01.2021",
+   "number": 2
+ },
+ {
+   "id": 307,
+   "heroGearEnglish": "Dragonscale Armor (Pro)",
+   "heroGear": "드래곤비늘갑옷",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d0/DragonscaleArmorPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Dragon Set (Pro)",
+   "set": "드래곤세트(프로)",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 308,
+   "heroGearEnglish": "Dragonscale Armor (Pro)",
+   "heroGear": "드래곤비늘갑옷",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d0/DragonscaleArmorPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Dragon Set (Pro)",
+   "set": "드래곤세트(프로)",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 309,
+   "heroGearEnglish": "Dragonscale Armor (Pro)",
+   "heroGear": "드래곤비늘갑옷",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d0/DragonscaleArmorPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Dragon Set (Pro)",
+   "set": "드래곤세트(프로)",
+   "released": "LSU: 27.01.2021",
+   "number": 2
+ },
+ {
+   "id": 310,
+   "heroGearEnglish": "Dragonslayer",
+   "heroGear": "드래곤슬레이어",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/64/Dragonslayer.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Dragon Set",
+   "set": "드래곤세트",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 311,
+   "heroGearEnglish": "Dragonslayer",
+   "heroGear": "드래곤슬레이어",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/64/Dragonslayer.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Dragon Set",
+   "set": "드래곤세트",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 312,
+   "heroGearEnglish": "Dragonslayer",
+   "heroGear": "드래곤슬레이어",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/64/Dragonslayer.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Dragon Set",
+   "set": "드래곤세트",
+   "released": "LSU: 27.01.2021",
+   "number": 2
+ },
+ {
+   "id": 313,
+   "heroGearEnglish": "Dragonslayer (Pro)",
+   "heroGear": "드래곤슬레이어",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/dc/DragonslayerPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Dragon Set (Pro)",
+   "set": "드래곤세트(프로)",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 314,
+   "heroGearEnglish": "Dragonslayer (Pro)",
+   "heroGear": "드래곤슬레이어",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/dc/DragonslayerPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Dragon Set (Pro)",
+   "set": "드래곤세트(프로)",
+   "released": "LSU: 06.01.2021",
+   "number": 1
+ },
+ {
+   "id": 315,
+   "heroGearEnglish": "Dragonslayer (Pro)",
+   "heroGear": "드래곤슬레이어",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/dc/DragonslayerPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Dragon Set (Pro)",
+   "set": "드래곤세트(프로)",
+   "released": "LSU: 27.01.2021",
+   "number": 2
+ },
+ {
+   "id": 316,
+   "heroGearEnglish": "Egg Basket",
+   "heroGear": "달걀바구니",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/cc/EggBasket.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Easter Set",
+   "set": "부활절세트",
+   "released": "LSU: 01.04.2021",
+   "number": 1
+ },
+ {
+   "id": 317,
+   "heroGearEnglish": "Egg Basket",
+   "heroGear": "달걀바구니",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/cc/EggBasket.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Easter Set",
+   "set": "부활절세트",
+   "released": "LSU: 01.04.2021",
+   "number": 1
+ },
+ {
+   "id": 318,
+   "heroGearEnglish": "Egg Basket",
+   "heroGear": "달걀바구니",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/cc/EggBasket.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Easter Set",
+   "set": "부활절세트",
+   "released": "LSU: 15.04.2021",
+   "number": 2
+ },
+ {
+   "id": 319,
+   "heroGearEnglish": "Egg Basket (Pro)",
+   "heroGear": "달걀바구니",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/6b/EggBasketPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Easter Set (Pro)",
+   "set": "부활절세트(프로)",
+   "released": "LSU: 01.04.2021",
+   "number": 1
+ },
+ {
+   "id": 320,
+   "heroGearEnglish": "Egg Basket (Pro)",
+   "heroGear": "달걀바구니",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/6b/EggBasketPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Easter Set (Pro)",
+   "set": "부활절세트(프로)",
+   "released": "LSU: 01.04.2021",
+   "number": 1
+ },
+ {
+   "id": 321,
+   "heroGearEnglish": "Eirik's Saga",
+   "heroGear": "아이릭의전설",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/6a/Eirik%27sSaga.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Viking Set",
+   "set": "바이킹세트",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 322,
+   "heroGearEnglish": "Eirik's Saga",
+   "heroGear": "아이릭의전설",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/6a/Eirik%27sSaga.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Viking Set",
+   "set": "바이킹세트",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 323,
+   "heroGearEnglish": "Eirik's Saga (Pro)",
+   "heroGear": "아이릭의전설",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/5d/Eirik%27sSagaPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Viking Set (Pro)",
+   "set": "바이킹세트(프로)",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 324,
+   "heroGearEnglish": "Eirik's Saga (Pro)",
+   "heroGear": "아이릭의전설",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/5d/Eirik%27sSagaPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Viking Set (Pro)",
+   "set": "바이킹세트(프로)",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 325,
+   "heroGearEnglish": "Eldrak's Flame",
+   "heroGear": "엘드라크의불길",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b7/Eldrak%27sFlame.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Pal Power Set",
+   "set": "동료의힘세트",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 326,
+   "heroGearEnglish": "Eldrak's Flame",
+   "heroGear": "엘드라크의불길",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b7/Eldrak%27sFlame.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Pal Power Set",
+   "set": "동료의힘세트",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 327,
+   "heroGearEnglish": "Eternal Night",
+   "heroGear": "영원한밤",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/cb/EternalNight.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Winged Set",
+   "set": "날개달린세트",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 328,
+   "heroGearEnglish": "Eternal Night",
+   "heroGear": "영원한밤",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/cb/EternalNight.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Winged Set",
+   "set": "날개달린세트",
+   "released": "LSU: 15.04.2021",
+   "number": 2
+ },
+ {
+   "id": 329,
+   "heroGearEnglish": "Explorer's Hood",
+   "heroGear": "탐험가의후드",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/57/Explorer%27sHood.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "North Pole Set",
+   "set": "북극세트",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 330,
+   "heroGearEnglish": "Explorer's Hood",
+   "heroGear": "탐험가의후드",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/57/Explorer%27sHood.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "North Pole Set",
+   "set": "북극세트",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 331,
+   "heroGearEnglish": "Explorer's Hood (Pro)",
+   "heroGear": "탐험가의후드",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/6e/Explorer%27sHoodPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "North Pole Set (Pro)",
+   "set": "북극세트(프로)",
+   "released": "LSU: 06.05.2021",
+   "number": 1
+ },
+ {
+   "id": 332,
+   "heroGearEnglish": "Explorer's Hood (Pro)",
+   "heroGear": "탐험가의후드",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/6e/Explorer%27sHoodPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "North Pole Set (Pro)",
+   "set": "북극세트(프로)",
+   "released": "LSU: 06.05.2021",
+   "number": 1
+ },
+ {
+   "id": 333,
+   "heroGearEnglish": "Fallen Friends",
+   "heroGear": "타락한숄더가드",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/5e/FallenFriends.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Bad Santa Set",
+   "set": "나쁜산타세트",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 334,
+   "heroGearEnglish": "Fallen Friends",
+   "heroGear": "타락한숄더가드",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/5e/FallenFriends.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Bad Santa Set",
+   "set": "나쁜산타세트",
+   "released": "LSU: 10.12.2020",
+   "number": 1
+ },
+ {
+   "id": 335,
    "heroGearEnglish": "Fallen Friends (Pro)",
    "heroGear": "타락한숄더가드",
    "type": "프로",
@@ -4228,7 +4690,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 303,
+   "id": 336,
    "heroGearEnglish": "Fallen Friends (Pro)",
    "heroGear": "타락한숄더가드",
    "type": "프로",
@@ -4242,7 +4704,63 @@ export const data = [
    "number": 1
  },
  {
-   "id": 304,
+   "id": 337,
+   "heroGearEnglish": "Fenrir's Tooth",
+   "heroGear": "펜리르의이빨",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/19/Fenrir%27sTooth.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Viking Set",
+   "set": "바이킹세트",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 338,
+   "heroGearEnglish": "Fenrir's Tooth",
+   "heroGear": "펜리르의이빨",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/19/Fenrir%27sTooth.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Viking Set",
+   "set": "바이킹세트",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 339,
+   "heroGearEnglish": "Fenrir's Tooth (Pro)",
+   "heroGear": "펜리르의이빨",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b9/Fenrir%27sToothPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Viking Set (Pro)",
+   "set": "바이킹세트(프로)",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 340,
+   "heroGearEnglish": "Fenrir's Tooth (Pro)",
+   "heroGear": "펜리르의이빨",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b9/Fenrir%27sToothPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Viking Set (Pro)",
+   "set": "바이킹세트(프로)",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 341,
    "heroGearEnglish": "Fluffy Fists",
    "heroGear": "솜털장갑",
    "type": "일반",
@@ -4256,7 +4774,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 305,
+   "id": 342,
    "heroGearEnglish": "Fluffy Fists",
    "heroGear": "솜털장갑",
    "type": "일반",
@@ -4270,7 +4788,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 306,
+   "id": 343,
    "heroGearEnglish": "Fluffy Fists",
    "heroGear": "솜털장갑",
    "type": "일반",
@@ -4284,7 +4802,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 307,
+   "id": 344,
    "heroGearEnglish": "Fluffy Fists (Pro)",
    "heroGear": "솜털장갑",
    "type": "프로",
@@ -4298,7 +4816,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 308,
+   "id": 345,
    "heroGearEnglish": "Fluffy Fists (Pro)",
    "heroGear": "솜털장갑",
    "type": "프로",
@@ -4312,7 +4830,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 309,
+   "id": 346,
    "heroGearEnglish": "Forgeheart",
    "heroGear": "주조의심장",
    "type": "일반",
@@ -4326,7 +4844,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 310,
+   "id": 347,
    "heroGearEnglish": "Forgeheart",
    "heroGear": "주조의심장",
    "type": "일반",
@@ -4340,7 +4858,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 311,
+   "id": 348,
    "heroGearEnglish": "Forgeheart",
    "heroGear": "주조의심장",
    "type": "일반",
@@ -4354,7 +4872,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 312,
+   "id": 349,
    "heroGearEnglish": "Forgeheart (Pro)",
    "heroGear": "주조의심장",
    "type": "프로",
@@ -4368,7 +4886,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 313,
+   "id": 350,
    "heroGearEnglish": "Forgeheart (Pro)",
    "heroGear": "주조의심장",
    "type": "프로",
@@ -4382,7 +4900,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 314,
+   "id": 351,
    "heroGearEnglish": "Forgeheart (Pro)",
    "heroGear": "주조의심장",
    "type": "프로",
@@ -4396,7 +4914,63 @@ export const data = [
    "number": 2
  },
  {
-   "id": 315,
+   "id": 352,
+   "heroGearEnglish": "Fright Knight",
+   "heroGear": "후라이트나이트",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/59/FrightKnight.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Vampire Set",
+   "set": "뱀파이어세트",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 353,
+   "heroGearEnglish": "Fright Knight",
+   "heroGear": "후라이트나이트",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/59/FrightKnight.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Vampire Set",
+   "set": "뱀파이어세트",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 354,
+   "heroGearEnglish": "Fright Knight (Pro)",
+   "heroGear": "후라이트나이트",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/a/aa/FrightKnightPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Vampire Set (Pro)",
+   "set": "뱀파이어세트(세트)",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 355,
+   "heroGearEnglish": "Fright Knight (Pro)",
+   "heroGear": "후라이트나이트",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/a/aa/FrightKnightPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Vampire Set (Pro)",
+   "set": "뱀파이어세트(세트)",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 356,
    "heroGearEnglish": "Gargoyle Wings",
    "heroGear": "가고일날개",
    "type": "일반",
@@ -4410,7 +4984,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 316,
+   "id": 357,
    "heroGearEnglish": "Gargoyle Wings (Pro)",
    "heroGear": "가고일날개",
    "type": "프로",
@@ -4424,7 +4998,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 317,
+   "id": 358,
    "heroGearEnglish": "Generosity Belt",
    "heroGear": "관대한벨트",
    "type": "일반",
@@ -4438,7 +5012,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 318,
+   "id": 359,
    "heroGearEnglish": "Generosity Belt",
    "heroGear": "관대한벨트",
    "type": "일반",
@@ -4452,7 +5026,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 319,
+   "id": 360,
    "heroGearEnglish": "Generosity Belt (Pro)",
    "heroGear": "관대한벨트",
    "type": "프로",
@@ -4466,7 +5040,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 320,
+   "id": 361,
    "heroGearEnglish": "Generosity Belt (Pro)",
    "heroGear": "관대한벨트",
    "type": "프로",
@@ -4480,7 +5054,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 321,
+   "id": 362,
    "heroGearEnglish": "Ghastly Lantern",
    "heroGear": "섬뜩한랜턴",
    "type": "일반",
@@ -4494,7 +5068,49 @@ export const data = [
    "number": 1
  },
  {
-   "id": 322,
+   "id": 363,
+   "heroGearEnglish": "Ghastly Lantern",
+   "heroGear": "섬뜩한랜턴",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/bb/GhastlyLantern.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Oddball Set III",
+   "set": "괴짜세트3",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 364,
+   "heroGearEnglish": "Ghastly Lantern",
+   "heroGear": "섬뜩한랜턴",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/bb/GhastlyLantern.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Spell Power Set III",
+   "set": "마법위력세트3",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 365,
+   "heroGearEnglish": "Ghastly Lantern",
+   "heroGear": "섬뜩한랜턴",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/bb/GhastlyLantern.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Oddball Set III",
+   "set": "괴짜세트3",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 366,
    "heroGearEnglish": "Glacier Buckle",
    "heroGear": "빙하버클",
    "type": "일반",
@@ -4508,7 +5124,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 323,
+   "id": 367,
    "heroGearEnglish": "Glacier Buckle",
    "heroGear": "빙하버클",
    "type": "일반",
@@ -4522,7 +5138,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 324,
+   "id": 368,
    "heroGearEnglish": "Glacier Buckle (Pro)",
    "heroGear": "빙하버클",
    "type": "프로",
@@ -4536,7 +5152,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 325,
+   "id": 369,
    "heroGearEnglish": "Glacier Buckle (Pro)",
    "heroGear": "빙하버클",
    "type": "프로",
@@ -4550,7 +5166,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 326,
+   "id": 370,
    "heroGearEnglish": "Golden Fleece",
    "heroGear": "황금빛양모",
    "type": "일반",
@@ -4564,7 +5180,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 327,
+   "id": 371,
    "heroGearEnglish": "Golden Fleece",
    "heroGear": "황금빛양모",
    "type": "일반",
@@ -4578,7 +5194,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 328,
+   "id": 372,
    "heroGearEnglish": "Golden Fleece",
    "heroGear": "황금빛양모",
    "type": "일반",
@@ -4592,7 +5208,7 @@ export const data = [
    "number": 3
  },
  {
-   "id": 329,
+   "id": 373,
    "heroGearEnglish": "Golden Fleece",
    "heroGear": "황금빛양모",
    "type": "일반",
@@ -4606,7 +5222,7 @@ export const data = [
    "number": 4
  },
  {
-   "id": 330,
+   "id": 374,
    "heroGearEnglish": "Golden Grace",
    "heroGear": "황금빛은총",
    "type": "일반",
@@ -4620,7 +5236,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 331,
+   "id": 375,
    "heroGearEnglish": "Golden Grace",
    "heroGear": "황금빛은총",
    "type": "일반",
@@ -4634,7 +5250,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 332,
+   "id": 376,
    "heroGearEnglish": "Golden Grace",
    "heroGear": "황금빛은총",
    "type": "일반",
@@ -4648,7 +5264,7 @@ export const data = [
    "number": 3
  },
  {
-   "id": 333,
+   "id": 377,
    "heroGearEnglish": "Golden Grace",
    "heroGear": "황금빛은총",
    "type": "일반",
@@ -4662,7 +5278,7 @@ export const data = [
    "number": 4
  },
  {
-   "id": 334,
+   "id": 378,
    "heroGearEnglish": "Golden Strike",
    "heroGear": "황금빛타격",
    "type": "일반",
@@ -4676,7 +5292,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 335,
+   "id": 379,
    "heroGearEnglish": "Golden Strike",
    "heroGear": "황금빛타격",
    "type": "일반",
@@ -4690,7 +5306,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 336,
+   "id": 380,
    "heroGearEnglish": "Golden Strike",
    "heroGear": "황금빛타격",
    "type": "일반",
@@ -4704,7 +5320,7 @@ export const data = [
    "number": 3
  },
  {
-   "id": 337,
+   "id": 381,
    "heroGearEnglish": "Golden Strike",
    "heroGear": "황금빛타격",
    "type": "일반",
@@ -4718,7 +5334,7 @@ export const data = [
    "number": 4
  },
  {
-   "id": 338,
+   "id": 382,
    "heroGearEnglish": "Golden Touch",
    "heroGear": "황금빛손길",
    "type": "일반",
@@ -4732,7 +5348,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 339,
+   "id": 383,
    "heroGearEnglish": "Golden Touch",
    "heroGear": "황금빛손길",
    "type": "일반",
@@ -4746,7 +5362,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 340,
+   "id": 384,
    "heroGearEnglish": "Golden Touch",
    "heroGear": "황금빛손길",
    "type": "일반",
@@ -4760,7 +5376,7 @@ export const data = [
    "number": 3
  },
  {
-   "id": 341,
+   "id": 385,
    "heroGearEnglish": "Golden Touch",
    "heroGear": "황금빛손길",
    "type": "일반",
@@ -4774,7 +5390,7 @@ export const data = [
    "number": 4
  },
  {
-   "id": 342,
+   "id": 386,
    "heroGearEnglish": "Growl's Bravery",
    "heroGear": "로울의용기",
    "type": "일반",
@@ -4788,7 +5404,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 343,
+   "id": 387,
    "heroGearEnglish": "Growl's Bravery",
    "heroGear": "로울의용기",
    "type": "일반",
@@ -4802,7 +5418,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 344,
+   "id": 388,
    "heroGearEnglish": "Growl's Bravery",
    "heroGear": "로울의용기",
    "type": "일반",
@@ -4816,7 +5432,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 345,
+   "id": 389,
    "heroGearEnglish": "Hareband",
    "heroGear": "토끼머리띠",
    "type": "일반",
@@ -4830,7 +5446,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 346,
+   "id": 390,
    "heroGearEnglish": "Hareband",
    "heroGear": "토끼머리띠",
    "type": "일반",
@@ -4844,7 +5460,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 347,
+   "id": 391,
    "heroGearEnglish": "Hareband",
    "heroGear": "토끼머리띠",
    "type": "일반",
@@ -4858,7 +5474,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 348,
+   "id": 392,
    "heroGearEnglish": "Hareband (Pro)",
    "heroGear": "토끼머리띠",
    "type": "프로",
@@ -4872,7 +5488,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 349,
+   "id": 393,
    "heroGearEnglish": "Hareband (Pro)",
    "heroGear": "토끼머리띠",
    "type": "프로",
@@ -4886,7 +5502,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 350,
+   "id": 394,
    "heroGearEnglish": "Headhunters",
    "heroGear": "헤드헌터",
    "type": "일반",
@@ -4900,7 +5516,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 351,
+   "id": 395,
    "heroGearEnglish": "Headhunters",
    "heroGear": "헤드헌터",
    "type": "일반",
@@ -4914,7 +5530,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 352,
+   "id": 396,
    "heroGearEnglish": "Headhunters (Pro)",
    "heroGear": "헤드헌터",
    "type": "프로",
@@ -4928,7 +5544,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 353,
+   "id": 397,
    "heroGearEnglish": "Headhunters (Pro)",
    "heroGear": "헤드헌터",
    "type": "프로",
@@ -4942,7 +5558,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 354,
+   "id": 398,
    "heroGearEnglish": "Hollow",
    "heroGear": "할로우",
    "type": "일반",
@@ -4956,7 +5572,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 355,
+   "id": 399,
    "heroGearEnglish": "Hollow",
    "heroGear": "할로우",
    "type": "일반",
@@ -4970,7 +5586,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 356,
+   "id": 400,
    "heroGearEnglish": "Hollow (Pro)",
    "heroGear": "할로우",
    "type": "프로",
@@ -4984,7 +5600,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 357,
+   "id": 401,
    "heroGearEnglish": "Hollow (Pro)",
    "heroGear": "할로우",
    "type": "프로",
@@ -4998,7 +5614,119 @@ export const data = [
    "number": 1
  },
  {
-   "id": 358,
+   "id": 402,
+   "heroGearEnglish": "Horkos' Curse (Pro)",
+   "heroGear": "호르코스의저주",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/9/92/Horkos%27Curse.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Horkos Set",
+   "set": "호르코스세트",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 403,
+   "heroGearEnglish": "Horkos' Curse (Pro)",
+   "heroGear": "호르코스의저주",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/9/92/Horkos%27Curse.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Horkos Set",
+   "set": "호르코스세트",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 404,
+   "heroGearEnglish": "Horkos' Dominance (Pro)",
+   "heroGear": "호르코스의권세",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d8/Horkos%27Dominance.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Horkos Set",
+   "set": "호르코스세트",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 405,
+   "heroGearEnglish": "Horkos' Dominance (Pro)",
+   "heroGear": "호르코스의권세",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d8/Horkos%27Dominance.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Horkos Set",
+   "set": "호르코스세트",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 406,
+   "heroGearEnglish": "Horkos' Trap (Pro)",
+   "heroGear": "호르코스의함정",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/7/73/Horkos%27Trap.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Horkos Set",
+   "set": "호르코스세트",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 407,
+   "heroGearEnglish": "Horkos' Trap (Pro)",
+   "heroGear": "호르코스의함정",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/7/73/Horkos%27Trap.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Horkos Set",
+   "set": "호르코스세트",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 408,
+   "heroGearEnglish": "Horkos' Virus (Pro)",
+   "heroGear": "호르코스의바이러스",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d8/Horkos%27Virus.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Horkos Set",
+   "set": "호르코스세트",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 409,
+   "heroGearEnglish": "Horkos' Virus (Pro)",
+   "heroGear": "호르코스의바이러스",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d8/Horkos%27Virus.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Horkos Set",
+   "set": "호르코스세트",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 410,
    "heroGearEnglish": "Horseman Cloak",
    "heroGear": "기수코트",
    "type": "일반",
@@ -5012,7 +5740,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 359,
+   "id": 411,
    "heroGearEnglish": "Horseman Cloak",
    "heroGear": "기수코트",
    "type": "일반",
@@ -5026,7 +5754,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 360,
+   "id": 412,
    "heroGearEnglish": "Horseman Cloak (Pro)",
    "heroGear": "기수코트",
    "type": "프로",
@@ -5040,7 +5768,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 361,
+   "id": 413,
    "heroGearEnglish": "Horseman Cloak (Pro)",
    "heroGear": "기수코트",
    "type": "프로",
@@ -5054,7 +5782,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 362,
+   "id": 414,
    "heroGearEnglish": "Howl's Bite",
    "heroGear": "하울의이빨",
    "type": "일반",
@@ -5068,7 +5796,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 363,
+   "id": 415,
    "heroGearEnglish": "Howl's Bite",
    "heroGear": "하울의이빨",
    "type": "일반",
@@ -5082,7 +5810,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 364,
+   "id": 416,
    "heroGearEnglish": "Howl's Bite",
    "heroGear": "하울의이빨",
    "type": "일반",
@@ -5096,7 +5824,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 365,
+   "id": 417,
    "heroGearEnglish": "Ice Crystal",
    "heroGear": "얼음수정",
    "type": "일반",
@@ -5110,7 +5838,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 366,
+   "id": 418,
    "heroGearEnglish": "Ice Crystal",
    "heroGear": "얼음수정",
    "type": "일반",
@@ -5124,7 +5852,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 367,
+   "id": 419,
    "heroGearEnglish": "Ice Crystal (Pro)",
    "heroGear": "얼음수정",
    "type": "프로",
@@ -5138,7 +5866,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 368,
+   "id": 420,
    "heroGearEnglish": "Ice Crystal (Pro)",
    "heroGear": "얼음수정",
    "type": "프로",
@@ -5152,7 +5880,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 369,
+   "id": 421,
    "heroGearEnglish": "Ichabod's Bane",
    "heroGear": "이카보드의파멸",
    "type": "일반",
@@ -5166,7 +5894,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 370,
+   "id": 422,
    "heroGearEnglish": "Ichabod's Bane",
    "heroGear": "이카보드의파멸",
    "type": "일반",
@@ -5180,7 +5908,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 371,
+   "id": 423,
    "heroGearEnglish": "Ichabod's Bane (Pro)",
    "heroGear": "이카보드의파멸",
    "type": "프로",
@@ -5194,7 +5922,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 372,
+   "id": 424,
    "heroGearEnglish": "Ichabod's Bane (Pro)",
    "heroGear": "이카보드의파멸",
    "type": "프로",
@@ -5208,7 +5936,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 373,
+   "id": 425,
    "heroGearEnglish": "Imperial Seal",
    "heroGear": "황제의인장",
    "type": "일반",
@@ -5222,7 +5950,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 374,
+   "id": 426,
    "heroGearEnglish": "Imperial Seal",
    "heroGear": "황제의인장",
    "type": "일반",
@@ -5236,7 +5964,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 375,
+   "id": 427,
    "heroGearEnglish": "Imperial Seal",
    "heroGear": "황제의인장",
    "type": "일반",
@@ -5250,7 +5978,7 @@ export const data = [
    "number": 4
  },
  {
-   "id": 376,
+   "id": 428,
    "heroGearEnglish": "Imperial Slippers",
    "heroGear": "황제의슬리퍼",
    "type": "일반",
@@ -5264,7 +5992,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 377,
+   "id": 429,
    "heroGearEnglish": "Imperial Slippers",
    "heroGear": "황제의슬리퍼",
    "type": "일반",
@@ -5278,7 +6006,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 378,
+   "id": 430,
    "heroGearEnglish": "Imperial Slippers",
    "heroGear": "황제의슬리퍼",
    "type": "일반",
@@ -5292,7 +6020,7 @@ export const data = [
    "number": 4
  },
  {
-   "id": 379,
+   "id": 431,
    "heroGearEnglish": "Inuit Blanket",
    "heroGear": "이누이트담요",
    "type": "일반",
@@ -5306,7 +6034,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 380,
+   "id": 432,
    "heroGearEnglish": "Inuit Blanket",
    "heroGear": "이누이트담요",
    "type": "일반",
@@ -5320,7 +6048,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 381,
+   "id": 433,
    "heroGearEnglish": "Inuit Blanket (Pro)",
    "heroGear": "이누이트담요",
    "type": "프로",
@@ -5334,7 +6062,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 382,
+   "id": 434,
    "heroGearEnglish": "Inuit Blanket (Pro)",
    "heroGear": "이누이트담요",
    "type": "프로",
@@ -5348,7 +6076,21 @@ export const data = [
    "number": 1
  },
  {
-   "id": 383,
+   "id": 435,
+   "heroGearEnglish": "Inviolable Warhelm",
+   "heroGear": "신성한전쟁투구",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/a/a4/InviolableWarhelm.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Granite Set",
+   "set": "화강암세트",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 436,
    "heroGearEnglish": "Irmgard's Force",
    "heroGear": "이름가르트의힘",
    "type": "일반",
@@ -5362,7 +6104,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 384,
+   "id": 437,
    "heroGearEnglish": "Irmgard's Force",
    "heroGear": "이름가르트의힘",
    "type": "일반",
@@ -5376,7 +6118,21 @@ export const data = [
    "number": 1
  },
  {
-   "id": 385,
+   "id": 438,
+   "heroGearEnglish": "Iron Rule",
+   "heroGear": "강철의규율",
+   "type": "일반",
+   "url": "https://user-images.githubusercontent.com/24848110/33519396-7e56363c-d79d-11e7-969b-09782f5ccbab.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Reaper Set (Pro)",
+   "set": "수확자세트(프로)",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 439,
    "heroGearEnglish": "Irving Tassles",
    "heroGear": "어빙태슬",
    "type": "일반",
@@ -5390,7 +6146,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 386,
+   "id": 440,
    "heroGearEnglish": "Irving Tassles",
    "heroGear": "어빙태슬",
    "type": "일반",
@@ -5404,7 +6160,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 387,
+   "id": 441,
    "heroGearEnglish": "Irving Tassles (Pro)",
    "heroGear": "어빙태슬",
    "type": "프로",
@@ -5418,7 +6174,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 388,
+   "id": 442,
    "heroGearEnglish": "Irving Tassles (Pro)",
    "heroGear": "어빙태슬",
    "type": "프로",
@@ -5432,7 +6188,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 389,
+   "id": 443,
    "heroGearEnglish": "Izor, Warbringer",
    "heroGear": "전쟁인도자이소르",
    "type": "일반",
@@ -5446,7 +6202,63 @@ export const data = [
    "number": 1
  },
  {
-   "id": 390,
+   "id": 444,
+   "heroGearEnglish": "Karloff Pauldrons",
+   "heroGear": "칼로프견갑",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/7/75/KarloffPauldrons.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Vampire Set",
+   "set": "뱀파이어세트",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 445,
+   "heroGearEnglish": "Karloff Pauldrons",
+   "heroGear": "칼로프견갑",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/7/75/KarloffPauldrons.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Vampire Set",
+   "set": "뱀파이어세트",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 446,
+   "heroGearEnglish": "Karloff Pauldrons (Pro)",
+   "heroGear": "칼로프견갑",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/f/f8/KarloffPauldronsPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Vampire Set (Pro)",
+   "set": "뱀파이어세트(프로)",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 447,
+   "heroGearEnglish": "Karloff Pauldrons (Pro)",
+   "heroGear": "칼로프견갑",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/f/f8/KarloffPauldronsPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Vampire Set (Pro)",
+   "set": "뱀파이어세트(프로)",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 448,
    "heroGearEnglish": "Katrina's Ring",
    "heroGear": "카트리나의반지",
    "type": "일반",
@@ -5460,7 +6272,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 391,
+   "id": 449,
    "heroGearEnglish": "Katrina's Ring",
    "heroGear": "카트리나의반지",
    "type": "일반",
@@ -5474,7 +6286,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 392,
+   "id": 450,
    "heroGearEnglish": "Katrina's Ring (Pro)",
    "heroGear": "카트리나의반지",
    "type": "프로",
@@ -5488,7 +6300,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 393,
+   "id": 451,
    "heroGearEnglish": "Katrina's Ring (Pro)",
    "heroGear": "카트리나의반지",
    "type": "프로",
@@ -5502,7 +6314,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 394,
+   "id": 452,
    "heroGearEnglish": "Killer Carrot",
    "heroGear": "죽여주는당근",
    "type": "일반",
@@ -5516,7 +6328,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 395,
+   "id": 453,
    "heroGearEnglish": "Killer Carrot",
    "heroGear": "죽여주는당근",
    "type": "일반",
@@ -5530,7 +6342,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 396,
+   "id": 454,
    "heroGearEnglish": "Killer Carrot",
    "heroGear": "죽여주는당근",
    "type": "일반",
@@ -5544,7 +6356,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 397,
+   "id": 455,
    "heroGearEnglish": "Killer Carrot (Pro)",
    "heroGear": "죽여주는당근",
    "type": "프로",
@@ -5558,7 +6370,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 398,
+   "id": 456,
    "heroGearEnglish": "Killer Carrot (Pro)",
    "heroGear": "죽여주는당근",
    "type": "프로",
@@ -5572,7 +6384,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 399,
+   "id": 457,
    "heroGearEnglish": "Killer Carrot (Pro)",
    "heroGear": "죽여주는당근",
    "type": "프로",
@@ -5586,7 +6398,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 400,
+   "id": 458,
    "heroGearEnglish": "Kiln Carapace",
    "heroGear": "가마의껍질",
    "type": "일반",
@@ -5600,7 +6412,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 401,
+   "id": 459,
    "heroGearEnglish": "Kiln Carapace",
    "heroGear": "가마의껍질",
    "type": "일반",
@@ -5614,7 +6426,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 402,
+   "id": 460,
    "heroGearEnglish": "Kiln Carapace",
    "heroGear": "가마의껍질",
    "type": "일반",
@@ -5628,7 +6440,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 403,
+   "id": 461,
    "heroGearEnglish": "Kiln Carapace (Pro)",
    "heroGear": "가마의껍질",
    "type": "프로",
@@ -5642,7 +6454,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 404,
+   "id": 462,
    "heroGearEnglish": "Kiln Carapace (Pro)",
    "heroGear": "가마의껍질",
    "type": "프로",
@@ -5656,7 +6468,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 405,
+   "id": 463,
    "heroGearEnglish": "Kiln Carapace (Pro)",
    "heroGear": "가마의껍질",
    "type": "프로",
@@ -5670,7 +6482,91 @@ export const data = [
    "number": 2
  },
  {
-   "id": 406,
+   "id": 464,
+   "heroGearEnglish": "Krenko's Revenge",
+   "heroGear": "krenko의복수",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e9/Krenko%27sRevenge.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Oddball Set III",
+   "set": "괴짜세트3",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 465,
+   "heroGearEnglish": "Krenko's Revenge",
+   "heroGear": "krenko의복수",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e9/Krenko%27sRevenge.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Oddball Set III",
+   "set": "괴짜세트3",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 466,
+   "heroGearEnglish": "Krugerex' Cudgel",
+   "heroGear": "크루거렉스의곤봉",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/4/42/Krugerex%27Cudgel.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Spell Power Set VI",
+   "set": "마법위력세트6",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 467,
+   "heroGearEnglish": "Krugerex' Cudgel",
+   "heroGear": "크루거렉스의곤봉",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/4/42/Krugerex%27Cudgel.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Spell Power Set VI",
+   "set": "마법위력세트6",
+   "released": "LSU: 05.08.2021",
+   "number": 2
+ },
+ {
+   "id": 468,
+   "heroGearEnglish": "Krugerex' Grip",
+   "heroGear": "크루거렉스의손아귀",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/2/20/Krugerex%27Grip.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Spell Power Set VI",
+   "set": "마법위력세트6",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 469,
+   "heroGearEnglish": "Krugerex' Grip",
+   "heroGear": "크루거렉스의손아귀",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/2/20/Krugerex%27Grip.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Spell Power Set VI",
+   "set": "마법위력세트6",
+   "released": "LSU: 05.08.2021",
+   "number": 2
+ },
+ {
+   "id": 470,
    "heroGearEnglish": "Legionnaire Greaves",
    "heroGear": "군단병경갑",
    "type": "일반",
@@ -5684,7 +6580,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 407,
+   "id": 471,
    "heroGearEnglish": "Legionnaire Greaves",
    "heroGear": "군단병경갑",
    "type": "일반",
@@ -5698,7 +6594,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 408,
+   "id": 472,
    "heroGearEnglish": "Little Helpers",
    "heroGear": "작은용정들",
    "type": "일반",
@@ -5712,7 +6608,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 409,
+   "id": 473,
    "heroGearEnglish": "Little Helpers",
    "heroGear": "작은용정들",
    "type": "일반",
@@ -5726,7 +6622,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 410,
+   "id": 474,
    "heroGearEnglish": "Little Helpers (Pro)",
    "heroGear": "작은용정들",
    "type": "프로",
@@ -5740,7 +6636,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 411,
+   "id": 475,
    "heroGearEnglish": "Little Helpers (Pro)",
    "heroGear": "작은용정들",
    "type": "프로",
@@ -5754,7 +6650,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 412,
+   "id": 476,
    "heroGearEnglish": "Lucky Pouch",
    "heroGear": "복주머니",
    "type": "일반",
@@ -5768,7 +6664,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 413,
+   "id": 477,
    "heroGearEnglish": "Lucky Pouch",
    "heroGear": "복주머니",
    "type": "일반",
@@ -5782,7 +6678,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 414,
+   "id": 478,
    "heroGearEnglish": "Lucky Pouch",
    "heroGear": "복주머니",
    "type": "일반",
@@ -5796,7 +6692,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 415,
+   "id": 479,
    "heroGearEnglish": "Lucky Pouch (Pro)",
    "heroGear": "복주머니",
    "type": "프로",
@@ -5810,7 +6706,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 416,
+   "id": 480,
    "heroGearEnglish": "Lucky Pouch (Pro)",
    "heroGear": "복주머니",
    "type": "프로",
@@ -5824,7 +6720,91 @@ export const data = [
    "number": 1
  },
  {
-   "id": 417,
+   "id": 481,
+   "heroGearEnglish": "Lugosi's Last Will",
+   "heroGear": "루고시의유언",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/a/a0/LugosisLastWill.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Vampire Set",
+   "set": "뱀파이어세트",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 482,
+   "heroGearEnglish": "Lugosi's Last Will",
+   "heroGear": "루고시의유언",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/a/a0/LugosisLastWill.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Vampire Set",
+   "set": "뱀파이어세트",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 483,
+   "heroGearEnglish": "Lugosi's Last Will (Pro)",
+   "heroGear": "루고시의유언",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/11/Lugosi%27sLastWillPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Vampire Set (Pro)",
+   "set": "뱀파이어세트(프로)",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 484,
+   "heroGearEnglish": "Lugosi's Last Will (Pro)",
+   "heroGear": "루고시의유언",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/11/Lugosi%27sLastWillPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Vampire Set (Pro)",
+   "set": "뱀파이어세트(프로)",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 485,
+   "heroGearEnglish": "Maestro",
+   "heroGear": "마에스트로라켓",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/f/fa/Maestro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Oddball Set I",
+   "set": "괴짜세트1",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 486,
+   "heroGearEnglish": "Maestro",
+   "heroGear": "마에스트로라켓",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/f/fa/Maestro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 6,
+   "setEnglish": "Oddball Set I",
+   "set": "괴짜세트1",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 487,
    "heroGearEnglish": "March of the Dead",
    "heroGear": "망자의행진",
    "type": "일반",
@@ -5838,7 +6818,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 418,
+   "id": 488,
    "heroGearEnglish": "March of the Dead",
    "heroGear": "망자의행진",
    "type": "일반",
@@ -5852,7 +6832,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 419,
+   "id": 489,
    "heroGearEnglish": "March of the Dead (Pro)",
    "heroGear": "망자의행진",
    "type": "프로",
@@ -5866,7 +6846,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 420,
+   "id": 490,
    "heroGearEnglish": "March of the Dead (Pro)",
    "heroGear": "망자의행진",
    "type": "프로",
@@ -5880,7 +6860,35 @@ export const data = [
    "number": 1
  },
  {
-   "id": 421,
+   "id": 491,
+   "heroGearEnglish": "Masamune",
+   "heroGear": "masamune",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/1b/Masamune.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Oddball Set III",
+   "set": "괴짜세트3",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 492,
+   "heroGearEnglish": "Masamune",
+   "heroGear": "masamune",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/1/1b/Masamune.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Oddball Set III",
+   "set": "괴짜세트3",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 493,
    "heroGearEnglish": "Nephren-Ka's Scarab",
    "heroGear": "네프렌카의스카라베",
    "type": "일반",
@@ -5894,7 +6902,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 422,
+   "id": 494,
    "heroGearEnglish": "Nephren-Ka's Scarab (Pro)",
    "heroGear": "네프렌카의스카라베",
    "type": "프로",
@@ -5908,7 +6916,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 423,
+   "id": 495,
    "heroGearEnglish": "North Pole Robe",
    "heroGear": "북극로브",
    "type": "일반",
@@ -5922,7 +6930,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 424,
+   "id": 496,
    "heroGearEnglish": "North Pole Robe",
    "heroGear": "북극로브",
    "type": "일반",
@@ -5936,7 +6944,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 425,
+   "id": 497,
    "heroGearEnglish": "North Pole Robe (Pro)",
    "heroGear": "북극로브",
    "type": "프로",
@@ -5950,7 +6958,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 426,
+   "id": 498,
    "heroGearEnglish": "North Pole Robe (Pro)",
    "heroGear": "북극로브",
    "type": "프로",
@@ -5964,7 +6972,119 @@ export const data = [
    "number": 1
  },
  {
-   "id": 427,
+   "id": 499,
+   "heroGearEnglish": "Nosfer-Hair-Do",
+   "heroGear": "흡혈귀헤어스타일",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/8/8e/Nosfer-Hair-Do.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Vampire Set",
+   "set": "뱀파이어세트",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 500,
+   "heroGearEnglish": "Nosfer-Hair-Do",
+   "heroGear": "흡혈귀헤어스타일",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/8/8e/Nosfer-Hair-Do.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Vampire Set",
+   "set": "뱀파이어세트",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 501,
+   "heroGearEnglish": "Nosfer-Hair-Do (Pro)",
+   "heroGear": "흡혈귀헤어스타일",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b1/Nosfer-Hair-DoPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Vampire Set (Pro)",
+   "set": "뱀파이어세트(프로)",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 502,
+   "heroGearEnglish": "Nosfer-Hair-Do (Pro)",
+   "heroGear": "흡혈귀헤어스타일",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b1/Nosfer-Hair-DoPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Vampire Set (Pro)",
+   "set": "뱀파이어세트(프로)",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 503,
+   "heroGearEnglish": "Odin's Sacrafice",
+   "heroGear": "오딘의희생",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/f/f4/Odin%27sSacrifice.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Viking Set",
+   "set": "바이킹세트",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 504,
+   "heroGearEnglish": "Odin's Sacrafice",
+   "heroGear": "오딘의희생",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/f/f4/Odin%27sSacrifice.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Viking Set",
+   "set": "바이킹세트",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 505,
+   "heroGearEnglish": "Odin's Sacrafice (Pro)",
+   "heroGear": "오딘의희생",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/c5/Odin%27sSacrificePro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Viking Set (Pro)",
+   "set": "바이킹세트(프로)",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 506,
+   "heroGearEnglish": "Odin's Sacrafice (Pro)",
+   "heroGear": "오딘의희생",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/c5/Odin%27sSacrificePro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Viking Set (Pro)",
+   "set": "바이킹세트(프로)",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 507,
    "heroGearEnglish": "Ogre Skulls",
    "heroGear": "거인의해골",
    "type": "일반",
@@ -5978,7 +7098,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 428,
+   "id": 508,
    "heroGearEnglish": "Ogre Skulls (Pro)",
    "heroGear": "거인의해골",
    "type": "프로",
@@ -5992,7 +7112,63 @@ export const data = [
    "number": 1
  },
  {
-   "id": 429,
+   "id": 509,
+   "heroGearEnglish": "Olaf's Doom",
+   "heroGear": "올라프의파멸",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/7/73/Olaf%27sDoom.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Viking Set",
+   "set": "바이킹세트",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 510,
+   "heroGearEnglish": "Olaf's Doom",
+   "heroGear": "올라프의파멸",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/7/73/Olaf%27sDoom.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Viking Set",
+   "set": "바이킹세트",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 511,
+   "heroGearEnglish": "Olaf's Doom (Pro)",
+   "heroGear": "올라프의파멸",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/8/89/Olaf%27sDoomPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Viking Set (Pro)",
+   "set": "바이킹세트(프로)",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 512,
+   "heroGearEnglish": "Olaf's Doom (Pro)",
+   "heroGear": "올라프의파멸",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/8/89/Olaf%27sDoomPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Viking Set (Pro)",
+   "set": "바이킹세트(프로)",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 513,
    "heroGearEnglish": "Omega Armor (Pro)",
    "heroGear": "오메가갑옷",
    "type": "프로",
@@ -6006,7 +7182,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 430,
+   "id": 514,
    "heroGearEnglish": "Omega Armor (Pro)",
    "heroGear": "오메가갑옷",
    "type": "프로",
@@ -6020,7 +7196,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 431,
+   "id": 515,
    "heroGearEnglish": "Omega Armor (Pro)",
    "heroGear": "오메가갑옷",
    "type": "프로",
@@ -6034,7 +7210,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 432,
+   "id": 516,
    "heroGearEnglish": "Omega Belt (Pro)",
    "heroGear": "오메가벨트",
    "type": "프로",
@@ -6048,7 +7224,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 433,
+   "id": 517,
    "heroGearEnglish": "Omega Belt (Pro)",
    "heroGear": "오메가벨트",
    "type": "프로",
@@ -6062,7 +7238,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 434,
+   "id": 518,
    "heroGearEnglish": "Omega Belt (Pro)",
    "heroGear": "오메가벨트",
    "type": "프로",
@@ -6076,7 +7252,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 435,
+   "id": 519,
    "heroGearEnglish": "Omega Boots (Pro)",
    "heroGear": "오메가부츠",
    "type": "프로",
@@ -6090,7 +7266,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 436,
+   "id": 520,
    "heroGearEnglish": "Omega Boots (Pro)",
    "heroGear": "오메가부츠",
    "type": "프로",
@@ -6104,7 +7280,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 437,
+   "id": 521,
    "heroGearEnglish": "Omega Boots (Pro)",
    "heroGear": "오메가부츠",
    "type": "프로",
@@ -6118,7 +7294,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 438,
+   "id": 522,
    "heroGearEnglish": "Omega Cape (Pro)",
    "heroGear": "오메가망토",
    "type": "프로",
@@ -6132,7 +7308,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 439,
+   "id": 523,
    "heroGearEnglish": "Omega Cape (Pro)",
    "heroGear": "오메가망토",
    "type": "프로",
@@ -6146,7 +7322,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 440,
+   "id": 524,
    "heroGearEnglish": "Omega Cape (Pro)",
    "heroGear": "오메가망토",
    "type": "프로",
@@ -6160,7 +7336,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 441,
+   "id": 525,
    "heroGearEnglish": "Omega Gloves (Pro)",
    "heroGear": "오메가장갑",
    "type": "프로",
@@ -6174,7 +7350,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 442,
+   "id": 526,
    "heroGearEnglish": "Omega Gloves (Pro)",
    "heroGear": "오메가장갑",
    "type": "프로",
@@ -6188,7 +7364,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 443,
+   "id": 527,
    "heroGearEnglish": "Omega Gloves (Pro)",
    "heroGear": "오메가장갑",
    "type": "프로",
@@ -6202,7 +7378,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 444,
+   "id": 528,
    "heroGearEnglish": "Omega Helmet (Pro)",
    "heroGear": "오메가투구",
    "type": "프로",
@@ -6216,7 +7392,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 445,
+   "id": 529,
    "heroGearEnglish": "Omega Helmet (Pro)",
    "heroGear": "오메가투구",
    "type": "프로",
@@ -6230,7 +7406,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 446,
+   "id": 530,
    "heroGearEnglish": "Omega Helmet (Pro)",
    "heroGear": "오메가투구",
    "type": "프로",
@@ -6244,7 +7420,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 447,
+   "id": 531,
    "heroGearEnglish": "Omega Pauldrons (Pro)",
    "heroGear": "오메가견갑",
    "type": "프로",
@@ -6258,7 +7434,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 448,
+   "id": 532,
    "heroGearEnglish": "Omega Pauldrons (Pro)",
    "heroGear": "오메가견갑",
    "type": "프로",
@@ -6272,7 +7448,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 449,
+   "id": 533,
    "heroGearEnglish": "Omega Pauldrons (Pro)",
    "heroGear": "오메가견갑",
    "type": "프로",
@@ -6286,7 +7462,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 450,
+   "id": 534,
    "heroGearEnglish": "Omega Pauldrons (Pro)",
    "heroGear": "오메가견갑",
    "type": "프로",
@@ -6300,7 +7476,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 451,
+   "id": 535,
    "heroGearEnglish": "Omega Ring (Pro)",
    "heroGear": "오메가반지",
    "type": "프로",
@@ -6314,7 +7490,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 452,
+   "id": 536,
    "heroGearEnglish": "Omega Ring (Pro)",
    "heroGear": "오메가반지",
    "type": "프로",
@@ -6328,7 +7504,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 453,
+   "id": 537,
    "heroGearEnglish": "Omega Ring (Pro)",
    "heroGear": "오메가반지",
    "type": "프로",
@@ -6342,7 +7518,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 454,
+   "id": 538,
    "heroGearEnglish": "Omega Sword (Pro)",
    "heroGear": "오메가검",
    "type": "프로",
@@ -6356,7 +7532,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 455,
+   "id": 539,
    "heroGearEnglish": "Omega Sword (Pro)",
    "heroGear": "오메가검",
    "type": "프로",
@@ -6370,7 +7546,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 456,
+   "id": 540,
    "heroGearEnglish": "Omega Sword (Pro)",
    "heroGear": "오메가검",
    "type": "프로",
@@ -6384,7 +7560,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 457,
+   "id": 541,
    "heroGearEnglish": "Omega Sword (Pro)",
    "heroGear": "오메가검",
    "type": "프로",
@@ -6398,7 +7574,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 458,
+   "id": 542,
    "heroGearEnglish": "Ouroboros",
    "heroGear": "아우로보로스",
    "type": "일반",
@@ -6412,7 +7588,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 459,
+   "id": 543,
    "heroGearEnglish": "Ouroboros",
    "heroGear": "아우로보로스",
    "type": "일반",
@@ -6426,7 +7602,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 460,
+   "id": 544,
    "heroGearEnglish": "Pearl Encrusted Belt",
    "heroGear": "진주가장식된벨트",
    "type": "일반",
@@ -6440,7 +7616,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 461,
+   "id": 545,
    "heroGearEnglish": "Pearl Encrusted Belt",
    "heroGear": "진주가장식된벨트",
    "type": "일반",
@@ -6454,7 +7630,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 462,
+   "id": 546,
    "heroGearEnglish": "Pearl Encrusted Belt",
    "heroGear": "진주가장식된벨트",
    "type": "일반",
@@ -6468,7 +7644,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 463,
+   "id": 547,
    "heroGearEnglish": "Pearl Encrusted Belt",
    "heroGear": "진주가장식된벨트",
    "type": "일반",
@@ -6482,7 +7658,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 464,
+   "id": 548,
    "heroGearEnglish": "Pearl Encrusted Belt (Pro)",
    "heroGear": "진주가장식된벨트",
    "type": "프로",
@@ -6496,7 +7672,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 465,
+   "id": 549,
    "heroGearEnglish": "Pearl Encrusted Belt (Pro)",
    "heroGear": "진주가장식된벨트",
    "type": "프로",
@@ -6510,7 +7686,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 466,
+   "id": 550,
    "heroGearEnglish": "Pearl Encrusted Belt (Pro)",
    "heroGear": "진주가장식된벨트",
    "type": "프로",
@@ -6524,7 +7700,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 467,
+   "id": 551,
    "heroGearEnglish": "Pennant Chasers",
    "heroGear": "야구단신발",
    "type": "일반",
@@ -6538,7 +7714,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 468,
+   "id": 552,
    "heroGearEnglish": "Pennant Chasers",
    "heroGear": "야구단신발",
    "type": "일반",
@@ -6552,7 +7728,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 469,
+   "id": 553,
    "heroGearEnglish": "Pennant Chasers (Pro)",
    "heroGear": "야구단신발",
    "type": "프로",
@@ -6566,7 +7742,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 470,
+   "id": 554,
    "heroGearEnglish": "Pennant Chasers (Pro)",
    "heroGear": "야구단신발",
    "type": "프로",
@@ -6580,7 +7756,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 471,
+   "id": 555,
    "heroGearEnglish": "Pepper's Rebuke",
    "heroGear": "페퍼의질책",
    "type": "일반",
@@ -6594,7 +7770,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 472,
+   "id": 556,
    "heroGearEnglish": "Pepper's Rebuke",
    "heroGear": "페퍼의질책",
    "type": "일반",
@@ -6608,7 +7784,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 473,
+   "id": 557,
    "heroGearEnglish": "Pepper's Rebuke (Pro)",
    "heroGear": "페퍼의질책",
    "type": "프로",
@@ -6622,7 +7798,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 474,
+   "id": 558,
    "heroGearEnglish": "Pepper's Rebuke (Pro)",
    "heroGear": "페퍼의질책",
    "type": "프로",
@@ -6636,7 +7812,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 475,
+   "id": 559,
    "heroGearEnglish": "Pickaxe",
    "heroGear": "곡괭이",
    "type": "일반",
@@ -6650,7 +7826,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 476,
+   "id": 560,
    "heroGearEnglish": "Pickaxe",
    "heroGear": "곡괭이",
    "type": "일반",
@@ -6664,7 +7840,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 477,
+   "id": 561,
    "heroGearEnglish": "Pickaxe (Pro)",
    "heroGear": "곡괭이",
    "type": "프로",
@@ -6678,7 +7854,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 478,
+   "id": 562,
    "heroGearEnglish": "Pickaxe (Pro)",
    "heroGear": "곡괭이",
    "type": "프로",
@@ -6692,7 +7868,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 479,
+   "id": 563,
    "heroGearEnglish": "Practical Belt",
    "heroGear": "실용적인벨트",
    "type": "일반",
@@ -6706,7 +7882,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 480,
+   "id": 564,
    "heroGearEnglish": "Prospector's Gear",
    "heroGear": "광부의장비",
    "type": "일반",
@@ -6720,7 +7896,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 481,
+   "id": 565,
    "heroGearEnglish": "Prospector's Gear",
    "heroGear": "광부의장비",
    "type": "일반",
@@ -6734,7 +7910,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 482,
+   "id": 566,
    "heroGearEnglish": "Prospector's Gear",
    "heroGear": "광부의장비",
    "type": "일반",
@@ -6748,7 +7924,7 @@ export const data = [
    "number": 3
  },
  {
-   "id": 483,
+   "id": 567,
    "heroGearEnglish": "Prospector's Gear",
    "heroGear": "광부의장비",
    "type": "일반",
@@ -6762,7 +7938,7 @@ export const data = [
    "number": 5
  },
  {
-   "id": 484,
+   "id": 568,
    "heroGearEnglish": "Prospector's Touch",
    "heroGear": "광부의손길",
    "type": "일반",
@@ -6776,7 +7952,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 485,
+   "id": 569,
    "heroGearEnglish": "Prospector's Touch",
    "heroGear": "광부의손길",
    "type": "일반",
@@ -6790,7 +7966,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 486,
+   "id": 570,
    "heroGearEnglish": "Prospector's Touch",
    "heroGear": "광부의손길",
    "type": "일반",
@@ -6804,7 +7980,7 @@ export const data = [
    "number": 3
  },
  {
-   "id": 487,
+   "id": 571,
    "heroGearEnglish": "Prospector's Touch",
    "heroGear": "광부의손길",
    "type": "일반",
@@ -6818,7 +7994,7 @@ export const data = [
    "number": 5
  },
  {
-   "id": 488,
+   "id": 572,
    "heroGearEnglish": "Prospector's Treads",
    "heroGear": "광부의장화",
    "type": "일반",
@@ -6832,7 +8008,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 489,
+   "id": 573,
    "heroGearEnglish": "Prospector's Treads",
    "heroGear": "광부의장화",
    "type": "일반",
@@ -6846,7 +8022,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 490,
+   "id": 574,
    "heroGearEnglish": "Prospector's Treads",
    "heroGear": "광부의장화",
    "type": "일반",
@@ -6860,7 +8036,7 @@ export const data = [
    "number": 3
  },
  {
-   "id": 491,
+   "id": 575,
    "heroGearEnglish": "Prospector's Treads",
    "heroGear": "광부의장화",
    "type": "일반",
@@ -6874,7 +8050,7 @@ export const data = [
    "number": 5
  },
  {
-   "id": 492,
+   "id": 576,
    "heroGearEnglish": "Protective Pads",
    "heroGear": "튼튼한보호대",
    "type": "일반",
@@ -6888,7 +8064,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 493,
+   "id": 577,
    "heroGearEnglish": "Protective Pads",
    "heroGear": "튼튼한보호대",
    "type": "일반",
@@ -6902,7 +8078,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 494,
+   "id": 578,
    "heroGearEnglish": "Protective Pads (Pro)",
    "heroGear": "튼튼한보호대",
    "type": "프로",
@@ -6916,7 +8092,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 495,
+   "id": 579,
    "heroGearEnglish": "Protective Pads (Pro)",
    "heroGear": "튼튼한보호대",
    "type": "프로",
@@ -6930,7 +8106,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 496,
+   "id": 580,
    "heroGearEnglish": "Puffy Pauldrons",
    "heroGear": "폭신한견갑",
    "type": "일반",
@@ -6944,7 +8120,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 497,
+   "id": 581,
    "heroGearEnglish": "Puffy Pauldrons",
    "heroGear": "폭신한견갑",
    "type": "일반",
@@ -6958,7 +8134,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 498,
+   "id": 582,
    "heroGearEnglish": "Puffy Pauldrons",
    "heroGear": "폭신한견갑",
    "type": "일반",
@@ -6972,7 +8148,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 499,
+   "id": 583,
    "heroGearEnglish": "Puffy Pauldrons (Pro)",
    "heroGear": "폭신한견갑",
    "type": "프로",
@@ -6986,7 +8162,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 500,
+   "id": 584,
    "heroGearEnglish": "Puffy Pauldrons (Pro)",
    "heroGear": "폭신한견갑",
    "type": "프로",
@@ -7000,7 +8176,63 @@ export const data = [
    "number": 1
  },
  {
-   "id": 501,
+   "id": 585,
+   "heroGearEnglish": "Purgatory",
+   "heroGear": "연옥",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d3/Purgatory.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Oddball Set III",
+   "set": "괴짜세트3",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 586,
+   "heroGearEnglish": "Purgatory",
+   "heroGear": "연옥",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d3/Purgatory.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Spell Power Set III",
+   "set": "마법위력세트3",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 587,
+   "heroGearEnglish": "Purgatory",
+   "heroGear": "연옥",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d3/Purgatory.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Oddball Set III",
+   "set": "괴짜세트3",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 588,
+   "heroGearEnglish": "Purgatory (Pro)",
+   "heroGear": "연옥",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/09/PurgatoryPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Spell Power Set III",
+   "set": "마법위력세트3",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 589,
    "heroGearEnglish": "Rabbit Rope",
    "heroGear": "토끼로브",
    "type": "일반",
@@ -7014,7 +8246,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 502,
+   "id": 590,
    "heroGearEnglish": "Rabbit Rope",
    "heroGear": "토끼로브",
    "type": "일반",
@@ -7028,7 +8260,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 503,
+   "id": 591,
    "heroGearEnglish": "Rabbit Rope",
    "heroGear": "토끼로브",
    "type": "일반",
@@ -7042,7 +8274,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 504,
+   "id": 592,
    "heroGearEnglish": "Rabbit Rope (Pro)",
    "heroGear": "토끼로브",
    "type": "프로",
@@ -7056,7 +8288,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 505,
+   "id": 593,
    "heroGearEnglish": "Rabbit Rope (Pro)",
    "heroGear": "토끼로브",
    "type": "프로",
@@ -7070,7 +8302,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 506,
+   "id": 594,
    "heroGearEnglish": "Reaper's Girdle",
    "heroGear": "수확자의허리띠",
    "type": "일반",
@@ -7084,7 +8316,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 507,
+   "id": 595,
    "heroGearEnglish": "Reaper's Girdle",
    "heroGear": "수확자의허리띠",
    "type": "일반",
@@ -7098,7 +8330,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 508,
+   "id": 596,
    "heroGearEnglish": "Reaper's Girdle",
    "heroGear": "수확자의허리띠",
    "type": "일반",
@@ -7112,7 +8344,7 @@ export const data = [
    "number": 3
  },
  {
-   "id": 509,
+   "id": 597,
    "heroGearEnglish": "Reaper's Girdle",
    "heroGear": "수확자의허리띠",
    "type": "일반",
@@ -7126,7 +8358,35 @@ export const data = [
    "number": 4
  },
  {
-   "id": 510,
+   "id": 598,
+   "heroGearEnglish": "Reaper's Girdle (Pro)",
+   "heroGear": "수확자의허리띠",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/2/23/Reaper%27sGirdle.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Reaper Set (Pro)",
+   "set": "광신자세트(프로)",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 599,
+   "heroGearEnglish": "Reaper's Girdle (Pro)",
+   "heroGear": "수확자의허리띠",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/2/23/Reaper%27sGirdle.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Reaper Set (Pro)",
+   "set": "광신자세트(프로)",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 600,
    "heroGearEnglish": "Reaper's Sign",
    "heroGear": "수확자의표식",
    "type": "일반",
@@ -7140,7 +8400,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 511,
+   "id": 601,
    "heroGearEnglish": "Reaper's Sign",
    "heroGear": "수확자의표식",
    "type": "일반",
@@ -7154,7 +8414,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 512,
+   "id": 602,
    "heroGearEnglish": "Reaper's Sign",
    "heroGear": "수확자의표식",
    "type": "일반",
@@ -7168,7 +8428,7 @@ export const data = [
    "number": 3
  },
  {
-   "id": 513,
+   "id": 603,
    "heroGearEnglish": "Reaper's Sign",
    "heroGear": "수확자의표식",
    "type": "일반",
@@ -7182,7 +8442,35 @@ export const data = [
    "number": 4
  },
  {
-   "id": 514,
+   "id": 604,
+   "heroGearEnglish": "Reaper's Sign (Pro)",
+   "heroGear": "수확자의표식",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/55/Reaper%27sSign.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Reaper Set (Pro)",
+   "set": "광신자세트(프로)",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 605,
+   "heroGearEnglish": "Reaper's Sign (Pro)",
+   "heroGear": "수확자의표식",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/5/55/Reaper%27sSign.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Reaper Set (Pro)",
+   "set": "광신자세트(프로)",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 606,
    "heroGearEnglish": "Reaper's Step",
    "heroGear": "수확자의발걸음",
    "type": "일반",
@@ -7196,7 +8484,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 515,
+   "id": 607,
    "heroGearEnglish": "Reaper's Step",
    "heroGear": "수확자의발걸음",
    "type": "일반",
@@ -7210,7 +8498,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 516,
+   "id": 608,
    "heroGearEnglish": "Reaper's Step",
    "heroGear": "수확자의발걸음",
    "type": "일반",
@@ -7224,7 +8512,7 @@ export const data = [
    "number": 3
  },
  {
-   "id": 517,
+   "id": 609,
    "heroGearEnglish": "Reaper's Step",
    "heroGear": "수확자의발걸음",
    "type": "일반",
@@ -7238,7 +8526,35 @@ export const data = [
    "number": 4
  },
  {
-   "id": 518,
+   "id": 610,
+   "heroGearEnglish": "Reaper's Step (Pro)",
+   "heroGear": "수확자의발걸음",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e1/Reaper%27sStep.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Reaper Set (Pro)",
+   "set": "광신자세트(프로)",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 611,
+   "heroGearEnglish": "Reaper's Step (Pro)",
+   "heroGear": "수확자의발걸음",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e1/Reaper%27sStep.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Reaper Set (Pro)",
+   "set": "광신자세트(프로)",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 612,
    "heroGearEnglish": "Reindeer Tamer",
    "heroGear": "순록조련사",
    "type": "일반",
@@ -7252,7 +8568,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 519,
+   "id": 613,
    "heroGearEnglish": "Reindeer Tamer",
    "heroGear": "순록조련사",
    "type": "일반",
@@ -7266,7 +8582,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 520,
+   "id": 614,
    "heroGearEnglish": "Reindeer Tamer (Pro)",
    "heroGear": "순록조련사",
    "type": "프로",
@@ -7280,7 +8596,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 521,
+   "id": 615,
    "heroGearEnglish": "Reindeer Tamer (Pro)",
    "heroGear": "순록조련사",
    "type": "프로",
@@ -7294,7 +8610,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 522,
+   "id": 616,
    "heroGearEnglish": "Return to Flesh",
    "heroGear": "육체로의귀환",
    "type": "일반",
@@ -7308,7 +8624,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 523,
+   "id": 617,
    "heroGearEnglish": "Return to Flesh",
    "heroGear": "육체로의귀환",
    "type": "일반",
@@ -7322,7 +8638,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 524,
+   "id": 618,
    "heroGearEnglish": "Return to Flesh (Pro)",
    "heroGear": "육체로의귀환",
    "type": "프로",
@@ -7336,7 +8652,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 525,
+   "id": 619,
    "heroGearEnglish": "Return to Flesh (Pro)",
    "heroGear": "육체로의귀환",
    "type": "프로",
@@ -7350,7 +8666,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 526,
+   "id": 620,
    "heroGearEnglish": "Rockbreaker",
    "heroGear": "록브레이커",
    "type": "일반",
@@ -7364,7 +8680,63 @@ export const data = [
    "number": 1
  },
  {
-   "id": 527,
+   "id": 621,
+   "heroGearEnglish": "Rockbreaker",
+   "heroGear": "록브레이커",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/8/86/Rockbreaker.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Spell Power Set VII",
+   "set": "마법위력세트7",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 622,
+   "heroGearEnglish": "Rockbreaker",
+   "heroGear": "록브레이커",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/8/86/Rockbreaker.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Granite Set",
+   "set": "화강암세트",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 623,
+   "heroGearEnglish": "Rockbreaker",
+   "heroGear": "록브레이커",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/8/86/Rockbreaker.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Spell Power Set VII",
+   "set": "마법위력세트7",
+   "released": "LSU: 02.09.2021",
+   "number": 2
+ },
+ {
+   "id": 624,
+   "heroGearEnglish": "Rockbreaker",
+   "heroGear": "록브레이커",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/8/86/Rockbreaker.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Granite Set",
+   "set": "화강암세트",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 625,
    "heroGearEnglish": "Royal Cap",
    "heroGear": "왕의모자",
    "type": "일반",
@@ -7378,7 +8750,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 528,
+   "id": 626,
    "heroGearEnglish": "Royal Cap",
    "heroGear": "왕의모자",
    "type": "일반",
@@ -7392,7 +8764,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 529,
+   "id": 627,
    "heroGearEnglish": "Royal Cap (Pro)",
    "heroGear": "왕의모자",
    "type": "프로",
@@ -7406,7 +8778,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 530,
+   "id": 628,
    "heroGearEnglish": "Royal Cap (Pro)",
    "heroGear": "왕의모자",
    "type": "프로",
@@ -7420,7 +8792,35 @@ export const data = [
    "number": 1
  },
  {
-   "id": 531,
+   "id": 629,
+   "heroGearEnglish": "Royal Flush",
+   "heroGear": "로열뻥",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/6e/RoyalFlush.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Oddball Set I",
+   "set": "괴짜세트1",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 630,
+   "heroGearEnglish": "Royal Flush",
+   "heroGear": "로열뻥",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/6e/RoyalFlush.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 6,
+   "setEnglish": "Oddball Set I",
+   "set": "괴짜세트1",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 631,
    "heroGearEnglish": "Rudolph's Blanket",
    "heroGear": "루돌프담요",
    "type": "일반",
@@ -7434,7 +8834,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 532,
+   "id": 632,
    "heroGearEnglish": "Rudolph's Blanket",
    "heroGear": "루돌프담요",
    "type": "일반",
@@ -7448,7 +8848,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 533,
+   "id": 633,
    "heroGearEnglish": "Rudolph's Blanket (Pro)",
    "heroGear": "루돌프담요",
    "type": "프로",
@@ -7462,7 +8862,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 534,
+   "id": 634,
    "heroGearEnglish": "Rudolph's Blanket (Pro)",
    "heroGear": "루돌프담요",
    "type": "프로",
@@ -7476,7 +8876,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 535,
+   "id": 635,
    "heroGearEnglish": "Ruthaven's Robe",
    "heroGear": "루트헤이븐의로브",
    "type": "일반",
@@ -7490,7 +8890,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 536,
+   "id": 636,
    "heroGearEnglish": "Ruthaven's Robe",
    "heroGear": "루트헤이븐의로브",
    "type": "일반",
@@ -7504,7 +8904,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 537,
+   "id": 637,
    "heroGearEnglish": "Sanzu Do (Pro)",
    "heroGear": "삼도갑옷",
    "type": "프로",
@@ -7518,7 +8918,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 538,
+   "id": 638,
    "heroGearEnglish": "Sanzu Do (Pro)",
    "heroGear": "삼도갑옷",
    "type": "프로",
@@ -7532,7 +8932,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 539,
+   "id": 639,
    "heroGearEnglish": "Sanzu Himo (Pro)",
    "heroGear": "삼도벨트",
    "type": "프로",
@@ -7546,7 +8946,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 540,
+   "id": 640,
    "heroGearEnglish": "Sanzu Himo (Pro)",
    "heroGear": "삼도벨트",
    "type": "프로",
@@ -7560,7 +8960,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 541,
+   "id": 641,
    "heroGearEnglish": "Sanzu Kabuto (Pro)",
    "heroGear": "삼도헬멧",
    "type": "프로",
@@ -7574,7 +8974,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 542,
+   "id": 642,
    "heroGearEnglish": "Sanzu Kabuto (Pro)",
    "heroGear": "삼도헬멧",
    "type": "프로",
@@ -7588,7 +8988,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 543,
+   "id": 643,
    "heroGearEnglish": "Sanzu Kegutsu (Pro)",
    "heroGear": "삼도신발",
    "type": "프로",
@@ -7602,7 +9002,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 544,
+   "id": 644,
    "heroGearEnglish": "Sanzu Kegutsu (Pro)",
    "heroGear": "삼도신발",
    "type": "프로",
@@ -7616,7 +9016,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 545,
+   "id": 645,
    "heroGearEnglish": "Sanzu Kote (Pro)",
    "heroGear": "삼도장갑",
    "type": "프로",
@@ -7630,7 +9030,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 546,
+   "id": 646,
    "heroGearEnglish": "Sanzu Kote (Pro)",
    "heroGear": "삼도장갑",
    "type": "프로",
@@ -7644,7 +9044,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 547,
+   "id": 647,
    "heroGearEnglish": "Sanzu Naginata (Pro)",
    "heroGear": "삼도무기",
    "type": "프로",
@@ -7658,7 +9058,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 548,
+   "id": 648,
    "heroGearEnglish": "Sanzu Naginata (Pro)",
    "heroGear": "삼도무기",
    "type": "프로",
@@ -7672,7 +9072,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 549,
+   "id": 649,
    "heroGearEnglish": "Sanzu Sashimono (Pro)",
    "heroGear": "삼도망토",
    "type": "프로",
@@ -7686,7 +9086,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 550,
+   "id": 650,
    "heroGearEnglish": "Sanzu Sashimono (Pro)",
    "heroGear": "삼도망토",
    "type": "프로",
@@ -7700,7 +9100,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 551,
+   "id": 651,
    "heroGearEnglish": "Sanzu Seal (Pro)",
    "heroGear": "삼도씰",
    "type": "프로",
@@ -7714,7 +9114,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 552,
+   "id": 652,
    "heroGearEnglish": "Sanzu Seal (Pro)",
    "heroGear": "삼도씰",
    "type": "프로",
@@ -7728,7 +9128,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 553,
+   "id": 653,
    "heroGearEnglish": "Sanzu Sode (Pro)",
    "heroGear": "삼도소매",
    "type": "프로",
@@ -7742,7 +9142,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 554,
+   "id": 654,
    "heroGearEnglish": "Sanzu Sode (Pro)",
    "heroGear": "삼도소매",
    "type": "프로",
@@ -7756,7 +9156,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 555,
+   "id": 655,
    "heroGearEnglish": "Serpent's Fangs",
    "heroGear": "뱀의송곳니",
    "type": "일반",
@@ -7770,7 +9170,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 556,
+   "id": 656,
    "heroGearEnglish": "Serpent's Fangs",
    "heroGear": "뱀의송곳니",
    "type": "일반",
@@ -7784,7 +9184,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 557,
+   "id": 657,
    "heroGearEnglish": "Shaman's Salvation",
    "heroGear": "주술사의구원",
    "type": "일반",
@@ -7798,7 +9198,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 558,
+   "id": 658,
    "heroGearEnglish": "Shaman's Salvation",
    "heroGear": "주술사의구원",
    "type": "일반",
@@ -7812,7 +9212,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 559,
+   "id": 659,
    "heroGearEnglish": "Shaman's Salvation (Pro)",
    "heroGear": "주술사의구원",
    "type": "프로",
@@ -7826,7 +9226,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 560,
+   "id": 660,
    "heroGearEnglish": "Shaman's Salvation (Pro)",
    "heroGear": "주술사의구원",
    "type": "프로",
@@ -7840,7 +9240,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 561,
+   "id": 661,
    "heroGearEnglish": "Shaper of Might",
    "heroGear": "힘의구체자",
    "type": "일반",
@@ -7854,7 +9254,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 562,
+   "id": 662,
    "heroGearEnglish": "Shaper of Might",
    "heroGear": "힘의구체자",
    "type": "일반",
@@ -7868,7 +9268,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 563,
+   "id": 663,
    "heroGearEnglish": "Shaper of Might",
    "heroGear": "힘의구체자",
    "type": "일반",
@@ -7882,7 +9282,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 564,
+   "id": 664,
    "heroGearEnglish": "Shaper of Might (Pro)",
    "heroGear": "힘의구체자",
    "type": "프로",
@@ -7896,7 +9296,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 565,
+   "id": 665,
    "heroGearEnglish": "Shaper of Might (Pro)",
    "heroGear": "힘의구체자",
    "type": "프로",
@@ -7910,7 +9310,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 566,
+   "id": 666,
    "heroGearEnglish": "Shaper of Might (Pro)",
    "heroGear": "힘의구체자",
    "type": "프로",
@@ -7924,7 +9324,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 567,
+   "id": 667,
    "heroGearEnglish": "Sharpshooter Wraps",
    "heroGear": "명사수외투",
    "type": "일반",
@@ -7938,7 +9338,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 568,
+   "id": 668,
    "heroGearEnglish": "Sharpshooter Wraps",
    "heroGear": "명사수외투",
    "type": "일반",
@@ -7952,7 +9352,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 569,
+   "id": 669,
    "heroGearEnglish": "Sharpshooter Wraps (Pro)",
    "heroGear": "명사수외투",
    "type": "프로",
@@ -7966,7 +9366,63 @@ export const data = [
    "number": 1
  },
  {
-   "id": 570,
+   "id": 670,
+   "heroGearEnglish": "Shatterhooves",
+   "heroGear": "섀터후프",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/2/29/Shatterhooves.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Spell Power Set VII",
+   "set": "마법위력세트7",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 671,
+   "heroGearEnglish": "Shatterhooves",
+   "heroGear": "섀터후프",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/2/29/Shatterhooves.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Granite Set",
+   "set": "화강암세트",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 672,
+   "heroGearEnglish": "Shatterhooves",
+   "heroGear": "섀터후프",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/2/29/Shatterhooves.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Spell Power Set VII",
+   "set": "마법위력세트7",
+   "released": "LSU: 02.09.2021",
+   "number": 2
+ },
+ {
+   "id": 673,
+   "heroGearEnglish": "Shatterhooves",
+   "heroGear": "섀터후프",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/2/29/Shatterhooves.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Granite Set",
+   "set": "화강암세트",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 674,
    "heroGearEnglish": "Shining Light",
    "heroGear": "빛나는날개",
    "type": "일반",
@@ -7980,7 +9436,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 571,
+   "id": 675,
    "heroGearEnglish": "Shining Light",
    "heroGear": "빛나는날개",
    "type": "일반",
@@ -7994,7 +9450,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 572,
+   "id": 676,
    "heroGearEnglish": "Shinny's Command",
    "heroGear": "시니의지휘",
    "type": "일반",
@@ -8008,7 +9464,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 573,
+   "id": 677,
    "heroGearEnglish": "Shinny's Command",
    "heroGear": "시니의지휘",
    "type": "일반",
@@ -8022,7 +9478,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 574,
+   "id": 678,
    "heroGearEnglish": "Shinny's Command (Pro)",
    "heroGear": "시니의지휘",
    "type": "프로",
@@ -8036,7 +9492,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 575,
+   "id": 679,
    "heroGearEnglish": "Shinny's Command (Pro)",
    "heroGear": "시니의지휘",
    "type": "프로",
@@ -8050,7 +9506,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 576,
+   "id": 680,
    "heroGearEnglish": "Siege Sash",
    "heroGear": "공성허리끈",
    "type": "일반",
@@ -8064,7 +9520,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 577,
+   "id": 681,
    "heroGearEnglish": "Sigurd's Burden",
    "heroGear": "시구문드의짐",
    "type": "일반",
@@ -8078,7 +9534,63 @@ export const data = [
    "number": 1
  },
  {
-   "id": 578,
+   "id": 682,
+   "heroGearEnglish": "Sigurd's Burden",
+   "heroGear": "시구르드의짐",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/0e/Sigurd%27sBurden.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Viking Set",
+   "set": "바이킹세트",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 683,
+   "heroGearEnglish": "Sigurd's Burden",
+   "heroGear": "시구르드의짐",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/0e/Sigurd%27sBurden.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Viking Set",
+   "set": "바이킹세트",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 684,
+   "heroGearEnglish": "Sigurd's Burden (Pro)",
+   "heroGear": "시구르드의짐",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/bf/Sigurd%27sBurdenPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Viking Set (Pro)",
+   "set": "바이킹세트(프로)",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 685,
+   "heroGearEnglish": "Sigurd's Burden (Pro)",
+   "heroGear": "시구르드의짐",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/bf/Sigurd%27sBurdenPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Viking Set (Pro)",
+   "set": "바이킹세트(프로)",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 686,
    "heroGearEnglish": "Simon's Crown",
    "heroGear": "사이먼의왕관",
    "type": "일반",
@@ -8092,7 +9604,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 579,
+   "id": 687,
    "heroGearEnglish": "Simon's Crown",
    "heroGear": "사이먼의왕관",
    "type": "일반",
@@ -8106,7 +9618,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 580,
+   "id": 688,
    "heroGearEnglish": "Simon's Crown",
    "heroGear": "사이먼의왕관",
    "type": "일반",
@@ -8120,7 +9632,63 @@ export const data = [
    "number": 2
  },
  {
-   "id": 581,
+   "id": 689,
+   "heroGearEnglish": "Skald's Song",
+   "heroGear": "음유시인의노래",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/67/Skald%27sSong.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Viking Set",
+   "set": "바이킹세트",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 690,
+   "heroGearEnglish": "Skald's Song",
+   "heroGear": "음유시인의노래",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/67/Skald%27sSong.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Viking Set",
+   "set": "바이킹세트",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 691,
+   "heroGearEnglish": "Skald's Song (Pro)",
+   "heroGear": "음유시인의노래",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/3/39/Skald%27sSongPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Viking Set (Pro)",
+   "set": "바이킹세트(프로)",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 692,
+   "heroGearEnglish": "Skald's Song (Pro)",
+   "heroGear": "음유시인의노래",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/3/39/Skald%27sSongPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Viking Set (Pro)",
+   "set": "바이킹세트(프로)",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 693,
    "heroGearEnglish": "Stealth Boots",
    "heroGear": "스텔스부츠",
    "type": "일반",
@@ -8134,7 +9702,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 582,
+   "id": 694,
    "heroGearEnglish": "Stealth Boots",
    "heroGear": "스텔스부츠",
    "type": "일반",
@@ -8148,7 +9716,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 583,
+   "id": 695,
    "heroGearEnglish": "Stealth Boots (Pro)",
    "heroGear": "스텔스부츠",
    "type": "프로",
@@ -8162,7 +9730,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 584,
+   "id": 696,
    "heroGearEnglish": "Stealth Boots (Pro)",
    "heroGear": "스텔스부츠",
    "type": "프로",
@@ -8176,7 +9744,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 585,
+   "id": 697,
    "heroGearEnglish": "Stonecrusher",
    "heroGear": "돌분쇄기",
    "type": "일반",
@@ -8190,7 +9758,49 @@ export const data = [
    "number": 1
  },
  {
-   "id": 586,
+   "id": 698,
+   "heroGearEnglish": "Stonecrusher",
+   "heroGear": "돌분쇄기",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/2/27/Stonecrusher.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Granite Set",
+   "set": "화강암세트",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 699,
+   "heroGearEnglish": "Stonescale Sash",
+   "heroGear": "돌비늘허리끈",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/cf/StonescaleSash.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Granite Set",
+   "set": "화강암세트",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 700,
+   "heroGearEnglish": "Stonescale Sash",
+   "heroGear": "돌비늘허리끈",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/cf/StonescaleSash.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Granite Set",
+   "set": "화강암세트",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 701,
    "heroGearEnglish": "Sugarplum's Finesse",
    "heroGear": "슈가플럼의수완",
    "type": "일반",
@@ -8204,7 +9814,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 587,
+   "id": 702,
    "heroGearEnglish": "Sugarplum's Finesse",
    "heroGear": "슈가플럼의수완",
    "type": "일반",
@@ -8218,7 +9828,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 588,
+   "id": 703,
    "heroGearEnglish": "Sugarplum's Finesse (Pro)",
    "heroGear": "슈가플럼의수완",
    "type": "프로",
@@ -8232,7 +9842,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 589,
+   "id": 704,
    "heroGearEnglish": "Sugarplum's Finesse (Pro)",
    "heroGear": "슈가플럼의수완",
    "type": "프로",
@@ -8246,7 +9856,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 590,
+   "id": 705,
    "heroGearEnglish": "Tactician's Floret",
    "heroGear": "전술가의플로릿",
    "type": "일반",
@@ -8260,7 +9870,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 591,
+   "id": 706,
    "heroGearEnglish": "Tactician's Floret",
    "heroGear": "전술가의플로릿",
    "type": "일반",
@@ -8274,7 +9884,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 592,
+   "id": 707,
    "heroGearEnglish": "Tactician's Floret",
    "heroGear": "전술가의플로릿",
    "type": "일반",
@@ -8288,7 +9898,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 593,
+   "id": 708,
    "heroGearEnglish": "Tactician's Floret",
    "heroGear": "전술가의플로릿",
    "type": "일반",
@@ -8302,7 +9912,7 @@ export const data = [
    "number": 4
  },
  {
-   "id": 594,
+   "id": 709,
    "heroGearEnglish": "Tactician's Shoulders",
    "heroGear": "전술가의견장",
    "type": "일반",
@@ -8316,7 +9926,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 595,
+   "id": 710,
    "heroGearEnglish": "Tactician's Shoulders",
    "heroGear": "전술가의견장",
    "type": "일반",
@@ -8330,7 +9940,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 596,
+   "id": 711,
    "heroGearEnglish": "Tactician's Shoulders",
    "heroGear": "전술가의견장",
    "type": "일반",
@@ -8344,7 +9954,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 597,
+   "id": 712,
    "heroGearEnglish": "Tactician's Shoulders",
    "heroGear": "전술가의견장",
    "type": "일반",
@@ -8358,7 +9968,7 @@ export const data = [
    "number": 4
  },
  {
-   "id": 598,
+   "id": 713,
    "heroGearEnglish": "Tactician's Silks",
    "heroGear": "전술가의비단",
    "type": "일반",
@@ -8372,7 +9982,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 599,
+   "id": 714,
    "heroGearEnglish": "Tactician's Silks",
    "heroGear": "전술가의비단",
    "type": "일반",
@@ -8386,7 +9996,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 600,
+   "id": 715,
    "heroGearEnglish": "Tactician's Silks",
    "heroGear": "전술가의비단",
    "type": "일반",
@@ -8400,7 +10010,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 601,
+   "id": 716,
    "heroGearEnglish": "Tactician's Silks",
    "heroGear": "전술가의비단",
    "type": "일반",
@@ -8414,7 +10024,63 @@ export const data = [
    "number": 4
  },
  {
-   "id": 602,
+   "id": 717,
+   "heroGearEnglish": "Talbot's Curse",
+   "heroGear": "탤벗의저주",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/7/7b/Talbot%27sCurse.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Vampire Set",
+   "set": "뱀파이어세트",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 718,
+   "heroGearEnglish": "Talbot's Curse",
+   "heroGear": "탤벗의저주",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/7/7b/Talbot%27sCurse.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Vampire Set",
+   "set": "뱀파이어세트",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 719,
+   "heroGearEnglish": "Talbot's Curse (Pro)",
+   "heroGear": "탤벗의저주",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/8/8f/Talbot%27sCursePro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Vampire Set (Pro)",
+   "set": "뱀파이어세트(프로)",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 720,
+   "heroGearEnglish": "Talbot's Curse (Pro)",
+   "heroGear": "탤벗의저주",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/8/8f/Talbot%27sCursePro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Vampire Set (Pro)",
+   "set": "뱀파이어세트(프로)",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 721,
    "heroGearEnglish": "Tammy's Comfort",
    "heroGear": "타미의위안",
    "type": "일반",
@@ -8428,7 +10094,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 603,
+   "id": 722,
    "heroGearEnglish": "Tammy's Comfort",
    "heroGear": "타미의위안",
    "type": "일반",
@@ -8442,7 +10108,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 604,
+   "id": 723,
    "heroGearEnglish": "Tammy's Comfort",
    "heroGear": "타미의위안",
    "type": "일반",
@@ -8456,7 +10122,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 605,
+   "id": 724,
    "heroGearEnglish": "Tempered Steel",
    "heroGear": "담금질된강철",
    "type": "일반",
@@ -8470,7 +10136,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 606,
+   "id": 725,
    "heroGearEnglish": "Tempered Steel",
    "heroGear": "담금질된강철",
    "type": "일반",
@@ -8484,7 +10150,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 607,
+   "id": 726,
    "heroGearEnglish": "Tempered Steel",
    "heroGear": "담금질된강철",
    "type": "일반",
@@ -8498,7 +10164,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 608,
+   "id": 727,
    "heroGearEnglish": "Tempered Steel (Pro)",
    "heroGear": "담금질된강철",
    "type": "프로",
@@ -8512,7 +10178,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 609,
+   "id": 728,
    "heroGearEnglish": "Tempered Steel (Pro)",
    "heroGear": "담금질된강철",
    "type": "프로",
@@ -8526,7 +10192,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 610,
+   "id": 729,
    "heroGearEnglish": "Tempered Steel (Pro)",
    "heroGear": "담금질된강철",
    "type": "프로",
@@ -8540,7 +10206,63 @@ export const data = [
    "number": 2
  },
  {
-   "id": 611,
+   "id": 730,
+   "heroGearEnglish": "Testament",
+   "heroGear": "testament",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/4/47/Testament.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 2,
+   "setEnglish": "Oddball Set III",
+   "set": "괴짜세트3",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 731,
+   "heroGearEnglish": "Testament",
+   "heroGear": "testament",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/4/47/Testament.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Oddball Set III",
+   "set": "괴짜세트3",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 732,
+   "heroGearEnglish": "The Bulwark",
+   "heroGear": "방어구",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/c8/TheBulwark.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Granite Set",
+   "set": "화강암세트",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 733,
+   "heroGearEnglish": "The Bulwark",
+   "heroGear": "방어구",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/c/c8/TheBulwark.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Granite Set",
+   "set": "화강암세트",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 734,
    "heroGearEnglish": "The Easter Spirit",
    "heroGear": "부활절정령",
    "type": "일반",
@@ -8554,7 +10276,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 612,
+   "id": 735,
    "heroGearEnglish": "The Easter Spirit",
    "heroGear": "부활절정령",
    "type": "일반",
@@ -8568,7 +10290,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 613,
+   "id": 736,
    "heroGearEnglish": "The Easter Spirit",
    "heroGear": "부활절정령",
    "type": "일반",
@@ -8582,7 +10304,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 614,
+   "id": 737,
    "heroGearEnglish": "The Easter Spirit (Pro)",
    "heroGear": "부활절정령",
    "type": "프로",
@@ -8596,7 +10318,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 615,
+   "id": 738,
    "heroGearEnglish": "The Easter Spirit (Pro)",
    "heroGear": "부활절정령",
    "type": "프로",
@@ -8610,7 +10332,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 616,
+   "id": 739,
    "heroGearEnglish": "The Hessian",
    "heroGear": "독일병정",
    "type": "일반",
@@ -8624,7 +10346,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 617,
+   "id": 740,
    "heroGearEnglish": "The Hessian",
    "heroGear": "독일병정",
    "type": "일반",
@@ -8638,7 +10360,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 618,
+   "id": 741,
    "heroGearEnglish": "The Hessian (Pro)",
    "heroGear": "독일병정",
    "type": "프로",
@@ -8652,7 +10374,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 619,
+   "id": 742,
    "heroGearEnglish": "The Hessian (Pro)",
    "heroGear": "독일병정",
    "type": "프로",
@@ -8666,7 +10388,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 620,
+   "id": 743,
    "heroGearEnglish": "The Mitt",
    "heroGear": "글러브",
    "type": "일반",
@@ -8680,7 +10402,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 621,
+   "id": 744,
    "heroGearEnglish": "The Mitt",
    "heroGear": "글러브",
    "type": "일반",
@@ -8694,7 +10416,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 622,
+   "id": 745,
    "heroGearEnglish": "The Mitt (Pro)",
    "heroGear": "글러브",
    "type": "프로",
@@ -8708,7 +10430,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 623,
+   "id": 746,
    "heroGearEnglish": "The Mitt (Pro)",
    "heroGear": "글러브",
    "type": "프로",
@@ -8722,7 +10444,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 624,
+   "id": 747,
    "heroGearEnglish": "Thermal Boots",
    "heroGear": "보온부츠",
    "type": "일반",
@@ -8736,7 +10458,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 625,
+   "id": 748,
    "heroGearEnglish": "Thermal Boots",
    "heroGear": "보온부츠",
    "type": "일반",
@@ -8750,7 +10472,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 626,
+   "id": 749,
    "heroGearEnglish": "Thermal Boots (Pro)",
    "heroGear": "보온부츠",
    "type": "프로",
@@ -8764,7 +10486,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 627,
+   "id": 750,
    "heroGearEnglish": "Thermal Boots (Pro)",
    "heroGear": "보온부츠",
    "type": "프로",
@@ -8778,7 +10500,35 @@ export const data = [
    "number": 1
  },
  {
-   "id": 628,
+   "id": 751,
+   "heroGearEnglish": "Thirteen",
+   "heroGear": "thirteen",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/f/f5/Thirteen.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Oddball Set III",
+   "set": "괴짜세트3",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 752,
+   "heroGearEnglish": "Thirteen",
+   "heroGear": "thirteen",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/f/f5/Thirteen.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Oddball Set III",
+   "set": "괴짜세트3",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 753,
    "heroGearEnglish": "Thumpers",
    "heroGear": "장화",
    "type": "일반",
@@ -8792,7 +10542,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 629,
+   "id": 754,
    "heroGearEnglish": "Thumpers",
    "heroGear": "장화",
    "type": "일반",
@@ -8806,7 +10556,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 630,
+   "id": 755,
    "heroGearEnglish": "Thumpers",
    "heroGear": "장화",
    "type": "일반",
@@ -8820,7 +10570,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 631,
+   "id": 756,
    "heroGearEnglish": "Thumpers (Pro)",
    "heroGear": "장화",
    "type": "프로",
@@ -8834,7 +10584,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 632,
+   "id": 757,
    "heroGearEnglish": "Thumpers (Pro)",
    "heroGear": "장화",
    "type": "프로",
@@ -8848,7 +10598,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 633,
+   "id": 758,
    "heroGearEnglish": "Tourney Crest Ring",
    "heroGear": "마상시합문장반지",
    "type": "일반",
@@ -8862,7 +10612,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 634,
+   "id": 759,
    "heroGearEnglish": "Tourney Crest Ring",
    "heroGear": "마상시합문장반지",
    "type": "일반",
@@ -8876,7 +10626,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 635,
+   "id": 760,
    "heroGearEnglish": "Tourney Crest Ring",
    "heroGear": "마상시합문장반지",
    "type": "일반",
@@ -8890,7 +10640,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 636,
+   "id": 761,
    "heroGearEnglish": "Tourney Crest Ring",
    "heroGear": "마상시합문장반지",
    "type": "일반",
@@ -8904,7 +10654,7 @@ export const data = [
    "number": 3
  },
  {
-   "id": 637,
+   "id": 762,
    "heroGearEnglish": "Tourney Gauntlets",
    "heroGear": "마상시합건틀릿",
    "type": "일반",
@@ -8918,7 +10668,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 638,
+   "id": 763,
    "heroGearEnglish": "Tourney Gauntlets",
    "heroGear": "마상시합건틀릿",
    "type": "일반",
@@ -8932,7 +10682,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 639,
+   "id": 764,
    "heroGearEnglish": "Tourney Gauntlets",
    "heroGear": "마상시합건틀릿",
    "type": "일반",
@@ -8946,7 +10696,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 640,
+   "id": 765,
    "heroGearEnglish": "Tourney Gauntlets",
    "heroGear": "마상시합건틀릿",
    "type": "일반",
@@ -8960,7 +10710,7 @@ export const data = [
    "number": 3
  },
  {
-   "id": 641,
+   "id": 766,
    "heroGearEnglish": "Tourney Headgear",
    "heroGear": "마상시합헬멧",
    "type": "일반",
@@ -8974,7 +10724,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 642,
+   "id": 767,
    "heroGearEnglish": "Tourney Headgear",
    "heroGear": "마상시합헬멧",
    "type": "일반",
@@ -8988,7 +10738,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 643,
+   "id": 768,
    "heroGearEnglish": "Tourney Headgear",
    "heroGear": "마상시합헬멧",
    "type": "일반",
@@ -9002,7 +10752,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 644,
+   "id": 769,
    "heroGearEnglish": "Tourney Headgear",
    "heroGear": "마상시합헬멧",
    "type": "일반",
@@ -9016,7 +10766,7 @@ export const data = [
    "number": 3
  },
  {
-   "id": 645,
+   "id": 770,
    "heroGearEnglish": "Tourney Pads",
    "heroGear": "마상시합보호대",
    "type": "일반",
@@ -9030,7 +10780,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 646,
+   "id": 771,
    "heroGearEnglish": "Tourney Pads",
    "heroGear": "마상시합보호대",
    "type": "일반",
@@ -9044,7 +10794,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 647,
+   "id": 772,
    "heroGearEnglish": "Tourney Pads",
    "heroGear": "마상시합보호대",
    "type": "일반",
@@ -9058,7 +10808,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 648,
+   "id": 773,
    "heroGearEnglish": "Tourney Pads",
    "heroGear": "마상시합보호대",
    "type": "일반",
@@ -9072,7 +10822,7 @@ export const data = [
    "number": 3
  },
  {
-   "id": 649,
+   "id": 774,
    "heroGearEnglish": "Tourney Plate",
    "heroGear": "마상시합판금",
    "type": "일반",
@@ -9086,7 +10836,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 650,
+   "id": 775,
    "heroGearEnglish": "Tourney Plate",
    "heroGear": "마상시합판금",
    "type": "일반",
@@ -9100,7 +10850,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 651,
+   "id": 776,
    "heroGearEnglish": "Tourney Plate",
    "heroGear": "마상시합판금",
    "type": "일반",
@@ -9114,7 +10864,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 652,
+   "id": 777,
    "heroGearEnglish": "Tourney Plate",
    "heroGear": "마상시합판금",
    "type": "일반",
@@ -9128,7 +10878,7 @@ export const data = [
    "number": 3
  },
  {
-   "id": 653,
+   "id": 778,
    "heroGearEnglish": "Tremors",
    "heroGear": "땅울림",
    "type": "일반",
@@ -9142,7 +10892,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 654,
+   "id": 779,
    "heroGearEnglish": "Tremors",
    "heroGear": "땅울림",
    "type": "일반",
@@ -9156,7 +10906,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 655,
+   "id": 780,
    "heroGearEnglish": "Tremors (Pro)",
    "heroGear": "땅울림",
    "type": "프로",
@@ -9170,7 +10920,63 @@ export const data = [
    "number": 1
  },
  {
-   "id": 656,
+   "id": 781,
+   "heroGearEnglish": "Troll Slayer",
+   "heroGear": "트롤학살자",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/9/92/TrollSlayer.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Viking Set",
+   "set": "바이킹세트",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 782,
+   "heroGearEnglish": "Troll Slayer",
+   "heroGear": "트롤학살자",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/9/92/TrollSlayer.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Viking Set",
+   "set": "바이킹세트",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 783,
+   "heroGearEnglish": "Troll Slayer (Pro)",
+   "heroGear": "트롤학살자",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e1/TrollSlayerPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Viking Set (Pro)",
+   "set": "바이킹세트(프로)",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 784,
+   "heroGearEnglish": "Troll Slayer (Pro)",
+   "heroGear": "트롤학살자",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/e/e1/TrollSlayerPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Viking Set (Pro)",
+   "set": "바이킹세트(프로)",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 785,
    "heroGearEnglish": "Unburial Rites",
    "heroGear": "도굴의식",
    "type": "일반",
@@ -9184,7 +10990,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 657,
+   "id": 786,
    "heroGearEnglish": "Unburial Rites",
    "heroGear": "도굴의식",
    "type": "일반",
@@ -9198,7 +11004,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 658,
+   "id": 787,
    "heroGearEnglish": "Unburial Rites",
    "heroGear": "도굴의식",
    "type": "일반",
@@ -9212,7 +11018,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 659,
+   "id": 788,
    "heroGearEnglish": "Unburial Rites (Pro)",
    "heroGear": "도굴의식",
    "type": "프로",
@@ -9226,7 +11032,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 660,
+   "id": 789,
    "heroGearEnglish": "Unburial Rites (Pro)",
    "heroGear": "도굴의식",
    "type": "프로",
@@ -9240,7 +11046,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 661,
+   "id": 790,
    "heroGearEnglish": "Valkyrie's Grip",
    "heroGear": "발키리의손아귀",
    "type": "일반",
@@ -9254,7 +11060,119 @@ export const data = [
    "number": 1
  },
  {
-   "id": 662,
+   "id": 791,
+   "heroGearEnglish": "Valkyrie's Grip",
+   "heroGear": "발키리의손아귀",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/7/71/Valkyrie%27sGrip.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Viking Set",
+   "set": "바이킹세트",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 792,
+   "heroGearEnglish": "Valkyrie's Grip",
+   "heroGear": "발키리의손아귀",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/7/71/Valkyrie%27sGrip.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Viking Set",
+   "set": "바이킹세트",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 793,
+   "heroGearEnglish": "Valkyrie's Grip (Pro)",
+   "heroGear": "발키리의손아귀",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/f/f4/Valkyrie%27sGripPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 1,
+   "setEnglish": "Viking Set (Pro)",
+   "set": "바이킹세트(프로)",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 794,
+   "heroGearEnglish": "Valkyrie's Grip (Pro)",
+   "heroGear": "발키리의손아귀",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/f/f4/Valkyrie%27sGripPro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Viking Set (Pro)",
+   "set": "바이킹세트(프로)",
+   "released": "LSU: 05.08.2021",
+   "number": 1
+ },
+ {
+   "id": 795,
+   "heroGearEnglish": "Vincent's Prize",
+   "heroGear": "빈센트의보배",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/4/4b/Vincent%27sPrize.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Vampire Set",
+   "set": "뱀파이어세트",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 796,
+   "heroGearEnglish": "Vincent's Prize",
+   "heroGear": "빈센트의보배",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/4/4b/Vincent%27sPrize.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Vampire Set",
+   "set": "뱀파이어세트",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 797,
+   "heroGearEnglish": "Vincent's Prize (Pro)",
+   "heroGear": "빈센트의보배",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/6a/Vincent%27sPrizePro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Vampire Set (Pro)",
+   "set": "뱀파이어세트(프로)",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 798,
+   "heroGearEnglish": "Vincent's Prize (Pro)",
+   "heroGear": "빈센트의보배",
+   "type": "프로",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/6/6a/Vincent%27sPrizePro.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 4,
+   "setEnglish": "Vampire Set (Pro)",
+   "set": "뱀파이어세트(프로)",
+   "released": "LSU: 07.10.2021",
+   "number": 1
+ },
+ {
+   "id": 799,
    "heroGearEnglish": "Vlad's Talisman",
    "heroGear": "블라드의부적",
    "type": "일반",
@@ -9268,7 +11186,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 663,
+   "id": 800,
    "heroGearEnglish": "Vlad's Talisman",
    "heroGear": "블라드의부적",
    "type": "일반",
@@ -9282,7 +11200,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 664,
+   "id": 801,
    "heroGearEnglish": "Warden's Deflector",
    "heroGear": "소장의반사기",
    "type": "일반",
@@ -9296,7 +11214,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 665,
+   "id": 802,
    "heroGearEnglish": "Warden's Deflector",
    "heroGear": "소장의반사기",
    "type": "일반",
@@ -9310,7 +11228,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 666,
+   "id": 803,
    "heroGearEnglish": "Warden's Deflector",
    "heroGear": "소장의반사기",
    "type": "일반",
@@ -9324,7 +11242,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 667,
+   "id": 804,
    "heroGearEnglish": "Warden's Deflector",
    "heroGear": "소장의반사기",
    "type": "일반",
@@ -9338,7 +11256,7 @@ export const data = [
    "number": 3
  },
  {
-   "id": 668,
+   "id": 805,
    "heroGearEnglish": "Warden's Fists",
    "heroGear": "소장의장갑",
    "type": "일반",
@@ -9352,7 +11270,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 669,
+   "id": 806,
    "heroGearEnglish": "Warden's Fists",
    "heroGear": "소장의장갑",
    "type": "일반",
@@ -9366,7 +11284,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 670,
+   "id": 807,
    "heroGearEnglish": "Warden's Fists",
    "heroGear": "소장의장갑",
    "type": "일반",
@@ -9380,7 +11298,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 671,
+   "id": 808,
    "heroGearEnglish": "Warden's Fists",
    "heroGear": "소장의장갑",
    "type": "일반",
@@ -9394,7 +11312,7 @@ export const data = [
    "number": 3
  },
  {
-   "id": 672,
+   "id": 809,
    "heroGearEnglish": "Warden's Helm",
    "heroGear": "소장의투구",
    "type": "일반",
@@ -9408,7 +11326,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 673,
+   "id": 810,
    "heroGearEnglish": "Warden's Helm",
    "heroGear": "소장의투구",
    "type": "일반",
@@ -9422,7 +11340,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 674,
+   "id": 811,
    "heroGearEnglish": "Warden's Helm",
    "heroGear": "소장의투구",
    "type": "일반",
@@ -9436,7 +11354,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 675,
+   "id": 812,
    "heroGearEnglish": "Warden's Helm",
    "heroGear": "소장의투구",
    "type": "일반",
@@ -9450,7 +11368,7 @@ export const data = [
    "number": 3
  },
  {
-   "id": 676,
+   "id": 813,
    "heroGearEnglish": "Warden's Sabatons",
    "heroGear": "소장의신발덮개",
    "type": "일반",
@@ -9464,7 +11382,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 677,
+   "id": 814,
    "heroGearEnglish": "Warden's Sabatons",
    "heroGear": "소장의신발덮개",
    "type": "일반",
@@ -9478,7 +11396,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 678,
+   "id": 815,
    "heroGearEnglish": "Warden's Sabatons",
    "heroGear": "소장의신발덮개",
    "type": "일반",
@@ -9492,7 +11410,7 @@ export const data = [
    "number": 2
  },
  {
-   "id": 679,
+   "id": 816,
    "heroGearEnglish": "Warden's Sabatons",
    "heroGear": "소장의신발덮개",
    "type": "일반",
@@ -9506,7 +11424,7 @@ export const data = [
    "number": 3
  },
  {
-   "id": 680,
+   "id": 817,
    "heroGearEnglish": "Wealth and Power",
    "heroGear": "부와권능",
    "type": "일반",
@@ -9520,7 +11438,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 681,
+   "id": 818,
    "heroGearEnglish": "Wealth and Power",
    "heroGear": "부와권능",
    "type": "일반",
@@ -9534,7 +11452,35 @@ export const data = [
    "number": 2
  },
  {
-   "id": 682,
+   "id": 819,
+   "heroGearEnglish": "Whammerhead",
+   "heroGear": "귀상어뽕망치",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/2/2f/Whammerhead.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 5,
+   "setEnglish": "Oddball Set I",
+   "set": "괴짜세트1",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 820,
+   "heroGearEnglish": "Whammerhead",
+   "heroGear": "귀상어뽕망치",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/2/2f/Whammerhead.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 6,
+   "setEnglish": "Oddball Set I",
+   "set": "괴짜세트1",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 821,
    "heroGearEnglish": "Witching Hour",
    "heroGear": "마의시간",
    "type": "일반",
@@ -9548,7 +11494,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 683,
+   "id": 822,
    "heroGearEnglish": "Witching Hour",
    "heroGear": "마의시간",
    "type": "일반",
@@ -9562,7 +11508,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 684,
+   "id": 823,
    "heroGearEnglish": "Witching Hour (Pro)",
    "heroGear": "마의시간",
    "type": "프로",
@@ -9576,7 +11522,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 685,
+   "id": 824,
    "heroGearEnglish": "Witching Hour (Pro)",
    "heroGear": "마의시간",
    "type": "프로",
@@ -9590,7 +11536,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 686,
+   "id": 825,
    "heroGearEnglish": "Wolf's Bane",
    "heroGear": "늑대의파멸",
    "type": "일반",
@@ -9604,7 +11550,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 687,
+   "id": 826,
    "heroGearEnglish": "Wolf's Bane (Pro)",
    "heroGear": "늑대의파멸",
    "type": "프로",
@@ -9618,7 +11564,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 688,
+   "id": 827,
    "heroGearEnglish": "Wool Mittens",
    "heroGear": "양모벙어리장갑",
    "type": "일반",
@@ -9632,7 +11578,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 689,
+   "id": 828,
    "heroGearEnglish": "Wool Mittens",
    "heroGear": "양모벙어리장갑",
    "type": "일반",
@@ -9646,7 +11592,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 690,
+   "id": 829,
    "heroGearEnglish": "Wool Mittens (Pro)",
    "heroGear": "양모벙어리장갑",
    "type": "프로",
@@ -9660,7 +11606,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 691,
+   "id": 830,
    "heroGearEnglish": "Wool Mittens (Pro)",
    "heroGear": "양모벙어리장갑",
    "type": "프로",
@@ -9674,7 +11620,21 @@ export const data = [
    "number": 1
  },
  {
-   "id": 692,
+   "id": 831,
+   "heroGearEnglish": "Wrath",
+   "heroGear": "분노의도끼",
+   "type": "일반",
+   "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/3/3f/Wrath.png",
+   "collectionEnglish": "Hero Items",
+   "collection": "영웅아이템",
+   "level": 3,
+   "setEnglish": "Reaper Set (Pro)",
+   "set": "수확자세트(프로)",
+   "released": "LSU: 02.09.2021",
+   "number": 1
+ },
+ {
+   "id": 832,
    "heroGearEnglish": "Wunorse's Endurance",
    "heroGear": "우노스의참을성",
    "type": "일반",
@@ -9688,7 +11648,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 693,
+   "id": 833,
    "heroGearEnglish": "Wunorse's Endurance",
    "heroGear": "우노스의참을성",
    "type": "일반",
@@ -9702,7 +11662,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 694,
+   "id": 834,
    "heroGearEnglish": "Wunorse's Endurance (Pro)",
    "heroGear": "우노스의참을성",
    "type": "프로",
@@ -9716,7 +11676,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 695,
+   "id": 835,
    "heroGearEnglish": "Wunorse's Endurance (Pro)",
    "heroGear": "우노스의참을성",
    "type": "프로",
@@ -9730,7 +11690,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 696,
+   "id": 836,
    "heroGearEnglish": "Zelos Armor (Pro)",
    "heroGear": "젤로스갑옷",
    "type": "프로",
@@ -9744,7 +11704,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 697,
+   "id": 837,
    "heroGearEnglish": "Zelos Armor (Pro)",
    "heroGear": "젤로스갑옷",
    "type": "프로",
@@ -9758,7 +11718,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 698,
+   "id": 838,
    "heroGearEnglish": "Zelos Belt (Pro)",
    "heroGear": "젤로스벨트",
    "type": "프로",
@@ -9772,7 +11732,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 699,
+   "id": 839,
    "heroGearEnglish": "Zelos Belt (Pro)",
    "heroGear": "젤로스벨트",
    "type": "프로",
@@ -9786,7 +11746,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 700,
+   "id": 840,
    "heroGearEnglish": "Zelos Boots (Pro)",
    "heroGear": "젤로스부츠",
    "type": "프로",
@@ -9800,7 +11760,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 701,
+   "id": 841,
    "heroGearEnglish": "Zelos Boots (Pro)",
    "heroGear": "젤로스부츠",
    "type": "프로",
@@ -9814,7 +11774,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 702,
+   "id": 842,
    "heroGearEnglish": "Zelos Cape (Pro)",
    "heroGear": "젤로스망토",
    "type": "프로",
@@ -9828,7 +11788,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 703,
+   "id": 843,
    "heroGearEnglish": "Zelos Cape (Pro)",
    "heroGear": "젤로스망토",
    "type": "프로",
@@ -9842,7 +11802,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 704,
+   "id": 844,
    "heroGearEnglish": "Zelos Gloves (Pro)",
    "heroGear": "젤로스장갑",
    "type": "프로",
@@ -9856,7 +11816,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 705,
+   "id": 845,
    "heroGearEnglish": "Zelos Gloves (Pro)",
    "heroGear": "젤로스장갑",
    "type": "프로",
@@ -9870,7 +11830,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 706,
+   "id": 846,
    "heroGearEnglish": "Zelos Gloves (Pro)",
    "heroGear": "젤로스장갑",
    "type": "프로",
@@ -9884,7 +11844,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 707,
+   "id": 847,
    "heroGearEnglish": "Zelos Helmet (Pro)",
    "heroGear": "젤로스투구",
    "type": "프로",
@@ -9898,7 +11858,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 708,
+   "id": 848,
    "heroGearEnglish": "Zelos Helmet (Pro)",
    "heroGear": "젤로스투구",
    "type": "프로",
@@ -9912,7 +11872,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 709,
+   "id": 849,
    "heroGearEnglish": "Zelos Pauldrons (Pro)",
    "heroGear": "젤로스견갑",
    "type": "프로",
@@ -9926,7 +11886,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 710,
+   "id": 850,
    "heroGearEnglish": "Zelos Pauldrons (Pro)",
    "heroGear": "젤로스견갑",
    "type": "프로",
@@ -9940,7 +11900,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 711,
+   "id": 851,
    "heroGearEnglish": "Zelos Ring (Pro)",
    "heroGear": "젤로스반지",
    "type": "프로",
@@ -9954,7 +11914,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 712,
+   "id": 852,
    "heroGearEnglish": "Zelos Ring (Pro)",
    "heroGear": "젤로스반지",
    "type": "프로",
@@ -9968,7 +11928,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 713,
+   "id": 853,
    "heroGearEnglish": "Zelos Sword (Pro)",
    "heroGear": "젤로스검",
    "type": "프로",
@@ -9982,7 +11942,7 @@ export const data = [
    "number": 1
  },
  {
-   "id": 714,
+   "id": 854,
    "heroGearEnglish": "Zelos Sword (Pro)",
    "heroGear": "젤로스검",
    "type": "프로",
