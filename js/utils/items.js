@@ -9522,7 +9522,7 @@ export const data = [
  {
    "id": 681,
    "heroGearEnglish": "Sigurd's Burden",
-   "heroGear": "시구문드의짐",
+   "heroGear": "시구르드의짐",
    "type": "일반",
    "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/0e/Sigurd%27sBurden.png",
    "collectionEnglish": "Runes",
