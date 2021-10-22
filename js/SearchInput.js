@@ -26,7 +26,7 @@ export default class SearchInput {
 			
 			if (e.target.value.length > 1) {
 				e.preventDefault();
-				onInput(e.target.value, this.type);
+				onInput(e.target.value.toLowerCase(), this.type);
 			}
 		});
 
