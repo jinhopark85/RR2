@@ -3,8 +3,8 @@ export const SearchResultTemplate = (results, option) => {
 		.map((result) => {
 			const { heroGear, type, url, collection, level, set, number } = result;
 			let selectedType = "Type";
-			if (option === "Normal") {
-				selectedType = "일반";
+			if (option === "Uber") {
+				selectedType = "우버";
 			} else if (option === "Pro") {
 				selectedType = "프로";
 			}
