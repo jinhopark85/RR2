@@ -2011,7 +2011,7 @@ export const data = [
     "collection": "영웅아이템",
     "level": 2,
     "setEnglish": "Spell Power Set III",
-    "set": "마법위력세트3",
+    "set": "화염폭풍세트",
     "released": "LSU: 06.05.2021",
     "number": 1
   },
@@ -2025,7 +2025,7 @@ export const data = [
     "collection": "영웅아이템",
     "level": 3,
     "setEnglish": "Spell Power Set III",
-    "set": "마법위력세트3",
+    "set": "화염폭풍세트",
     "released": "LSU: 06.05.2021",
     "number": 2
   },
@@ -3005,7 +3005,7 @@ export const data = [
     "collection": "영웅아이템",
     "level": 1,
     "setEnglish": "Spell Power Set III",
-    "set": "마법위력세트3",
+    "set": "화염폭풍세트",
     "released": "LSU: 06.05.2021",
     "number": 1
   },
@@ -3019,7 +3019,7 @@ export const data = [
     "collection": "영웅아이템",
     "level": 3,
     "setEnglish": "Spell Power Set III",
-    "set": "마법위력세트3",
+    "set": "화염폭풍세트",
     "released": "LSU: 06.05.2021",
     "number": 2
   },
@@ -5553,7 +5553,7 @@ export const data = [
     "collection": "영웅아이템",
     "level": 2,
     "setEnglish": "Spell Power Set III",
-    "set": "마법위력세트3",
+    "set": "화염폭풍세트",
     "released": "LSU: 06.05.2021",
     "number": 1
   },
@@ -5581,7 +5581,7 @@ export const data = [
     "collection": "영웅아이템",
     "level": 4,
     "setEnglish": "Spell Power Set III",
-    "set": "마법위력세트3",
+    "set": "화염폭풍세트",
     "released": "LSU: 07.10.2021",
     "number": 1
   },
@@ -9067,7 +9067,7 @@ export const data = [
     "collection": "영웅아이템",
     "level": 4,
     "setEnglish": "Spell Power Set III",
-    "set": "마법위력세트3",
+    "set": "화염폭풍세트",
     "released": "LSU: 07.10.2021",
     "number": 1
   },
@@ -9095,7 +9095,7 @@ export const data = [
     "collection": "영웅아이템",
     "level": 4,
     "setEnglish": "Spell Power Set III",
-    "set": "마법위력세트3",
+    "set": "화염폭풍세트",
     "released": "LSU: 07.10.2021",
     "number": 1
   },
@@ -13273,6 +13273,147 @@ export const data = [
     "released": "LSU: 07.06.2025",
     "number": 5
   }
-  
+  {
+    "id": 954,
+    "heroGearEnglish": "Brimstone Band",
+    "heroGear": "유황고리",
+    "type": "일반",
+    "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b5/BrimstoneBand.png",
+    "collectionEnglish": "Hero Items",
+    "collection": "영웅아이템",
+    "level": 5,
+    "setEnglish": "Spell Power Set III",
+    "set": "화염폭풍세트",
+    "released": "LSU: 07.06.2025",
+    "number": 4
+  },
+  {
+    "id": 956,
+    "heroGearEnglish": "Cindercrown",
+    "heroGear": "잿빛왕관",
+    "type": "일반",
+    "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/3/35/Cindercrown.png",
+    "collectionEnglish": "Hero Items",
+    "collection": "영웅아이템",
+    "level": 5,
+    "setEnglish": "Spell Power Set III",
+    "set": "화염폭풍세트",
+    "released": "LSU: 07.06.2025",
+    "number": 4
+  },
+  {
+    "id": 958,
+    "heroGearEnglish": "Ghastly Lantern",
+    "heroGear": "섬뜩한랜턴",
+    "type": "일반",
+    "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/bb/GhastlyLantern.png",
+    "collectionEnglish": "Hero Items",
+    "collection": "영웅아이템",
+    "level": 5,
+    "setEnglish": "Spell Power Set III",
+    "set": "화염폭풍세트",
+    "released": "LSU: 07.06.2025",
+    "number": 1
+  },
+  {
+    "id": 960,
+    "heroGearEnglish": "Purgatory",
+    "heroGear": "연옥",
+    "type": "일반",
+    "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d3/Purgatory.png",
+    "collectionEnglish": "Hero Items",
+    "collection": "영웅아이템",
+    "level": 5,
+    "setEnglish": "Spell Power Set III",
+    "set": "화염폭풍세트",
+    "released": "LSU: 07.06.2025",
+    "number": 1
+  },
+  {
+    "id": 962,
+    "heroGearEnglish": "Purgatory (Pro)",
+    "heroGear": "연옥",
+    "type": "프로",
+    "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/09/PurgatoryPro.png",
+    "collectionEnglish": "Hero Items",
+    "collection": "영웅아이템",
+    "level": 5,
+    "setEnglish": "Spell Power Set III",
+    "set": "화염폭풍세트",
+    "released": "LSU: 07.06.2025",
+    "number": 1
+  },
+  {
+    "id": 964,
+    "heroGearEnglish": "Brimstone Band",
+    "heroGear": "유황고리",
+    "type": "일반",
+    "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/b5/BrimstoneBand.png",
+    "collectionEnglish": "Hero Items",
+    "collection": "영웅아이템",
+    "level": 6,
+    "setEnglish": "Spell Power Set III",
+    "set": "화염폭풍세트",
+    "released": "LSU: 07.06.2025",
+    "number": 5
+  },
+  {
+    "id": 966,
+    "heroGearEnglish": "Cindercrown",
+    "heroGear": "잿빛왕관",
+    "type": "일반",
+    "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/3/35/Cindercrown.png",
+    "collectionEnglish": "Hero Items",
+    "collection": "영웅아이템",
+    "level": 6,
+    "setEnglish": "Spell Power Set III",
+    "set": "화염폭풍세트",
+    "released": "LSU: 07.06.2025",
+    "number": 5
+  },
+  {
+    "id": 968,
+    "heroGearEnglish": "Ghastly Lantern",
+    "heroGear": "섬뜩한랜턴",
+    "type": "일반",
+    "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/b/bb/GhastlyLantern.png",
+    "collectionEnglish": "Hero Items",
+    "collection": "영웅아이템",
+    "level": 6,
+    "setEnglish": "Spell Power Set III",
+    "set": "화염폭풍세트",
+    "released": "LSU: 07.06.2025",
+    "number": 5
+  },
+  {
+    "id": 970,
+    "heroGearEnglish": "Purgatory",
+    "heroGear": "연옥",
+    "type": "일반",
+    "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/d/d3/Purgatory.png",
+    "collectionEnglish": "Hero Items",
+    "collection": "영웅아이템",
+    "level": 6,
+    "setEnglish": "Spell Power Set III",
+    "set": "화염폭풍세트",
+    "released": "LSU: 07.06.2025",
+    "number": 5
+  },
+  {
+    "id": 972,
+    "heroGearEnglish": "Purgatory (Pro)",
+    "heroGear": "연옥",
+    "type": "프로",
+    "url": "https://static.wikia.nocookie.net/royal-revolt-2/images/0/09/PurgatoryPro.png",
+    "collectionEnglish": "Hero Items",
+    "collection": "영웅아이템",
+    "level": 6,
+    "setEnglish": "Spell Power Set III",
+    "set": "화염폭풍세트",
+    "released": "LSU: 07.06.2025",
+    "number": 5
+  }
+    
+    
   
 ];
