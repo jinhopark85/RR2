@@ -13272,7 +13272,7 @@ export const data = [
     "set": "독구름세트",
     "released": "LSU: 07.06.2025",
     "number": 5
-  },
+  }
   
   
 ];
